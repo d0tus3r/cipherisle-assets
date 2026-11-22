@@ -6,6 +6,7 @@
     python daily.py --date 2026-12-25
 
 today/quote.jpg, today/quote-answer.jpg, today/verse.jpg, today/verse-answer.jpg   (1600x1000)
+today/*-m.jpg   the same for phones (1000x1500)
 week/1.jpg ... week/7.jpg   yesterday back to a week ago, solved (800x800)
 """
 import argparse
@@ -76,9 +77,9 @@ def wrap(d, text, f, max_w):
     return lines + [cur] if cur else lines
 
 
-def puzzle(item, title, day, seed, solved):
-    """A cryptogram laid out like the books: code letter under a line you'd write the answer on."""
-    W, H = 1600, 1000
+def puzzle(item, title, day, seed, solved, W=1600, H=1000):
+    """A cryptogram laid out like the books: code letter under a line you'd write the answer on.
+    1600x1000 for desktop; 1000x1500 for phones, where the letters need to be bigger."""
     c = background(W, H, seed)
     d = ImageDraw.Draw(c)
     centered(d, 60, title.upper(), font("Cardo-Bold.ttf", 34), BRASS, W)
@@ -87,8 +88,8 @@ def puzzle(item, title, day, seed, solved):
     enc = cipher(text, seed)
     words = list(zip(text.upper().split(), enc.split()))
     hint = next((ch for ch in sorted(set(enc), key=lambda x: -enc.count(x)) if ch.isalpha()), None)
-    box_w, box_h = W - 200, 640
-    for cw in range(64, 22, -2):                     # biggest cells that fit
+    box_w, box_h = W - (200 if W > H else 90), H - 360
+    for cw in range(64 if W > H else 110, 22, -2):                     # biggest cells that fit
         gap, rowh = cw * 0.6, cw * 2.3
         rows, cur, x = [], [], 0
         for pw, cw_ in words:
@@ -101,7 +102,7 @@ def puzzle(item, title, day, seed, solved):
         rows.append(cur)
         if len(rows) * rowh <= box_h:
             break
-    fa, fc = font("Cardo-Bold.ttf", int(cw * 0.78)), font("Cardo-Regular.ttf", int(cw * 0.5))
+    fa, fc = font("Cardo-Bold.ttf", int(cw * 0.78)), font("Cardo-Regular.ttf", int(cw * (0.5 if W > H else 0.58)))
     y = 180 + (box_h - len(rows) * rowh) / 2
     for row in rows:
         rw = sum(len(p) * cw for p, _ in row) + gap * (len(row) - 1)
@@ -120,9 +121,11 @@ def puzzle(item, title, day, seed, solved):
             x += gap
         y += rowh
     fi = font("CrimsonText-Italic.ttf", 40)
-    centered(d, 840, "— " + item["credit"], fi, BRASS, W)
+    centered(d, H - 160, "— " + item["credit"], fi, BRASS, W)
     foot = "Solved" if solved else f"Hint: {hint} = {text.upper()[enc.index(hint)]}   ·   each letter stands for another"
-    centered(d, 910, foot, font("Cardo-Regular.ttf", 28), SILVER, W)
+    if W < H and not solved:
+        foot = f"Hint: {hint} = {text.upper()[enc.index(hint)]}"
+    centered(d, H - 90, foot, font("Cardo-Regular.ttf", 28), SILVER, W)
     return c
 
 
@@ -163,6 +166,8 @@ def main():
             seed = f"{day}-{feed}"
             save(puzzle(items[feed], title, day, seed, False), HERE / "today" / f"{feed}.jpg")
             save(puzzle(items[feed], title, day, seed, True), HERE / "today" / f"{feed}-answer.jpg")
+            save(puzzle(items[feed], title, day, seed, False, 1000, 1500), HERE / "today" / f"{feed}-m.jpg")
+            save(puzzle(items[feed], title, day, seed, True, 1000, 1500), HERE / "today" / f"{feed}-answer-m.jpg")
     for k in range(1, 8):
         past = day - timedelta(days=k)
         it = calendar(past).get("quote")
