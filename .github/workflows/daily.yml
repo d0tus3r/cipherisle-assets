@@ -1,0 +1,23 @@
+name: Of the day
+on:
+  schedule:
+    - cron: "7 5 * * *"     # 12:07 am US Eastern (1:07 am in summer)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python daily.py
+      - run: |
+          git config user.name "cipherisle-bot"
+          git config user.email "cipherisle@gmail.com"
+          git add today week
+          git commit -m "Of the day: $(cat today/date.txt)" || echo "nothing new"
+          git push

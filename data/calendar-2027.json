@@ -1,0 +1,4394 @@
+{
+ "format": "cipherisle-daily/1",
+ "year": 2027,
+ "feeds": [
+  "quote",
+  "verse"
+ ],
+ "titles": {
+  "quote": "Quote of the Day",
+  "verse": "Bible Verse of the Day"
+ },
+ "days": {
+  "2027-01-01": {
+   "quote": {
+    "text": "Nature bestows upon us all this immense advantage, that the light of virtue shines into the minds of all alike; even those who do not follow her, behold her.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73918"
+   },
+   "verse": {
+    "text": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock.",
+    "credit": "Matthew 7:24",
+    "id": "Q106152"
+   }
+  },
+  "2027-01-02": {
+   "quote": {
+    "text": "The duration of man's life is but an instant; his substance is fleeting, his senses dull; the structure of his body corruptible; the soul but a vortex.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105692"
+   },
+   "verse": {
+    "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.",
+    "credit": "Psalm 5:3",
+    "id": "Q106313"
+   }
+  },
+  "2027-01-03": {
+   "quote": {
+    "text": "A man will not readily confess that he is intemperate; and that he is unjust, he will not confess at all.",
+    "credit": "Epictetus",
+    "id": "Q105851"
+   },
+   "verse": {
+    "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+    "credit": "2 Corinthians 5:17",
+    "id": "Q106232"
+   }
+  },
+  "2027-01-04": {
+   "quote": {
+    "text": "The common benefits of laws, privileges, communities, letters, and medicines, are permitted to the bad as well as to the good; and no man ever yet suppressed a sovereign remedy for fear a wicked man might be cured with it.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76182"
+   },
+   "verse": {
+    "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+    "credit": "Ephesians 2:10",
+    "id": "Q106241"
+   }
+  },
+  "2027-01-05": {
+   "quote": {
+    "text": "Whatever this is that I am, it is a little flesh and breath, and the ruling part.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74092"
+   },
+   "verse": {
+    "text": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+    "credit": "Psalm 98:4",
+    "id": "Q106414"
+   }
+  },
+  "2027-01-06": {
+   "quote": {
+    "text": "My mother brought me into the world naked, exposed, and void of reason; but my reputation and my fortune are advanced by my virtue.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76161"
+   },
+   "verse": {
+    "text": "For, lo, the winter is past, the rain is over and gone; The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land.",
+    "credit": "Song of Solomon 2:11–12",
+    "id": "Q106093"
+   }
+  },
+  "2027-01-07": {
+   "quote": {
+    "text": "The man who is a man indeed should not set his heart on living through a few more years of life, nor should he make that the end of his desire.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105647"
+   },
+   "verse": {
+    "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+    "credit": "Isaiah 40:8",
+    "id": "Q106099"
+   }
+  },
+  "2027-01-08": {
+   "quote": {
+    "text": "Seemeth it nothing to you, never to accuse, never to blame either God or Man? to wear ever the same countenance in going forth as in coming in?",
+    "credit": "Epictetus",
+    "id": "Q105577"
+   },
+   "verse": {
+    "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
+    "credit": "Proverbs 3:24",
+    "id": "Q106490"
+   }
+  },
+  "2027-01-09": {
+   "quote": {
+    "text": "A wicked man will run all risks to do an injury, and to compass his revenge; and shall not an honest man venture as far to do a good office?",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76137"
+   },
+   "verse": {
+    "text": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.",
+    "credit": "Psalm 111:10",
+    "id": "Q106430"
+   }
+  },
+  "2027-01-10": {
+   "quote": {
+    "text": "If any one can convince or shew me that I am wrong in thought or deed, I will gladly change. It is truth that I seek; and truth never yet hurt any man.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105710"
+   },
+   "verse": {
+    "text": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+    "credit": "Nahum 1:7",
+    "id": "Q106125"
+   }
+  },
+  "2027-01-11": {
+   "quote": {
+    "text": "No wind that blew was bitterer than he, no falling snow was more intent upon its purpose, no pelting rain less open to entreaty.",
+    "credit": "Charles Dickens",
+    "id": "Q106049"
+   },
+   "verse": {
+    "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+    "credit": "Psalm 9:9",
+    "id": "Q106318"
+   }
+  },
+  "2027-01-12": {
+   "quote": {
+    "text": "A plain-dealing sincerity of manners makes a man's life happy, even in despite of scorn and contempt, which is every clear man's fate.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76099"
+   },
+   "verse": {
+    "text": "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.",
+    "credit": "Genesis 50:20",
+    "id": "Q106067"
+   }
+  },
+  "2027-01-13": {
+   "quote": {
+    "text": "There are things which are within our power, and there are things which are beyond our power.",
+    "credit": "Epictetus",
+    "id": "Q75917"
+   },
+   "verse": {
+    "text": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+    "credit": "1 Peter 4:8",
+    "id": "Q106287"
+   }
+  },
+  "2027-01-14": {
+   "quote": {
+    "text": "To do nothing rashly without some certain end; let that be thy first care. The next, to have no other end than the common good.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3291"
+   },
+   "verse": {
+    "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
+    "credit": "Proverbs 4:23",
+    "id": "Q106494"
+   }
+  },
+  "2027-01-15": {
+   "quote": {
+    "text": "How terrible is death to one man, which to another appears the greatest providence in nature, even toward all ages and conditions!",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76103"
+   },
+   "verse": {
+    "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+    "credit": "Revelation 21:4",
+    "id": "Q106305"
+   }
+  },
+  "2027-01-16": {
+   "quote": {
+    "text": "The ambitious supposeth another man's act, praise and applause, to be his own happiness; the voluptuous his own sense and feeling; but he that is wise, his own action.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3268"
+   },
+   "verse": {
+    "text": "Set a watch, O LORD, before my mouth; keep the door of my lips.",
+    "credit": "Psalm 141:3",
+    "id": "Q106470"
+   }
+  },
+  "2027-01-17": {
+   "quote": {
+    "text": "If we do nothing but what is honest, let all the world know it; but if otherwise, what does it signify to have nobody else know it, so long as I know it myself?",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76141"
+   },
+   "verse": {
+    "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+    "credit": "1 Corinthians 10:13",
+    "id": "Q106223"
+   }
+  },
+  "2027-01-18": {
+   "quote": {
+    "text": "For the heart of a bad man is faithless, unprincipled, inconstant: now overpowered by one impression, now by another.",
+    "credit": "Epictetus",
+    "id": "Q105576"
+   },
+   "verse": {
+    "text": "And ye shall know the truth, and the truth shall make you free.",
+    "credit": "John 8:32",
+    "id": "Q106189"
+   }
+  },
+  "2027-01-19": {
+   "quote": {
+    "text": "We must make haste, then, not only because we are daily nearer to death, but also because the conception of things and the understanding of them cease first.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74094"
+   },
+   "verse": {
+    "text": "But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.",
+    "credit": "Matthew 19:26",
+    "id": "Q106159"
+   }
+  },
+  "2027-01-20": {
+   "quote": {
+    "text": "It is the edge and temper of the blade that makes a good sword, not the richness of the scabbard: and so it is not money or possessions, that makes a man considerable, but his virtue.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76143"
+   },
+   "verse": {
+    "text": "Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven.",
+    "credit": "Luke 6:37",
+    "id": "Q106177"
+   }
+  },
+  "2027-01-21": {
+   "quote": {
+    "text": "Whatever is beautiful at all is beautiful in itself. Its beauty ends there, and praise has no part in it.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105664"
+   },
+   "verse": {
+    "text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
+    "credit": "Psalm 50:15",
+    "id": "Q106368"
+   }
+  },
+  "2027-01-22": {
+   "quote": {
+    "text": "Know you not that a good man does nothing for the sake of appearance, but for the sake of doing right?",
+    "credit": "Epictetus",
+    "id": "Q105907"
+   },
+   "verse": {
+    "text": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
+    "credit": "Proverbs 12:25",
+    "id": "Q106511"
+   }
+  },
+  "2027-01-23": {
+   "quote": {
+    "text": "A fool possesses all vices, but he is not equally inclined by nature to all; one is prone to avarice, another to luxury, and another to insolence.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73922"
+   },
+   "verse": {
+    "text": "He that loveth not knoweth not God; for God is love.",
+    "credit": "1 John 4:8",
+    "id": "Q106295"
+   }
+  },
+  "2027-01-24": {
+   "quote": {
+    "text": "Man, God, the world, every one in their kind, bear some fruits. All things have their proper time to bear.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3279"
+   },
+   "verse": {
+    "text": "For as the heaven is high above the earth, so great is his mercy toward them that fear him.",
+    "credit": "Psalm 103:11",
+    "id": "Q106422"
+   }
+  },
+  "2027-01-25": {
+   "quote": {
+    "text": "Whoever observes the world, and the order of it, will find all the motions in it to be only vicissitudes of falling and rising; nothing extinguished, and even those things which seem to us to perish are in truth but changed.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76050"
+   },
+   "verse": {
+    "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+    "credit": "Romans 12:2",
+    "id": "Q106218"
+   }
+  },
+  "2027-01-26": {
+   "quote": {
+    "text": "Each man is improved and preserved by corresponding acts, the carpenter by acts of carpentry, the grammarian by acts of grammar.",
+    "credit": "Epictetus",
+    "id": "Q105929"
+   },
+   "verse": {
+    "text": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+    "credit": "Psalm 91:11",
+    "id": "Q106404"
+   }
+  },
+  "2027-01-27": {
+   "quote": {
+    "text": "Never esteem aught of advantage which will oblige you to break your faith, or to desert your honour; to hate, to suspect, or to execrate any man; to play a part; or to set your mind on anything that needs to be hidden by wall or curtain.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105661"
+   },
+   "verse": {
+    "text": "A sound heart is the life of the flesh: but envy the rottenness of the bones.",
+    "credit": "Proverbs 14:30",
+    "id": "Q106516"
+   }
+  },
+  "2027-01-28": {
+   "quote": {
+    "text": "I will do all I can to hinder any man from ill-doing, but especially a friend; and yet more especially from doing ill to me.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76176"
+   },
+   "verse": {
+    "text": "In the multitude of my thoughts within me thy comforts delight my soul.",
+    "credit": "Psalm 94:19",
+    "id": "Q106406"
+   }
+  },
+  "2027-01-29": {
+   "quote": {
+    "text": "Whatever happens, Nature has either formed you able to bear it or unable. If able, then bear it as Nature has made you able, and fret not.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105678"
+   },
+   "verse": {
+    "text": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
+    "credit": "1 Thessalonians 5:11",
+    "id": "Q106257"
+   }
+  },
+  "2027-01-30": {
+   "quote": {
+    "text": "It is a foolish thing to be miserable beforehand for fear of misery to come; for a man loses the present, which he might enjoy, in expectation of the future: nay, the fear of losing anything is as bad as the loss itself.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76102"
+   },
+   "verse": {
+    "text": "The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands.",
+    "credit": "Psalm 138:8",
+    "id": "Q106466"
+   }
+  },
+  "2027-01-31": {
+   "quote": {
+    "text": "In theory it is easy to convince an ignorant person: in actual life, men not only object to offer themselves to be convinced, but hate the man who has convinced them.",
+    "credit": "Epictetus",
+    "id": "Q105556"
+   },
+   "verse": {
+    "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+    "credit": "Exodus 3:14",
+    "id": "Q106068"
+   }
+  },
+  "2027-02-01": {
+   "quote": {
+    "text": "It is true, a man may fear, and yet not be fearful; which is no more than to have the affection of fear without the vice of it; but yet a frequent admittance of it runs into a habit.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76146"
+   },
+   "verse": {
+    "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+    "credit": "Matthew 5:3",
+    "id": "Q106133"
+   }
+  },
+  "2027-02-02": {
+   "quote": {
+    "text": "Of all unreasonable creatures, there is but one unreasonable soul; and of all that are reasonable, but one reasonable soul, divided betwixt them all.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3241"
+   },
+   "verse": {
+    "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
+    "credit": "Proverbs 15:1",
+    "id": "Q106517"
+   }
+  },
+  "2027-02-03": {
+   "quote": {
+    "text": "An illustrious mind does not propose the profit of a good office, but the duty.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76186"
+   },
+   "verse": {
+    "text": "The LORD is good to all: and his tender mercies are over all his works.",
+    "credit": "Psalm 145:9",
+    "id": "Q106475"
+   }
+  },
+  "2027-02-04": {
+   "quote": {
+    "text": "All men are made one for another: either then teach them better, or bear with them.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3240"
+   },
+   "verse": {
+    "text": "The eternal God is thy refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them.",
+    "credit": "Deuteronomy 33:27",
+    "id": "Q106076"
+   }
+  },
+  "2027-02-05": {
+   "quote": {
+    "text": "Friend, bethink you first what it is you would do, and then what your own nature is able to bear.",
+    "credit": "Epictetus",
+    "id": "Q105579"
+   },
+   "verse": {
+    "text": "I will lift up mine eyes unto the hills, from whence cometh my help. My help cometh from the LORD, which made heaven and earth.",
+    "credit": "Psalm 121:1–2",
+    "id": "Q106452"
+   }
+  },
+  "2027-02-06": {
+   "quote": {
+    "text": "We must not judge of a man by his ornaments, but strip him of all the advantages and the impostures of Fortune, nay, of his very body too, and look into his mind.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76057"
+   },
+   "verse": {
+    "text": "And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.",
+    "credit": "Isaiah 30:21",
+    "id": "Q106098"
+   }
+  },
+  "2027-02-07": {
+   "quote": {
+    "text": "The accompaniments of bathing: oil, sweat, filth, foul water — how nauseous are they all! Even so is every part of life, and everything that meets us.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105719"
+   },
+   "verse": {
+    "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men.",
+    "credit": "Colossians 3:23",
+    "id": "Q106256"
+   }
+  },
+  "2027-02-08": {
+   "quote": {
+    "text": "We must think of everything, expect everything, that we may not be surprised.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76134"
+   },
+   "verse": {
+    "text": "In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.",
+    "credit": "Proverbs 10:19",
+    "id": "Q106501"
+   }
+  },
+  "2027-02-09": {
+   "quote": {
+    "text": "Not in our power are all the elements which constitute our environment, such as wealth, health, reputation, social prestige, power, the lives of those we love, and death.",
+    "credit": "Epictetus",
+    "id": "Q75912"
+   },
+   "verse": {
+    "text": "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance.",
+    "credit": "Psalm 33:12",
+    "id": "Q106344"
+   }
+  },
+  "2027-02-10": {
+   "quote": {
+    "text": "With respect to that which happens conformably to nature, we ought to blame neither gods, for they do nothing wrong either voluntarily or involuntarily, nor men, for they do nothing wrong except involuntarily.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74133"
+   },
+   "verse": {
+    "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us.",
+    "credit": "Hebrews 12:1",
+    "id": "Q106269"
+   }
+  },
+  "2027-02-11": {
+   "quote": {
+    "text": "Father is so much kinder than he used to be, that home's like Heaven!",
+    "credit": "Charles Dickens",
+    "id": "Q106052"
+   },
+   "verse": {
+    "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.",
+    "credit": "Psalm 40:3",
+    "id": "Q106361"
+   }
+  },
+  "2027-02-12": {
+   "quote": {
+    "text": "If death be at any time to be feared, it is always to be feared; but the way never to fear it, is to be often thinking of it.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76116"
+   },
+   "verse": {
+    "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+    "credit": "Micah 6:8",
+    "id": "Q106124"
+   }
+  },
+  "2027-02-13": {
+   "quote": {
+    "text": "Add to the reckoning all whom thou hast known, one after another. One man after burying another has been laid out dead, and another buries him; and all this in a short time.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74096"
+   },
+   "verse": {
+    "text": "God is our refuge and strength, a very present help in trouble.",
+    "credit": "Psalm 46:1",
+    "id": "Q106364"
+   }
+  },
+  "2027-02-14": {
+   "quote": {
+    "text": "It is the property of a great and good mind to covet, not the fruit of good deeds, but good deeds themselves, and to seek for a good man even after having met with bad men.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73934"
+   },
+   "verse": {
+    "text": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth.",
+    "credit": "Proverbs 27:1",
+    "id": "Q106549"
+   }
+  },
+  "2027-02-15": {
+   "quote": {
+    "text": "Take away then aversion from all things which are not in our power, and transfer it to the things contrary to nature which are in our power.",
+    "credit": "Epictetus",
+    "id": "Q105956"
+   },
+   "verse": {
+    "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+    "credit": "Ecclesiastes 12:13",
+    "id": "Q106092"
+   }
+  },
+  "2027-02-16": {
+   "quote": {
+    "text": "It is in thy power absolutely to exclude all manner of conceit and opinion, as concerning this matter; and by the same means, to exclude all grief and sorrow from thy soul.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3304"
+   },
+   "verse": {
+    "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+    "credit": "James 1:12",
+    "id": "Q106276"
+   }
+  },
+  "2027-02-17": {
+   "quote": {
+    "text": "Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business.",
+    "credit": "Marley's Ghost",
+    "id": "Q0044"
+   },
+   "verse": {
+    "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+    "credit": "Matthew 22:37",
+    "id": "Q106160"
+   }
+  },
+  "2027-02-18": {
+   "quote": {
+    "text": "Let us never wonder at anything we are born to; for no man has reason to complain, where we are all in the same condition.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76107"
+   },
+   "verse": {
+    "text": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.",
+    "credit": "Acts 16:31",
+    "id": "Q106204"
+   }
+  },
+  "2027-02-19": {
+   "quote": {
+    "text": "Nothing can befall a man which is not human fortune. Nothing can happen to an ox, to a vine, or to a stone which is not the natural destiny of their species.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105674"
+   },
+   "verse": {
+    "text": "O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
+    "credit": "Psalm 104:24",
+    "id": "Q106425"
+   }
+  },
+  "2027-02-20": {
+   "quote": {
+    "text": "Whoever then understands what is good can also know how to love; but he who cannot distinguish good from bad, and things which are neither good nor bad from both, how can he possess the power of loving?",
+    "credit": "Epictetus",
+    "id": "Q105846"
+   },
+   "verse": {
+    "text": "Better is little with the fear of the LORD than great treasure and trouble therewith.",
+    "credit": "Proverbs 15:16",
+    "id": "Q106520"
+   }
+  },
+  "2027-02-21": {
+   "quote": {
+    "text": "It is a good caution not to believe any thing until we are very certain of it; for many probable things prove false, and a short time will make evidence of the undoubted truth.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76065"
+   },
+   "verse": {
+    "text": "He healeth the broken in heart, and bindeth up their wounds.",
+    "credit": "Psalm 147:3",
+    "id": "Q106478"
+   }
+  },
+  "2027-02-22": {
+   "quote": {
+    "text": "The end and object of a rational constitution is, to do nothing rashly, to be kindly affected towards men, and in all things willingly to submit unto the gods.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3258"
+   },
+   "verse": {
+    "text": "By this shall all men know that ye are my disciples, if ye have love one to another.",
+    "credit": "John 13:35",
+    "id": "Q106194"
+   }
+  },
+  "2027-02-23": {
+   "quote": {
+    "text": "It is a rare thing for a man in a great fortune to lay down his happiness gently; it being a common fate for a man to sink under the weight of those felicities that raise him.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76056"
+   },
+   "verse": {
+    "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
+    "credit": "Philippians 4:19",
+    "id": "Q106252"
+   }
+  },
+  "2027-02-24": {
+   "quote": {
+    "text": "When a man has done thee any wrong, immediately consider with what opinion about good or evil he has done wrong.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74109"
+   },
+   "verse": {
+    "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+    "credit": "Psalm 23:5",
+    "id": "Q106332"
+   }
+  },
+  "2027-02-25": {
+   "quote": {
+    "text": "Thou wouldst do good unto men? then show them by thine own example what kind of men philosophy can make, and cease from foolish trifling.",
+    "credit": "Epictetus",
+    "id": "Q105558"
+   },
+   "verse": {
+    "text": "A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!",
+    "credit": "Proverbs 15:23",
+    "id": "Q106522"
+   }
+  },
+  "2027-02-26": {
+   "quote": {
+    "text": "It is a pain to an honest and a generous mind to lie under a duty of affection against inclination.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76047"
+   },
+   "verse": {
+    "text": "I laid me down and slept; I awaked; for the LORD sustained me.",
+    "credit": "Psalm 3:5",
+    "id": "Q106311"
+   }
+  },
+  "2027-02-27": {
+   "quote": {
+    "text": "Consider in what condition both in body and soul a man should be when he is overtaken by death; and consider the shortness of life, the boundless abyss of time past and future, the feebleness of all matter.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74131"
+   },
+   "verse": {
+    "text": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.",
+    "credit": "Jude 1:24–25",
+    "id": "Q106301"
+   }
+  },
+  "2027-02-28": {
+   "quote": {
+    "text": "Even wild beasts feel kindness, nor is there any animal so savage that good treatment will not tame it and win love from it.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73944"
+   },
+   "verse": {
+    "text": "It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O most High.",
+    "credit": "Psalm 92:1",
+    "id": "Q106405"
+   }
+  },
+  "2027-03-01": {
+   "quote": {
+    "text": "Have you taken pains to learn what is a good man and what is a bad man, and how a man becomes one or the other?",
+    "credit": "Epictetus",
+    "id": "Q105859"
+   },
+   "verse": {
+    "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+    "credit": "Romans 6:23",
+    "id": "Q106211"
+   }
+  },
+  "2027-03-02": {
+   "quote": {
+    "text": "Nothing can be good which gives neither greatness nor security to the mind; but, on the contrary, infects it with insolence, arrogance, and tumor: nor does virtue dwell upon the tip of the tongue, but in the temple of a purified heart.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76049"
+   },
+   "verse": {
+    "text": "Blessed are the pure in heart: for they shall see God.",
+    "credit": "Matthew 5:8",
+    "id": "Q106138"
+   }
+  },
+  "2027-03-03": {
+   "quote": {
+    "text": "Observe continually that all things exist in change; and keep this thought ever with you, that Nature loves nothing more than changing what things now are, and making others like them.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105702"
+   },
+   "verse": {
+    "text": "As far as the east is from the west, so far hath he removed our transgressions from us.",
+    "credit": "Psalm 103:12",
+    "id": "Q106423"
+   }
+  },
+  "2027-03-04": {
+   "quote": {
+    "text": "I will try and believe all things, before I give any man over, and do all that is possible that I may not lose a good office and a friend together.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76074"
+   },
+   "verse": {
+    "text": "And God said, Let there be light: and there was light.",
+    "credit": "Genesis 1:3",
+    "id": "Q106059"
+   }
+  },
+  "2027-03-05": {
+   "quote": {
+    "text": "How small a part of the boundless and unfathomable time is assigned to every man, for it is very soon swallowed up in the eternal!",
+    "credit": "Marcus Aurelius",
+    "id": "Q74136"
+   },
+   "verse": {
+    "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+    "credit": "Proverbs 19:17",
+    "id": "Q106538"
+   }
+  },
+  "2027-03-06": {
+   "quote": {
+    "text": "You must know that it is no easy thing for a principle to become a man's own, unless each day he maintain it and hear it maintained, as well as work it out in life.",
+    "credit": "Epictetus",
+    "id": "Q105555"
+   },
+   "verse": {
+    "text": "But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.",
+    "credit": "Isaiah 64:8",
+    "id": "Q106112"
+   }
+  },
+  "2027-03-07": {
+   "quote": {
+    "text": "The best man is he who gives readily, never asks for any return, and is delighted when the return is made, because, having really and truly forgotten what he gave, he receives it as though it were a present.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73990"
+   },
+   "verse": {
+    "text": "This is the day which the LORD hath made; we will rejoice and be glad in it.",
+    "credit": "Psalm 118:24",
+    "id": "Q106440"
+   }
+  },
+  "2027-03-08": {
+   "quote": {
+    "text": "Consider how quickly all things are dissolved and resolved: the bodies and substances themselves, into the matter and substance of the world: and their memories into the general age and time of the world.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3254"
+   },
+   "verse": {
+    "text": "I have no greater joy than to hear that my children walk in truth.",
+    "credit": "3 John 1:4",
+    "id": "Q106300"
+   }
+  },
+  "2027-03-09": {
+   "quote": {
+    "text": "You will make your friend a better man by bearing with him, you will in all cases make him a worse one by reproaching him.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73987"
+   },
+   "verse": {
+    "text": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+    "credit": "Psalm 28:7",
+    "id": "Q106339"
+   }
+  },
+  "2027-03-10": {
+   "quote": {
+    "text": "Consider how many are themselves the causes of all the disquiet that they suffer; how no man may be hindered by another; how all is matter of opinion.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105747"
+   },
+   "verse": {
+    "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.",
+    "credit": "Proverbs 3:27",
+    "id": "Q106491"
+   }
+  },
+  "2027-03-11": {
+   "quote": {
+    "text": "A tyrant never killed a man in six months: but a fever is often a year about it.",
+    "credit": "Epictetus",
+    "id": "Q105926"
+   },
+   "verse": {
+    "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+    "credit": "Psalm 34:18",
+    "id": "Q106349"
+   }
+  },
+  "2027-03-12": {
+   "quote": {
+    "text": "I want to remind the people that there are different ways of giving, and that the bestowing of one's self in service and good deeds can be the best of all gifts.",
+    "credit": "Kate Douglas Smith Wiggin",
+    "id": "Q72395"
+   },
+   "verse": {
+    "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+    "credit": "Ephesians 4:32",
+    "id": "Q106243"
+   }
+  },
+  "2027-03-13": {
+   "quote": {
+    "text": "A good man cannot leave undone what he does: for unless he does it he will not be a good man.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73931"
+   },
+   "verse": {
+    "text": "They that sow in tears shall reap in joy.",
+    "credit": "Psalm 126:5",
+    "id": "Q106459"
+   }
+  },
+  "2027-03-14": {
+   "quote": {
+    "text": "The time when thou shalt have forgotten all things, is at hand. And that time also is at hand, when thou thyself shalt be forgotten by all.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3270"
+   },
+   "verse": {
+    "text": "But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.",
+    "credit": "Matthew 19:14",
+    "id": "Q106158"
+   }
+  },
+  "2027-03-15": {
+   "quote": {
+    "text": "Not to know that any Christian spirit working kindly in its little sphere, whatever it may be, will find its mortal life too short for its vast means of usefulness.",
+    "credit": "Charles Dickens",
+    "id": "Q106056"
+   },
+   "verse": {
+    "text": "For the Son of man is come to seek and to save that which was lost.",
+    "credit": "Luke 19:10",
+    "id": "Q106181"
+   }
+  },
+  "2027-03-16": {
+   "quote": {
+    "text": "Life is a small matter; but it is a matter of importance to contemn it. Nature, that begat us, expels us, and a better and a safer place is provided for us.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76066"
+   },
+   "verse": {
+    "text": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health.",
+    "credit": "Proverbs 12:18",
+    "id": "Q106509"
+   }
+  },
+  "2027-03-17": {
+   "quote": {
+    "text": "Eating, do good to them that eat with thee; drinking, to them that drink with thee; yield unto all, give way, and bear with them.",
+    "credit": "Epictetus",
+    "id": "Q105578"
+   },
+   "verse": {
+    "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.",
+    "credit": "Psalm 16:11",
+    "id": "Q106321"
+   }
+  },
+  "2027-03-18": {
+   "quote": {
+    "text": "The safety of life is this, to examine everything all through, what it is itself, that is its material, what the formal part; with all thy soul to do justice and to say the truth.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74078"
+   },
+   "verse": {
+    "text": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
+    "credit": "1 John 4:16",
+    "id": "Q106297"
+   }
+  },
+  "2027-03-19": {
+   "quote": {
+    "text": "It is a blessed thing to dispatch the business of life before we die, and then to expect death in the possession of a happy life.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76044"
+   },
+   "verse": {
+    "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+    "credit": "Psalm 91:1",
+    "id": "Q106401"
+   }
+  },
+  "2027-03-20": {
+   "quote": {
+    "text": "You have forgotten that the intelligence of every man is divine, and an efflux from God; also that no man is proprietor of anything: his children, his body, his very life are given of God.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105684"
+   },
+   "verse": {
+    "text": "A word fitly spoken is like apples of gold in pictures of silver.",
+    "credit": "Proverbs 25:11",
+    "id": "Q106547"
+   }
+  },
+  "2027-03-21": {
+   "quote": {
+    "text": "Never pronounce any man happy that depends upon fortune for his happiness; for nothing can be more preposterous than to place the good of a reasonable creature in unreasonable things.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76054"
+   },
+   "verse": {
+    "text": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away: But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+    "credit": "1 Peter 1:24–25",
+    "id": "Q106284"
+   }
+  },
+  "2027-03-22": {
+   "quote": {
+    "text": "To a good man there is no evil, either in life or death.",
+    "credit": "Epictetus",
+    "id": "Q105562"
+   },
+   "verse": {
+    "text": "Lord, thou hast been our dwelling place in all generations.",
+    "credit": "Psalm 90:1",
+    "id": "Q106397"
+   }
+  },
+  "2027-03-23": {
+   "quote": {
+    "text": "If a sleigh goes by, the sleigh-bells ring, and that is all; you work all winter through to no other accompaniment but the crunching of your steps upon the frozen snow.",
+    "credit": "Robert Louis Stevenson",
+    "id": "Q21305"
+   },
+   "verse": {
+    "text": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.",
+    "credit": "Revelation 21:5",
+    "id": "Q106306"
+   }
+  },
+  "2027-03-24": {
+   "quote": {
+    "text": "It is thy duty then in the midst of such things to show good humor and not a proud air; to understand however that every man is worth just so much as the things are worth about which he busies himself.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74148"
+   },
+   "verse": {
+    "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
+    "credit": "Romans 5:8",
+    "id": "Q106210"
+   }
+  },
+  "2027-03-25": {
+   "quote": {
+    "text": "We declare that all men are mad, yet we do not dose all men with hellebore; but we put into the hands of these very persons, whom we call madmen, both the right of voting and of pronouncing judgment.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73956"
+   },
+   "verse": {
+    "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+    "credit": "John 15:13",
+    "id": "Q106199"
+   }
+  },
+  "2027-03-26": {
+   "quote": {
+    "text": "We are all co-operating in one great work, some with knowledge and understanding, others ignorantly and without design.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105669"
+   },
+   "verse": {
+    "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+    "credit": "Isaiah 53:5",
+    "id": "Q106107"
+   }
+  },
+  "2027-03-27": {
+   "quote": {
+    "text": "As a mark is not set up for the purpose of missing the aim, so neither does the nature of evil exist in the world.",
+    "credit": "Epictetus",
+    "id": "Q105895"
+   },
+   "verse": {
+    "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.",
+    "credit": "John 11:25",
+    "id": "Q106192"
+   }
+  },
+  "2027-03-28": {
+   "quote": {
+    "text": "Life is to be measured by action, not by time; a man may die old at thirty, and young at fourscore: nay, the one lives after death, and the other perished before he died.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76043"
+   },
+   "verse": {
+    "text": "O death, where is thy sting? O grave, where is thy victory?",
+    "credit": "1 Corinthians 15:55",
+    "id": "Q106229"
+   }
+  },
+  "2027-03-29": {
+   "quote": {
+    "text": "I am always happy when I hear of the good fortune of others. Daisy has long been a dear friend of mine, and I heartily wish her joy.",
+    "credit": "Marie Corelli",
+    "id": "Q73661"
+   },
+   "verse": {
+    "text": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.",
+    "credit": "John 20:29",
+    "id": "Q106201"
+   }
+  },
+  "2027-03-30": {
+   "quote": {
+    "text": "It is a shameful thing that the countenance should obey the mind, should compose and order itself as the mind bids it, while the mind cannot compose and order itself as it wills.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105653"
+   },
+   "verse": {
+    "text": "Beareth all things, believeth all things, hopeth all things, endureth all things.",
+    "credit": "1 Corinthians 13:7",
+    "id": "Q106225"
+   }
+  },
+  "2027-03-31": {
+   "quote": {
+    "text": "If you owe anything, seek for some one to whom you may repay it, and if no one demands it, dun your own self; whether the man be good or bad is no concern of yours; repay him, and then blame him.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73984"
+   },
+   "verse": {
+    "text": "For ever, O LORD, thy word is settled in heaven.",
+    "credit": "Psalm 119:89",
+    "id": "Q106445"
+   }
+  },
+  "2027-04-01": {
+   "quote": {
+    "text": "Take care then to do nothing like a wild beast; but if you do, you have lost the character of a man; you have not fulfilled your promise.",
+    "credit": "Epictetus",
+    "id": "Q105927"
+   },
+   "verse": {
+    "text": "The LORD is good unto them that wait for him, to the soul that seeketh him.",
+    "credit": "Lamentations 3:25",
+    "id": "Q106120"
+   }
+  },
+  "2027-04-02": {
+   "quote": {
+    "text": "Reverence that which is best in the universe; and this is that which makes use of all things and directs all things.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74100"
+   },
+   "verse": {
+    "text": "But the path of the just is as the shining light, that shineth more and more unto the perfect day.",
+    "credit": "Proverbs 4:18",
+    "id": "Q106493"
+   }
+  },
+  "2027-04-03": {
+   "quote": {
+    "text": "We are all of us equally fearful of death, and ignorant of life; but what can be more shameful than to be solicitous upon the brink of security?",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76067"
+   },
+   "verse": {
+    "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry.",
+    "credit": "Psalm 40:1",
+    "id": "Q106360"
+   }
+  },
+  "2027-04-04": {
+   "quote": {
+    "text": "All things are united in one bond of harmony; and just as all existing bodies go to make the visible world what it is, so destiny, as the general cause, is compounded of all particular causes.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105705"
+   },
+   "verse": {
+    "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+    "credit": "Hebrews 13:8",
+    "id": "Q106273"
+   }
+  },
+  "2027-04-05": {
+   "quote": {
+    "text": "We are apt to murmur at many things as great evils, that have nothing at all of evil in them besides the complaint, which we should more reasonably take up against ourselves.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76052"
+   },
+   "verse": {
+    "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+    "credit": "Matthew 7:12",
+    "id": "Q106151"
+   }
+  },
+  "2027-04-06": {
+   "quote": {
+    "text": "Man is not the master of man; but death is, and life and pleasure and pain; for if he comes without these things, bring Caesar to me and you will see how firm I am.",
+    "credit": "Epictetus",
+    "id": "Q105903"
+   },
+   "verse": {
+    "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+    "credit": "2 Corinthians 12:9",
+    "id": "Q106234"
+   }
+  },
+  "2027-04-07": {
+   "quote": {
+    "text": "Neither ought we to give after long delay, because in all good offices the will of the giver counts for much, and he who gives tardily must long have been unwilling to give at all.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73941"
+   },
+   "verse": {
+    "text": "The LORD shall preserve thee from all evil: he shall preserve thy soul. The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+    "credit": "Psalm 121:7–8",
+    "id": "Q106454"
+   }
+  },
+  "2027-04-08": {
+   "quote": {
+    "text": "Enter into every man's ruling faculty; and also let every other man enter into thine.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74149"
+   },
+   "verse": {
+    "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.",
+    "credit": "Isaiah 43:2",
+    "id": "Q106104"
+   }
+  },
+  "2027-04-09": {
+   "quote": {
+    "text": "Every man must consider what his resources and powers are, so that we may not give either more or less than we are able.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73910"
+   },
+   "verse": {
+    "text": "Children's children are the crown of old men; and the glory of children are their fathers.",
+    "credit": "Proverbs 17:6",
+    "id": "Q106531"
+   }
+  },
+  "2027-04-10": {
+   "quote": {
+    "text": "Throwing away then all things, hold to these only which are few; and besides, bear in mind that every man lives only this present time, which is an indivisible point, and that all the rest of his life is either past or it is uncertain.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74095"
+   },
+   "verse": {
+    "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.",
+    "credit": "Galatians 5:22–23",
+    "id": "Q106236"
+   }
+  },
+  "2027-04-11": {
+   "quote": {
+    "text": "Let death and exile, and all other things which appear terrible, be daily before your eyes, but death chiefly; and you will never entertain an abject thought, nor too eagerly covet anything.",
+    "credit": "Epictetus",
+    "id": "Q75915"
+   },
+   "verse": {
+    "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.",
+    "credit": "Ruth 1:16",
+    "id": "Q106078"
+   }
+  },
+  "2027-04-12": {
+   "quote": {
+    "text": "To be wise is the use of wisdom, as seeing is the use of eyes, and well-speaking the use of eloquence.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76082"
+   },
+   "verse": {
+    "text": "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.",
+    "credit": "Psalm 89:1",
+    "id": "Q106396"
+   }
+  },
+  "2027-04-13": {
+   "quote": {
+    "text": "Nothing can befall any man which he is not fitted by nature to bear.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105668"
+   },
+   "verse": {
+    "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.",
+    "credit": "Romans 8:18",
+    "id": "Q106213"
+   }
+  },
+  "2027-04-14": {
+   "quote": {
+    "text": "By the common people is intended the man of title as well as the clouted shoe: for I do not distinguish them by the eye, but by the mind, which is the proper judge of the man.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76079"
+   },
+   "verse": {
+    "text": "O praise the LORD, all ye nations: praise him, all ye people. For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.",
+    "credit": "Psalm 117:1–2",
+    "id": "Q106435"
+   }
+  },
+  "2027-04-15": {
+   "quote": {
+    "text": "Give me by all means the shorter and nobler life, instead of one that is longer but of less account!",
+    "credit": "Epictetus",
+    "id": "Q105588"
+   },
+   "verse": {
+    "text": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
+    "credit": "Proverbs 15:13",
+    "id": "Q106519"
+   }
+  },
+  "2027-04-16": {
+   "quote": {
+    "text": "Consider thyself to be dead, and to have completed thy life up to the present time; and live according to nature the remainder which is allowed thee.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74110"
+   },
+   "verse": {
+    "text": "I sought the LORD, and he heard me, and delivered me from all my fears.",
+    "credit": "Psalm 34:4",
+    "id": "Q106347"
+   }
+  },
+  "2027-04-17": {
+   "quote": {
+    "text": "Hard and sharp as flint, from which no steel had ever struck out generous fire; secret, and self-contained, and solitary as an oyster.",
+    "credit": "Charles Dickens",
+    "id": "Q106048"
+   },
+   "verse": {
+    "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light.",
+    "credit": "Matthew 11:29–30",
+    "id": "Q106155"
+   }
+  },
+  "2027-04-18": {
+   "quote": {
+    "text": "Men do not change from the best to the worst; even in becoming bad, he would necessarily retain some traces of goodness; virtue is never so utterly quenched as not to imprint on the mind marks which no degradation can efface.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73983"
+   },
+   "verse": {
+    "text": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.",
+    "credit": "Psalm 1:6",
+    "id": "Q106309"
+   }
+  },
+  "2027-04-19": {
+   "quote": {
+    "text": "I'm afraid I can't get my reindeer here in time to take us up to the house, but we can go in the cars — hum! I don't know whether we can or not, come to think of it.",
+    "credit": "John Kendrick Bangs",
+    "id": "Q72955"
+   },
+   "verse": {
+    "text": "And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.",
+    "credit": "Joel 2:13",
+    "id": "Q106122"
+   }
+  },
+  "2027-04-20": {
+   "quote": {
+    "text": "Do unflinchingly whatever man's nature requires, and speak as seems most just, yet in kindliness, modesty, and sincerity.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105718"
+   },
+   "verse": {
+    "text": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
+    "credit": "Proverbs 1:7",
+    "id": "Q106482"
+   }
+  },
+  "2027-04-21": {
+   "quote": {
+    "text": "The truth of it is, there is but one chain that holds all the world in bondage, and that is the love of life.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76114"
+   },
+   "verse": {
+    "text": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
+    "credit": "Psalm 37:25",
+    "id": "Q106358"
+   }
+  },
+  "2027-04-22": {
+   "quote": {
+    "text": "When death appears an evil, we ought to have this rule in readiness, that it is fit to avoid evil things, and that death is a necessary thing.",
+    "credit": "Epictetus",
+    "id": "Q105848"
+   },
+   "verse": {
+    "text": "So God created man in his own image, in the image of God created he him; male and female created he them.",
+    "credit": "Genesis 1:27",
+    "id": "Q106060"
+   }
+  },
+  "2027-04-23": {
+   "quote": {
+    "text": "The works of men should be dear for the sake of the bond of kinship, or pitied, as we must pity them sometimes, for their lack of the knowledge of good and evil.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105658"
+   },
+   "verse": {
+    "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+    "credit": "Psalm 23:4",
+    "id": "Q106331"
+   }
+  },
+  "2027-04-24": {
+   "quote": {
+    "text": "I will live and die with this testimony, that I loved good studies, and a good conscience; that I never invaded another man's liberty; and that I preserved my own.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76085"
+   },
+   "verse": {
+    "text": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+    "credit": "Proverbs 4:7",
+    "id": "Q106492"
+   }
+  },
+  "2027-04-25": {
+   "quote": {
+    "text": "We believe he has changed the world for us, — has brought us peace, good-will, and happiness.",
+    "credit": "Abbie Farwell Brown",
+    "id": "Q72334"
+   },
+   "verse": {
+    "text": "I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.",
+    "credit": "Psalm 7:17",
+    "id": "Q106314"
+   }
+  },
+  "2027-04-26": {
+   "quote": {
+    "text": "On what a little clod of the whole earth do we creep! Considering all this, reckon nothing great except to act as your nature leads you, and to endure what universal Nature brings to pass.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105750"
+   },
+   "verse": {
+    "text": "Even so faith, if it hath not works, is dead, being alone.",
+    "credit": "James 2:17",
+    "id": "Q106280"
+   }
+  },
+  "2027-04-27": {
+   "quote": {
+    "text": "Is then the fruit of a fig-tree not perfected suddenly and in one hour, and would you possess the fruit of a man's mind in so short a time and so easily?",
+    "credit": "Epictetus",
+    "id": "Q105900"
+   },
+   "verse": {
+    "text": "Light is sown for the righteous, and gladness for the upright in heart.",
+    "credit": "Psalm 97:11",
+    "id": "Q106413"
+   }
+  },
+  "2027-04-28": {
+   "quote": {
+    "text": "It is a sign of weakness, and a kind of stumbling, for a man to run when he intends only to walk; and it behoves us to have the same command of our mind that we have of our bodies.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76126"
+   },
+   "verse": {
+    "text": "The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+    "credit": "Habakkuk 3:19",
+    "id": "Q106127"
+   }
+  },
+  "2027-04-29": {
+   "quote": {
+    "text": "It is shame and dishonour that, in any man's life, the soul should faint from its duty while the body still holds out.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105687"
+   },
+   "verse": {
+    "text": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.",
+    "credit": "Matthew 10:29",
+    "id": "Q106153"
+   }
+  },
+  "2027-04-30": {
+   "quote": {
+    "text": "It is a cruel kindness to allow one's self to be won over into granting that which injures those who beg for it.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73948"
+   },
+   "verse": {
+    "text": "The LORD is my shepherd; I shall not want.",
+    "credit": "Psalm 23:1",
+    "id": "Q106328"
+   }
+  },
+  "2027-05-01": {
+   "quote": {
+    "text": "Set before your eyes this ease with which reason makes its way through all obstacles, as fire goes upwards, a stone downwards, or a cylinder down a slope, and seek for nothing further.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105737"
+   },
+   "verse": {
+    "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
+    "credit": "Proverbs 27:17",
+    "id": "Q106550"
+   }
+  },
+  "2027-05-02": {
+   "quote": {
+    "text": "Know all of you, who are busied about land, slaves and public posts, that these are nothing but fodder!",
+    "credit": "Epictetus",
+    "id": "Q105575"
+   },
+   "verse": {
+    "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+    "credit": "John 16:33",
+    "id": "Q106200"
+   }
+  },
+  "2027-05-03": {
+   "quote": {
+    "text": "I will remember always that I am a man, and then consider, that if I am happy, it will not last always; if unhappy, I may be other if I please.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76088"
+   },
+   "verse": {
+    "text": "Great is the LORD, and greatly to be praised; and his greatness is unsearchable.",
+    "credit": "Psalm 145:3",
+    "id": "Q106473"
+   }
+  },
+  "2027-05-04": {
+   "quote": {
+    "text": "Do every deed, speak every word, think every thought in the knowledge that you may end your days any moment.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105657"
+   },
+   "verse": {
+    "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ.",
+    "credit": "Philippians 1:6",
+    "id": "Q106245"
+   }
+  },
+  "2027-05-05": {
+   "quote": {
+    "text": "Whatever we owe, it is our part to find where to pay it, and to do it without asking too; for whether the creditor be good or bad, the debt is still the same.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76077"
+   },
+   "verse": {
+    "text": "He giveth power to the faint; and to them that have no might he increaseth strength.",
+    "credit": "Isaiah 40:29",
+    "id": "Q106101"
+   }
+  },
+  "2027-05-06": {
+   "quote": {
+    "text": "For know that there is nothing more tractable than the human soul. It needs but to will, and the thing is done; the soul is set upon the right path: as on the contrary it needs but to nod over the task, and all is lost.",
+    "credit": "Epictetus",
+    "id": "Q105586"
+   },
+   "verse": {
+    "text": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.",
+    "credit": "Psalm 4:8",
+    "id": "Q106312"
+   }
+  },
+  "2027-05-07": {
+   "quote": {
+    "text": "Always run to the short way; and the short way is the natural: accordingly say and do everything in conformity with the soundest reason.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74053"
+   },
+   "verse": {
+    "text": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+    "credit": "Proverbs 22:6",
+    "id": "Q106545"
+   }
+  },
+  "2027-05-08": {
+   "quote": {
+    "text": "Very few men are led by their own reason: those who come next to the best are those who return to the right path in consequence of advice; and these we must not deprive of their guide.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73976"
+   },
+   "verse": {
+    "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings.",
+    "credit": "Psalm 17:8",
+    "id": "Q106322"
+   }
+  },
+  "2027-05-09": {
+   "quote": {
+    "text": "All is change, yet is there no need to fear innovation, for all obey the laws of custom, and in equal measure all things are apportioned.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105673"
+   },
+   "verse": {
+    "text": "But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.",
+    "credit": "Job 23:10",
+    "id": "Q106087"
+   }
+  },
+  "2027-05-10": {
+   "quote": {
+    "text": "Many afflictions may befall a good man, but no evil, for contraries will never incorporate — all the rivers in the world are never able to change the taste or quality of the sea.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76095"
+   },
+   "verse": {
+    "text": "And now, Lord, what wait I for? my hope is in thee.",
+    "credit": "Psalm 39:7",
+    "id": "Q106359"
+   }
+  },
+  "2027-05-11": {
+   "quote": {
+    "text": "If you choose, you are free; if you choose, you need blame no man — accuse no man.",
+    "credit": "Epictetus",
+    "id": "Q105567"
+   },
+   "verse": {
+    "text": "There is a way which seemeth right unto a man, but the end thereof are the ways of death.",
+    "credit": "Proverbs 14:12",
+    "id": "Q106514"
+   }
+  },
+  "2027-05-12": {
+   "quote": {
+    "text": "I will cast away a good turn upon a bad man, and I will requite a good one; the one because it is my duty, and the other that I may not be in debt.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76073"
+   },
+   "verse": {
+    "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+    "credit": "Ecclesiastes 3:11",
+    "id": "Q106089"
+   }
+  },
+  "2027-05-13": {
+   "quote": {
+    "text": "Nothing can happen unto thee, but what the common good of nature doth require.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3227"
+   },
+   "verse": {
+    "text": "Blessed are the meek: for they shall inherit the earth.",
+    "credit": "Matthew 5:5",
+    "id": "Q106135"
+   }
+  },
+  "2027-05-14": {
+   "quote": {
+    "text": "It is a shame to place the happiness of life in gold and silver, for which bread and water is sufficient; or, at the worst, hunger puts an end to hunger.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76064"
+   },
+   "verse": {
+    "text": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.",
+    "credit": "Luke 6:38",
+    "id": "Q106178"
+   }
+  },
+  "2027-05-15": {
+   "quote": {
+    "text": "Always remember the saying of Heraclitus, that the death of earth is to become water, and the death of water is to become air, and the death of air is to become fire, and reversely.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74061"
+   },
+   "verse": {
+    "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+    "credit": "Psalm 42:11",
+    "id": "Q106363"
+   }
+  },
+  "2027-05-16": {
+   "quote": {
+    "text": "When, therefore, it is our duty to share the danger of a friend or of our country, we ought not to consult the oracle as to whether we shall share it with them or not.",
+    "credit": "Epictetus",
+    "id": "Q75925"
+   },
+   "verse": {
+    "text": "We love him, because he first loved us.",
+    "credit": "1 John 4:19",
+    "id": "Q106299"
+   }
+  },
+  "2027-05-17": {
+   "quote": {
+    "text": "Many a man stands in need of help that has not the face to confess it: if the discovery may give offence, let it lie concealed; he that gives to be seen would never relieve a man in the dark.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76167"
+   },
+   "verse": {
+    "text": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
+    "credit": "Psalm 130:5",
+    "id": "Q106463"
+   }
+  },
+  "2027-05-18": {
+   "quote": {
+    "text": "As for that which is truly good, what can it stand in need of more than either justice or truth; or more than either kindness and modesty?",
+    "credit": "Marcus Aurelius",
+    "id": "Q3300"
+   },
+   "verse": {
+    "text": "Be not overcome of evil, but overcome evil with good.",
+    "credit": "Romans 12:21",
+    "id": "Q106220"
+   }
+  },
+  "2027-05-19": {
+   "quote": {
+    "text": "It is not health, nobility, riches, that can justify a wicked man: nor is it the want of all these that can discredit a good one.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76142"
+   },
+   "verse": {
+    "text": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe.",
+    "credit": "Proverbs 18:10",
+    "id": "Q106534"
+   }
+  },
+  "2027-05-20": {
+   "quote": {
+    "text": "There was nothing very cheerful in the climate or the town, and yet was there an air of cheerfulness abroad that the clearest summer air and brightest summer sun might have endeavoured to diffuse in vain.",
+    "credit": "Charles Dickens",
+    "id": "Q106057"
+   },
+   "verse": {
+    "text": "Let us hold fast the profession of our faith without wavering; (for he is faithful that promised).",
+    "credit": "Hebrews 10:23",
+    "id": "Q106266"
+   }
+  },
+  "2027-05-21": {
+   "quote": {
+    "text": "Always remember what is your own, and what belongs to another; and you will not be disturbed.",
+    "credit": "Epictetus",
+    "id": "Q105872"
+   },
+   "verse": {
+    "text": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.",
+    "credit": "Psalm 61:2",
+    "id": "Q106377"
+   }
+  },
+  "2027-05-22": {
+   "quote": {
+    "text": "To comprehend all in a few words, our life is short; we must endeavour to gain the present time with best discretion and justice.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3234"
+   },
+   "verse": {
+    "text": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+    "credit": "1 Samuel 16:7",
+    "id": "Q106080"
+   }
+  },
+  "2027-05-23": {
+   "quote": {
+    "text": "If a good man and a wicked man sail both in the same bottom, it is impossible that the same wind which favors the one should cross the other.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76181"
+   },
+   "verse": {
+    "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+    "credit": "Psalm 150:6",
+    "id": "Q106481"
+   }
+  },
+  "2027-05-24": {
+   "quote": {
+    "text": "A little time, and thou shalt close thy eyes; and him who has attended thee to thy grave another will soon lament.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74125"
+   },
+   "verse": {
+    "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.",
+    "credit": "Ephesians 2:8–9",
+    "id": "Q106240"
+   }
+  },
+  "2027-05-25": {
+   "quote": {
+    "text": "Never condemn a friend unheard; or without letting him know his accuser, or his crime.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76132"
+   },
+   "verse": {
+    "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.",
+    "credit": "Proverbs 31:30",
+    "id": "Q106557"
+   }
+  },
+  "2027-05-26": {
+   "quote": {
+    "text": "For as the carpenter's material is wood, and that of the statuary is copper, so the matter of the art of living is each man's life.",
+    "credit": "Epictetus",
+    "id": "Q105865"
+   },
+   "verse": {
+    "text": "The entrance of thy words giveth light; it giveth understanding unto the simple.",
+    "credit": "Psalm 119:130",
+    "id": "Q106450"
+   }
+  },
+  "2027-05-27": {
+   "quote": {
+    "text": "Whatever is good must be useful in some sort, and worthy of the care of a good and honourable man.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105648"
+   },
+   "verse": {
+    "text": "The LORD shall fight for you, and ye shall hold your peace.",
+    "credit": "Exodus 14:14",
+    "id": "Q106069"
+   }
+  },
+  "2027-05-28": {
+   "quote": {
+    "text": "Every man has his weak side; let us learn which that is, and take a care of it; for the same thing does not work upon all men alike.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76045"
+   },
+   "verse": {
+    "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you.",
+    "credit": "Matthew 5:44",
+    "id": "Q106142"
+   }
+  },
+  "2027-05-29": {
+   "quote": {
+    "text": "Whatsoever thy seasons bear, shall ever by me be esteemed as happy fruit, and increase. O Nature! from thee are all things, in thee all things subsist, and to thee all tend.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3228"
+   },
+   "verse": {
+    "text": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.",
+    "credit": "Psalm 90:2",
+    "id": "Q106398"
+   }
+  },
+  "2027-05-30": {
+   "quote": {
+    "text": "Reflect that the chief source of all evils to Man, and of baseness and cowardice, is not death, but the fear of death.",
+    "credit": "Epictetus",
+    "id": "Q105563"
+   },
+   "verse": {
+    "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
+    "credit": "Jeremiah 1:5",
+    "id": "Q106113"
+   }
+  },
+  "2027-05-31": {
+   "quote": {
+    "text": "It is but a moment that we live, and yet we are dividing it into childhood, youth, man's estate, and old age, all which degrees we bring into that narrow compass.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76147"
+   },
+   "verse": {
+    "text": "Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.",
+    "credit": "Deuteronomy 6:4–5",
+    "id": "Q106073"
+   }
+  },
+  "2027-06-01": {
+   "quote": {
+    "text": "In all pain keep in mind that there is no baseness in it, that it cannot harm the soul which guides you, nor destroy that soul as a reasoning or as a social force.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105672"
+   },
+   "verse": {
+    "text": "He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.",
+    "credit": "Proverbs 16:20",
+    "id": "Q106527"
+   }
+  },
+  "2027-06-02": {
+   "quote": {
+    "text": "It is a masterpiece to draw good out of evil; and, by the help of virtue, to improve misfortunes into blessings.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76063"
+   },
+   "verse": {
+    "text": "Great peace have they which love thy law: and nothing shall offend them.",
+    "credit": "Psalm 119:165",
+    "id": "Q106451"
+   }
+  },
+  "2027-06-03": {
+   "quote": {
+    "text": "Do you not see that when you have let your mind loose, it is no longer in your power to recall it, either to propriety, or to modesty, or to moderation; but you do everything that comes into your mind in obedience to your inclinations.",
+    "credit": "Epictetus",
+    "id": "Q105955"
+   },
+   "verse": {
+    "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+    "credit": "Isaiah 55:8–9",
+    "id": "Q106110"
+   }
+  },
+  "2027-06-04": {
+   "quote": {
+    "text": "O my soul, the time I trust will be, when thou shalt be good, simple, single, more open and visible, than that body by which it is enclosed.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3282"
+   },
+   "verse": {
+    "text": "Set your affection on things above, not on things on the earth.",
+    "credit": "Colossians 3:2",
+    "id": "Q106253"
+   }
+  },
+  "2027-06-05": {
+   "quote": {
+    "text": "We die daily, and while we are growing, our life decreases; every moment that passes takes away part of it; all that is past is lost; nay, we divide with death the very instant that we live.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76115"
+   },
+   "verse": {
+    "text": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour.",
+    "credit": "1 Peter 5:8",
+    "id": "Q106289"
+   }
+  },
+  "2027-06-06": {
+   "quote": {
+    "text": "Let them behold and see a man, that is a man indeed, living according to the true nature of man.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3242"
+   },
+   "verse": {
+    "text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+    "credit": "Revelation 4:11",
+    "id": "Q106304"
+   }
+  },
+  "2027-06-07": {
+   "quote": {
+    "text": "We are under a guard, and there is no escaping from our keeper. One man may be parted from another by travel, death, sickness; but there is no dividing us from ourselves.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76158"
+   },
+   "verse": {
+    "text": "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+    "credit": "1 Corinthians 13:12",
+    "id": "Q106227"
+   }
+  },
+  "2027-06-08": {
+   "quote": {
+    "text": "Have I the consciousness, which a man who knows nothing ought to have, that I know nothing?",
+    "credit": "Epictetus",
+    "id": "Q105905"
+   },
+   "verse": {
+    "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+    "credit": "Psalm 23:3",
+    "id": "Q106330"
+   }
+  },
+  "2027-06-09": {
+   "quote": {
+    "text": "We must also consider the character and position of the person to whom we give, for some men are too great to give small gifts, while others are too small to receive great ones.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73950"
+   },
+   "verse": {
+    "text": "In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not.",
+    "credit": "John 1:4–5",
+    "id": "Q106183"
+   }
+  },
+  "2027-06-10": {
+   "quote": {
+    "text": "The divine ruling principle makes all things work together for good, but for the good of the whole.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3251"
+   },
+   "verse": {
+    "text": "Where there is no vision, the people perish: but he that keepeth the law, happy is he.",
+    "credit": "Proverbs 29:18",
+    "id": "Q106552"
+   }
+  },
+  "2027-06-11": {
+   "quote": {
+    "text": "We are a great deal apter to remember injuries than benefits; and it is enough to forgive an obligation that has the nature of an offence.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76165"
+   },
+   "verse": {
+    "text": "If I take the wings of the morning, and dwell in the uttermost parts of the sea; Even there shall thy hand lead me, and thy right hand shall hold me.",
+    "credit": "Psalm 139:9–10",
+    "id": "Q106467"
+   }
+  },
+  "2027-06-12": {
+   "quote": {
+    "text": "Love and affect that only, whatsoever it be that happeneth, and is by the fates appointed unto thee.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3273"
+   },
+   "verse": {
+    "text": "Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.",
+    "credit": "Zechariah 4:6",
+    "id": "Q106129"
+   }
+  },
+  "2027-06-13": {
+   "quote": {
+    "text": "May it never be my lot to have a wise fool for my friend; nothing is more untractable.",
+    "credit": "Epictetus",
+    "id": "Q105850"
+   },
+   "verse": {
+    "text": "From the rising of the sun unto the going down of the same the LORD's name is to be praised.",
+    "credit": "Psalm 113:3",
+    "id": "Q106432"
+   }
+  },
+  "2027-06-14": {
+   "quote": {
+    "text": "Though he may do everything which a good and dutiful friend ought to do, yet, if any hope of gain be floating in his mind, he is a mere legacy-hunter, and is angling for an inheritance.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73919"
+   },
+   "verse": {
+    "text": "Is any thing too hard for the LORD? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.",
+    "credit": "Genesis 18:14",
+    "id": "Q106065"
+   }
+  },
+  "2027-06-15": {
+   "quote": {
+    "text": "What kind of people are those whom men wish to please, and for what objects, and by what kind of acts? How soon will time cover all things, and how many it has covered already.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74108"
+   },
+   "verse": {
+    "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+    "credit": "Matthew 6:26",
+    "id": "Q106146"
+   }
+  },
+  "2027-06-16": {
+   "quote": {
+    "text": "It is a good remedy in some cases for a man to apply himself to civil affairs and public business; and yet, in this state of life too, what betwixt ambition and calumny, it is hardly safe to be honest.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76053"
+   },
+   "verse": {
+    "text": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
+    "credit": "Proverbs 12:1",
+    "id": "Q106508"
+   }
+  },
+  "2027-06-17": {
+   "quote": {
+    "text": "The will of nature may be learned from things upon which we are all agreed.",
+    "credit": "Epictetus",
+    "id": "Q75921"
+   },
+   "verse": {
+    "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.",
+    "credit": "Acts 1:8",
+    "id": "Q106202"
+   }
+  },
+  "2027-06-18": {
+   "quote": {
+    "text": "Motions and changes are continually renewing the world, just as the uninterrupted course of time is always renewing the infinite duration of ages.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74102"
+   },
+   "verse": {
+    "text": "For the LORD is a great God, and a great King above all gods.",
+    "credit": "Psalm 95:3",
+    "id": "Q106409"
+   }
+  },
+  "2027-06-19": {
+   "quote": {
+    "text": "The joy of a wise man stands firm without interruption; in all places, at all times, and in all conditions, his thoughts are cheerful and quiet.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76081"
+   },
+   "verse": {
+    "text": "For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding.",
+    "credit": "Proverbs 2:6",
+    "id": "Q106484"
+   }
+  },
+  "2027-06-20": {
+   "quote": {
+    "text": "No warmth could warm, no wintry weather chill him.",
+    "credit": "Charles Dickens",
+    "id": "Q106050"
+   },
+   "verse": {
+    "text": "O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
+    "credit": "Psalm 8:1",
+    "id": "Q106315"
+   }
+  },
+  "2027-06-21": {
+   "quote": {
+    "text": "I do my duty: other things trouble me not; for they are either things without life, or things without reason, or things that have rambled and know not the way.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74104"
+   },
+   "verse": {
+    "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+    "credit": "Proverbs 19:20",
+    "id": "Q106539"
+   }
+  },
+  "2027-06-22": {
+   "quote": {
+    "text": "Nothing is more wretched for a modest and honourable man than to feel it to be his duty to love one whom it does not please him to love.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73899"
+   },
+   "verse": {
+    "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
+    "credit": "Psalm 8:3–4",
+    "id": "Q106316"
+   }
+  },
+  "2027-06-23": {
+   "quote": {
+    "text": "A man scatters dried figs and nuts: the children seize them, and fight with one another; men do not, for they think them to be a small matter.",
+    "credit": "Epictetus",
+    "id": "Q105855"
+   },
+   "verse": {
+    "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.",
+    "credit": "Romans 5:1",
+    "id": "Q106209"
+   }
+  },
+  "2027-06-24": {
+   "quote": {
+    "text": "Remember that always, and this as well, that the happiness of life lies in very few things.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105715"
+   },
+   "verse": {
+    "text": "Because thy lovingkindness is better than life, my lips shall praise thee.",
+    "credit": "Psalm 63:3",
+    "id": "Q106381"
+   }
+  },
+  "2027-06-25": {
+   "quote": {
+    "text": "Nature has assigned every man his post, which he is bound in honor to maintain, let him be never so much pressed.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76131"
+   },
+   "verse": {
+    "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+    "credit": "Matthew 5:16",
+    "id": "Q106141"
+   }
+  },
+  "2027-06-26": {
+   "quote": {
+    "text": "Never to depart from your philosophy whatever befalls you, never to join in the folly of the vulgar and the ignorant, is a maxim common to all the schools.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105649"
+   },
+   "verse": {
+    "text": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+    "credit": "Psalm 127:1",
+    "id": "Q106460"
+   }
+  },
+  "2027-06-27": {
+   "quote": {
+    "text": "If you wish men to be grateful for anything, give it but seldom; no one can bear to receive what you give to all the world.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73908"
+   },
+   "verse": {
+    "text": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+    "credit": "2 Corinthians 4:18",
+    "id": "Q106231"
+   }
+  },
+  "2027-06-28": {
+   "quote": {
+    "text": "If a man is unhappy, remember that his unhappiness is his own fault; for God has made all men to be happy, to be free from perturbations.",
+    "credit": "Epictetus",
+    "id": "Q105854"
+   },
+   "verse": {
+    "text": "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.",
+    "credit": "Psalm 100:5",
+    "id": "Q106418"
+   }
+  },
+  "2027-06-29": {
+   "quote": {
+    "text": "Rejoice thyself with true simplicity, and modesty; and that all middle things between virtue and vice are indifferent unto thee.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3272"
+   },
+   "verse": {
+    "text": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.",
+    "credit": "Isaiah 49:15",
+    "id": "Q106106"
+   }
+  },
+  "2027-06-30": {
+   "quote": {
+    "text": "A gentle nature may be reclaimed by authority, advice, or reprehension; a father, a husband, a friend may do good in the case.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76175"
+   },
+   "verse": {
+    "text": "For thy mercy is great unto the heavens, and thy truth unto the clouds.",
+    "credit": "Psalm 57:10",
+    "id": "Q106375"
+   }
+  },
+  "2027-07-01": {
+   "quote": {
+    "text": "Try how the life of the good man suits thee, the life of him who is satisfied with his portion out of the whole, and satisfied with his own just acts and benevolent disposition.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74067"
+   },
+   "verse": {
+    "text": "Go to the ant, thou sluggard; consider her ways, and be wise.",
+    "credit": "Proverbs 6:6",
+    "id": "Q106496"
+   }
+  },
+  "2027-07-02": {
+   "quote": {
+    "text": "Do you seek a reward for a good man greater than doing what is good and just?",
+    "credit": "Epictetus",
+    "id": "Q105908"
+   },
+   "verse": {
+    "text": "This is my comfort in my affliction: for thy word hath quickened me.",
+    "credit": "Psalm 119:50",
+    "id": "Q106443"
+   }
+  },
+  "2027-07-03": {
+   "quote": {
+    "text": "We are all of us born to the same casualties — all equally frail and uncertain of to-morrow.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76122"
+   },
+   "verse": {
+    "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+    "credit": "James 4:7",
+    "id": "Q106281"
+   }
+  },
+  "2027-07-04": {
+   "quote": {
+    "text": "The good, straightforward, kindly man bears all these qualities in his eyes, and is not to be mistaken.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105743"
+   },
+   "verse": {
+    "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+    "credit": "Psalm 19:1",
+    "id": "Q106325"
+   }
+  },
+  "2027-07-05": {
+   "quote": {
+    "text": "Death is as much a debt as money, and life is but a journey towards it: some dispatch it sooner, others later, but we must all have the same period.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76120"
+   },
+   "verse": {
+    "text": "Strength and honour are her clothing; and she shall rejoice in time to come.",
+    "credit": "Proverbs 31:25",
+    "id": "Q106555"
+   }
+  },
+  "2027-07-06": {
+   "quote": {
+    "text": "Tell me where I can escape death; discover for me the country, show me the men to whom I must go, whom death does not visit.",
+    "credit": "Epictetus",
+    "id": "Q105866"
+   },
+   "verse": {
+    "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+    "credit": "Hebrews 11:6",
+    "id": "Q106268"
+   }
+  },
+  "2027-07-07": {
+   "quote": {
+    "text": "If to understand and to be reasonable be common unto all men, then is that reason, for which we are termed reasonable, common unto all.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3232"
+   },
+   "verse": {
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "credit": "John 1:1",
+    "id": "Q106182"
+   }
+  },
+  "2027-07-08": {
+   "quote": {
+    "text": "We must not hold men in hand, as physicians and surgeons do their patients, and keep them longer in fear and pain than needs, only to magnify the cure.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76076"
+   },
+   "verse": {
+    "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
+    "credit": "Psalm 19:14",
+    "id": "Q106326"
+   }
+  },
+  "2027-07-09": {
+   "quote": {
+    "text": "Let no man have it in his power to say with truth of you that you are not a man of simplicity, candour, and goodness.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105735"
+   },
+   "verse": {
+    "text": "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin: And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.",
+    "credit": "Matthew 6:28–29",
+    "id": "Q106147"
+   }
+  },
+  "2027-07-10": {
+   "quote": {
+    "text": "Nothing is more bitter than long uncertainty; some can bear to have their hopes extinguished better than to have them deferred.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73946"
+   },
+   "verse": {
+    "text": "And Mary said, My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour.",
+    "credit": "Luke 1:46–47",
+    "id": "Q106172"
+   }
+  },
+  "2027-07-11": {
+   "quote": {
+    "text": "Most of us are afraid of mortification of the body, and would contrive all means to avoid such a thing, but we care not about the soul's mortification.",
+    "credit": "Epictetus",
+    "id": "Q105914"
+   },
+   "verse": {
+    "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
+    "credit": "Philippians 4:7",
+    "id": "Q106249"
+   }
+  },
+  "2027-07-12": {
+   "quote": {
+    "text": "The best temper is betwixt piety and reason; to be sensible, but neither transported nor cast down.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76123"
+   },
+   "verse": {
+    "text": "But godliness with contentment is great gain.",
+    "credit": "1 Timothy 6:6",
+    "id": "Q106260"
+   }
+  },
+  "2027-07-13": {
+   "quote": {
+    "text": "What a glorious power is given to man, never to do any action of which God will not approve, and to welcome whatever God appoints for him!",
+    "credit": "Marcus Aurelius",
+    "id": "Q105748"
+   },
+   "verse": {
+    "text": "The earth is the LORD's, and the fulness thereof; the world, and they that dwell therein.",
+    "credit": "Psalm 24:1",
+    "id": "Q106334"
+   }
+  },
+  "2027-07-14": {
+   "quote": {
+    "text": "A wise man is never so busy as in the solitary contemplation of God and the works of Nature.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76111"
+   },
+   "verse": {
+    "text": "A friend loveth at all times, and a brother is born for adversity.",
+    "credit": "Proverbs 17:17",
+    "id": "Q106532"
+   }
+  },
+  "2027-07-15": {
+   "quote": {
+    "text": "It is a ridiculous thing for a man not to fly from his own badness, which is indeed possible, but to fly from other men's badness, which is impossible.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74072"
+   },
+   "verse": {
+    "text": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+    "credit": "1 John 3:1",
+    "id": "Q106292"
+   }
+  },
+  "2027-07-16": {
+   "quote": {
+    "text": "Whoever then would be free, let him wish nothing, let him decline nothing, which depends on others; else he must necessarily be a slave.",
+    "credit": "Epictetus",
+    "id": "Q75911"
+   },
+   "verse": {
+    "text": "For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.",
+    "credit": "Malachi 3:6",
+    "id": "Q106130"
+   }
+  },
+  "2027-07-17": {
+   "quote": {
+    "text": "A man should stand as firm against all indignities as a rock does against the waves.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76133"
+   },
+   "verse": {
+    "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.",
+    "credit": "Psalm 27:14",
+    "id": "Q106338"
+   }
+  },
+  "2027-07-18": {
+   "quote": {
+    "text": "A man's character should shine forth clearly from his eyes; as the beloved sees that he is so in the glances of those that love him.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105681"
+   },
+   "verse": {
+    "text": "A man's heart deviseth his way: but the LORD directeth his steps.",
+    "credit": "Proverbs 16:9",
+    "id": "Q106525"
+   }
+  },
+  "2027-07-19": {
+   "quote": {
+    "text": "All men descend from the same original stock; no one is better born than another, except in so far as his disposition is nobler and better suited for the performance of good actions.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73900"
+   },
+   "verse": {
+    "text": "Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name.",
+    "credit": "Psalm 86:11",
+    "id": "Q106394"
+   }
+  },
+  "2027-07-20": {
+   "quote": {
+    "text": "Not death or pain is to be feared, but the fear of death or pain.",
+    "credit": "Epictetus",
+    "id": "Q105571"
+   },
+   "verse": {
+    "text": "Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+    "credit": "1 Thessalonians 5:16–18",
+    "id": "Q106258"
+   }
+  },
+  "2027-07-21": {
+   "quote": {
+    "text": "Really, for a man who had been out of practice for so many years, it was a splendid laugh, a most illustrious laugh.",
+    "credit": "Charles Dickens",
+    "id": "Q106054"
+   },
+   "verse": {
+    "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+    "credit": "Psalm 51:17",
+    "id": "Q106372"
+   }
+  },
+  "2027-07-22": {
+   "quote": {
+    "text": "All judgment, intention, desire and aversion are within the soul, to which no evil can ascend.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105722"
+   },
+   "verse": {
+    "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.",
+    "credit": "Matthew 28:19",
+    "id": "Q106165"
+   }
+  },
+  "2027-07-23": {
+   "quote": {
+    "text": "I will do my duty without fear or confusion, I will not rage, I will not weep; but discharge the office of a good man without forfeiting the dignity of a man.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76127"
+   },
+   "verse": {
+    "text": "How sweet are thy words unto my taste! yea, sweeter than honey to my mouth!",
+    "credit": "Psalm 119:103",
+    "id": "Q106447"
+   }
+  },
+  "2027-07-24": {
+   "quote": {
+    "text": "Nothing is the better or the worse for being praised; and this holds also of what is beautiful in the common estimation: of material forms and works of art.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105697"
+   },
+   "verse": {
+    "text": "Who can find a virtuous woman? for her price is far above rubies.",
+    "credit": "Proverbs 31:10",
+    "id": "Q106554"
+   }
+  },
+  "2027-07-25": {
+   "quote": {
+    "text": "The man who while he gives thinks of what he will get in return, deserves to be deceived.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73942"
+   },
+   "verse": {
+    "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+    "credit": "Psalm 51:7",
+    "id": "Q106369"
+   }
+  },
+  "2027-07-26": {
+   "quote": {
+    "text": "The thief does not know wherein man's good consists, but he thinks that it consist in having fine clothes, the very thing which you also think.",
+    "credit": "Epictetus",
+    "id": "Q105917"
+   },
+   "verse": {
+    "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.",
+    "credit": "Isaiah 26:3",
+    "id": "Q106097"
+   }
+  },
+  "2027-07-27": {
+   "quote": {
+    "text": "To live the best life is within the power of the soul, if it be indifferent to indifferent things.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105744"
+   },
+   "verse": {
+    "text": "It is better to trust in the LORD than to put confidence in man.",
+    "credit": "Psalm 118:8",
+    "id": "Q106438"
+   }
+  },
+  "2027-07-28": {
+   "quote": {
+    "text": "Nothing ought to be done without a reason: a benefit is not truly so, if it be bestowed without a reason, since reason accompanies all honorable action.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73917"
+   },
+   "verse": {
+    "text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+    "credit": "Genesis 8:22",
+    "id": "Q106063"
+   }
+  },
+  "2027-07-29": {
+   "quote": {
+    "text": "Love the art which you have learned, humble though it be, and in it find your recreation.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105701"
+   },
+   "verse": {
+    "text": "Let thine eyes look right on, and let thine eyelids look straight before thee.",
+    "credit": "Proverbs 4:25",
+    "id": "Q106495"
+   }
+  },
+  "2027-07-30": {
+   "quote": {
+    "text": "If you seek Truth, you will not seek to gain a victory by every possible means; and when you have found Truth, you need not fear being defeated.",
+    "credit": "Epictetus",
+    "id": "Q105552"
+   },
+   "verse": {
+    "text": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+    "credit": "Ephesians 6:10",
+    "id": "Q106244"
+   }
+  },
+  "2027-07-31": {
+   "quote": {
+    "text": "Help one man with money, another with credit, another with your favour; this man with good advice, that one with sound maxims.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73989"
+   },
+   "verse": {
+    "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God.",
+    "credit": "Psalm 146:5",
+    "id": "Q106477"
+   }
+  },
+  "2027-08-01": {
+   "quote": {
+    "text": "Think continually of all the men that are dead and gone, men of every sort and condition, of all manner of pursuits, and of every nation.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105670"
+   },
+   "verse": {
+    "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer.",
+    "credit": "Romans 12:12",
+    "id": "Q106219"
+   }
+  },
+  "2027-08-02": {
+   "quote": {
+    "text": "Every moment, if it spares me, deceives me; and yet in some sort it does not deceive me; for though I know that any thing may happen, yet I know likewise that everything will not. I will hope the best, and provide for the worst.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76145"
+   },
+   "verse": {
+    "text": "For he satisfieth the longing soul, and filleth the hungry soul with goodness.",
+    "credit": "Psalm 107:9",
+    "id": "Q106429"
+   }
+  },
+  "2027-08-03": {
+   "quote": {
+    "text": "Men generally act as a traveller would do on his way to his own country, when he enters a good inn, and being pleased with it should remain there.",
+    "credit": "Epictetus",
+    "id": "Q105938"
+   },
+   "verse": {
+    "text": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
+    "credit": "Proverbs 16:32",
+    "id": "Q106529"
+   }
+  },
+  "2027-08-04": {
+   "quote": {
+    "text": "The course of things in the world is ever the same; a continual rotation; up and down, from age to age.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105729"
+   },
+   "verse": {
+    "text": "Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.",
+    "credit": "Ecclesiastes 4:9–10",
+    "id": "Q106090"
+   }
+  },
+  "2027-08-05": {
+   "quote": {
+    "text": "Every man wants as much as he covets; and it is lost labor to pour into a vessel that will never be full.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76055"
+   },
+   "verse": {
+    "text": "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds.",
+    "credit": "Psalm 36:5",
+    "id": "Q106350"
+   }
+  },
+  "2027-08-06": {
+   "quote": {
+    "text": "To have good fortune is to have a good spirit, or a good mind.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105712"
+   },
+   "verse": {
+    "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+    "credit": "Matthew 5:6",
+    "id": "Q106136"
+   }
+  },
+  "2027-08-07": {
+   "quote": {
+    "text": "I will repay a good man when it is convenient; I will repay a bad man when he asks me to do so.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73982"
+   },
+   "verse": {
+    "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light.",
+    "credit": "1 Peter 2:9",
+    "id": "Q106285"
+   }
+  },
+  "2027-08-08": {
+   "quote": {
+    "text": "Never proclaim yourself a philosopher, nor make much talk among the ignorant about your principles, but show them by actions.",
+    "credit": "Epictetus",
+    "id": "Q75916"
+   },
+   "verse": {
+    "text": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.",
+    "credit": "Revelation 3:20",
+    "id": "Q106303"
+   }
+  },
+  "2027-08-09": {
+   "quote": {
+    "text": "Nature may use her own bodies as she pleases; but a good man has this consolation, that nothing perishes which he can call his own.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76091"
+   },
+   "verse": {
+    "text": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation.",
+    "credit": "Psalm 149:4",
+    "id": "Q106480"
+   }
+  },
+  "2027-08-10": {
+   "quote": {
+    "text": "Dwell thus upon first appearances; add nothing to them from within, and no harm befalls you: or rather add the recognition that all is part of the world's lot.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105726"
+   },
+   "verse": {
+    "text": "Watch ye, stand fast in the faith, quit you like men, be strong. Let all your things be done with charity.",
+    "credit": "1 Corinthians 16:13–14",
+    "id": "Q106230"
+   }
+  },
+  "2027-08-11": {
+   "quote": {
+    "text": "We all know how perfectly delightful it is to love some one so much that we keep dreaming of her a little all the time, and what happiness it gives when the least thing one has to do with her is a perfectly golden joy.",
+    "credit": "Sarah Orne Jewett",
+    "id": "Q73223"
+   },
+   "verse": {
+    "text": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink.",
+    "credit": "Proverbs 25:21",
+    "id": "Q106548"
+   }
+  },
+  "2027-08-12": {
+   "quote": {
+    "text": "It is a common thing for men to hate the authors of their preferment, as the witnesses of their mean original.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76177"
+   },
+   "verse": {
+    "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+    "credit": "John 8:12",
+    "id": "Q106188"
+   }
+  },
+  "2027-08-13": {
+   "quote": {
+    "text": "Short is the life of every man; and thine is almost spent; spent, not honouring thyself, but seeking thy happiness in the souls of other men.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105656"
+   },
+   "verse": {
+    "text": "The LORD is gracious, and full of compassion; slow to anger, and of great mercy.",
+    "credit": "Psalm 145:8",
+    "id": "Q106474"
+   }
+  },
+  "2027-08-14": {
+   "quote": {
+    "text": "Would you be a wrestler, consider your shoulders, your thighs, your loins — not all men are formed to the same end.",
+    "credit": "Epictetus",
+    "id": "Q105580"
+   },
+   "verse": {
+    "text": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
+    "credit": "Proverbs 21:21",
+    "id": "Q106542"
+   }
+  },
+  "2027-08-15": {
+   "quote": {
+    "text": "We can be thankful to a friend for a few acres, or a little money: and yet for the freedom and command of the whole earth, and for the great benefits of our being, as life, health, and reason, we look upon ourselves as under no obligation.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76173"
+   },
+   "verse": {
+    "text": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy.",
+    "credit": "Psalm 103:8",
+    "id": "Q106421"
+   }
+  },
+  "2027-08-16": {
+   "quote": {
+    "text": "Observe how all things are referred to the one intelligence of this being; how all things act on one impulse; how all things are concurrent causes of all others; and how all things are connected and intertwined.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105704"
+   },
+   "verse": {
+    "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+    "credit": "Matthew 6:33",
+    "id": "Q106148"
+   }
+  },
+  "2027-08-17": {
+   "quote": {
+    "text": "How miserable are those people that spend their lives in the dismal apprehensions of death! for they are beset on all hands, and every minute in dread of a surprise.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76117"
+   },
+   "verse": {
+    "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
+    "credit": "Psalm 30:5",
+    "id": "Q106341"
+   }
+  },
+  "2027-08-18": {
+   "quote": {
+    "text": "A happy lot and portion is, good inclinations of the soul, good desires, good actions.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3236"
+   },
+   "verse": {
+    "text": "Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.",
+    "credit": "Proverbs 13:12",
+    "id": "Q106512"
+   }
+  },
+  "2027-08-19": {
+   "quote": {
+    "text": "True instruction is this: — to learn to wish that each thing should come to pass as it does.",
+    "credit": "Epictetus",
+    "id": "Q105554"
+   },
+   "verse": {
+    "text": "Search me, O God, and know my heart: try me, and know my thoughts: And see if there be any wicked way in me, and lead me in the way everlasting.",
+    "credit": "Psalm 139:23–24",
+    "id": "Q106469"
+   }
+  },
+  "2027-08-20": {
+   "quote": {
+    "text": "We are born helpless, and exposed to the injuries of all creatures and of all weathers.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76121"
+   },
+   "verse": {
+    "text": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.",
+    "credit": "Hebrews 4:16",
+    "id": "Q106265"
+   }
+  },
+  "2027-08-21": {
+   "quote": {
+    "text": "In the constitution of the rational animal I see no virtue which is opposed to justice; but I see a virtue which is opposed to love of pleasure, and that is temperance.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74114"
+   },
+   "verse": {
+    "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+    "credit": "Psalm 42:1",
+    "id": "Q106362"
+   }
+  },
+  "2027-08-22": {
+   "quote": {
+    "text": "Much they saw, and far they went, and many homes they visited, but always with a happy end.",
+    "credit": "Charles Dickens",
+    "id": "Q106051"
+   },
+   "verse": {
+    "text": "Trust ye in the LORD for ever: for in the LORD JEHOVAH is everlasting strength.",
+    "credit": "Isaiah 26:4",
+    "id": "Q106082"
+   }
+  },
+  "2027-08-23": {
+   "quote": {
+    "text": "It is a preposterous weakness to love a man before we know him, and not to care for him after.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76108"
+   },
+   "verse": {
+    "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+    "credit": "Psalm 95:1",
+    "id": "Q106408"
+   }
+  },
+  "2027-08-24": {
+   "quote": {
+    "text": "I used to be in passion every day; now every second day; then every third, then every fourth. But if you have intermitted thirty days, make a sacrifice to God.",
+    "credit": "Epictetus",
+    "id": "Q105877"
+   },
+   "verse": {
+    "text": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.",
+    "credit": "Proverbs 14:29",
+    "id": "Q106515"
+   }
+  },
+  "2027-08-25": {
+   "quote": {
+    "text": "It is a vulgar, but still a useful help towards contempt of death, to pass in review those who have tenaciously stuck to life.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74069"
+   },
+   "verse": {
+    "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
+    "credit": "Psalm 103:1",
+    "id": "Q106419"
+   }
+  },
+  "2027-08-26": {
+   "quote": {
+    "text": "It is the fear of death that makes us base, and troubles and destroys the life we would preserve; that aggravates all circumstances, and makes them formidable.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76151"
+   },
+   "verse": {
+    "text": "And the second is like unto it, Thou shalt love thy neighbour as thyself.",
+    "credit": "Matthew 22:39",
+    "id": "Q106161"
+   }
+  },
+  "2027-08-27": {
+   "quote": {
+    "text": "Whose soul do I now properly possess? a child's? or a youth's? a woman's? or a tyrant's? some brute, or some wild beast's soul?",
+    "credit": "Marcus Aurelius",
+    "id": "Q3248"
+   },
+   "verse": {
+    "text": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.",
+    "credit": "Psalm 143:8",
+    "id": "Q106471"
+   }
+  },
+  "2027-08-28": {
+   "quote": {
+    "text": "Genius, and genius alone, can prepare a feast fit for the feaster. Woe be to the wretch who sees nothing in preparing food for the mouth of man save manual labor.",
+    "credit": "W. H. H. Murray",
+    "id": "Q72732"
+   },
+   "verse": {
+    "text": "And as ye would that men should do to you, do ye also to them likewise.",
+    "credit": "Luke 6:31",
+    "id": "Q106176"
+   }
+  },
+  "2027-08-29": {
+   "quote": {
+    "text": "Nothing can be a benefit which does not proceed from good will, and which is not meant as such by the giver.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73930"
+   },
+   "verse": {
+    "text": "Shew me thy ways, O LORD; teach me thy paths. Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.",
+    "credit": "Psalm 25:4–5",
+    "id": "Q106335"
+   }
+  },
+  "2027-08-30": {
+   "quote": {
+    "text": "Never to disobey, never to arraign or murmur at aught that comes to you from His hand: never unwillingly to do or suffer aught that necessity lays upon you.",
+    "credit": "Epictetus",
+    "id": "Q105553"
+   },
+   "verse": {
+    "text": "The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh.",
+    "credit": "Proverbs 11:17",
+    "id": "Q106506"
+   }
+  },
+  "2027-08-31": {
+   "quote": {
+    "text": "The age and time of the world is as it were a flood and swift current, consisting of the things that are brought to pass in the world.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3301"
+   },
+   "verse": {
+    "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+    "credit": "1 John 4:10",
+    "id": "Q106296"
+   }
+  },
+  "2027-09-01": {
+   "quote": {
+    "text": "The father gives life to the son but once; but if the son save the father's life often, though he do but his duty, it is yet a greater benefit.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76160"
+   },
+   "verse": {
+    "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.",
+    "credit": "Psalm 112:7",
+    "id": "Q106431"
+   }
+  },
+  "2027-09-02": {
+   "quote": {
+    "text": "The present moment is the same for all men, and their loss, therefore, is equal, for it is clear that what they lose in death is but a fleeting instant of time.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105659"
+   },
+   "verse": {
+    "text": "For all have sinned, and come short of the glory of God.",
+    "credit": "Romans 3:23",
+    "id": "Q106208"
+   }
+  },
+  "2027-09-03": {
+   "quote": {
+    "text": "Never then look for the matter itself in one place, and progress towards it in another.",
+    "credit": "Epictetus",
+    "id": "Q105864"
+   },
+   "verse": {
+    "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+    "credit": "James 1:22",
+    "id": "Q106279"
+   }
+  },
+  "2027-09-04": {
+   "quote": {
+    "text": "When a man comes once to stand in need of fortune, his life is anxious, suspicious, timorous, dependent upon every moment, and in fear of all accidents.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76086"
+   },
+   "verse": {
+    "text": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+    "credit": "Psalm 47:1",
+    "id": "Q106366"
+   }
+  },
+  "2027-09-05": {
+   "quote": {
+    "text": "All things that are in the world, are always in the estate of alteration. Thou also art in a perpetual change, yea and under corruption too, in some part: and so is the whole world.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3280"
+   },
+   "verse": {
+    "text": "Happy is the man that findeth wisdom, and the man that getteth understanding.",
+    "credit": "Proverbs 3:13",
+    "id": "Q106489"
+   }
+  },
+  "2027-09-06": {
+   "quote": {
+    "text": "We are all sick, I must confess, and it is not for sick men to play the physicians; but it is yet lawful for a man in an hospital to discourse of the common condition and distempers of the place.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76090"
+   },
+   "verse": {
+    "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass.",
+    "credit": "Psalm 37:5",
+    "id": "Q106355"
+   }
+  },
+  "2027-09-07": {
+   "quote": {
+    "text": "Where I can be hindered and compelled, the obtaining of those things is not in my power, nor is it good or bad; but the use is either bad or good, and the use is in my power.",
+    "credit": "Epictetus",
+    "id": "Q105924"
+   },
+   "verse": {
+    "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+    "credit": "John 10:11",
+    "id": "Q106191"
+   }
+  },
+  "2027-09-08": {
+   "quote": {
+    "text": "Not in passivity but in activity lie the evil and the good of the rational social animal, just as his virtue and his vice lie not in passivity but in activity.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74150"
+   },
+   "verse": {
+    "text": "For to me to live is Christ, and to die is gain.",
+    "credit": "Philippians 1:21",
+    "id": "Q106246"
+   }
+  },
+  "2027-09-09": {
+   "quote": {
+    "text": "We are ungrateful in public matters; and if every man asks himself, you will find that there is no one who has not some private ingratitude to complain of.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73905"
+   },
+   "verse": {
+    "text": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.",
+    "credit": "2 Chronicles 7:14",
+    "id": "Q106083"
+   }
+  },
+  "2027-09-10": {
+   "quote": {
+    "text": "Whatever the children are doing, they are happy about it; if they are doing nothing, they are happy about doing nothing.",
+    "credit": "James Lane Allen",
+    "id": "Q73367"
+   },
+   "verse": {
+    "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing.",
+    "credit": "Genesis 12:2",
+    "id": "Q106064"
+   }
+  },
+  "2027-09-11": {
+   "quote": {
+    "text": "The path of virtue is closed to no one, it lies open to all; it admits and invites all, whether they be free-born men, slaves or freed-men, kings or exiles; it requires no qualifications of family or of property, it is satisfied with a mere man.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73958"
+   },
+   "verse": {
+    "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.",
+    "credit": "Psalm 31:24",
+    "id": "Q106342"
+   }
+  },
+  "2027-09-12": {
+   "quote": {
+    "text": "In one respect man is the nearest thing to me, so far as I must do good to men and endure them.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74099"
+   },
+   "verse": {
+    "text": "And he said, My presence shall go with thee, and I will give thee rest.",
+    "credit": "Exodus 33:14",
+    "id": "Q106071"
+   }
+  },
+  "2027-09-13": {
+   "quote": {
+    "text": "Wouldst thou have men speak good of thee? speak good of them.",
+    "credit": "Epictetus",
+    "id": "Q105570"
+   },
+   "verse": {
+    "text": "The memory of the just is blessed: but the name of the wicked shall rot.",
+    "credit": "Proverbs 10:7",
+    "id": "Q106498"
+   }
+  },
+  "2027-09-14": {
+   "quote": {
+    "text": "What can prove gratitude so well as that a man should never be satisfied, should never even entertain the hope of making any adequate return for what he has received?",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73935"
+   },
+   "verse": {
+    "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+    "credit": "Matthew 7:7",
+    "id": "Q106150"
+   }
+  },
+  "2027-09-15": {
+   "quote": {
+    "text": "The soul is bent or moved by itself alone, and remodels all things that present themselves from without in accordance with whatever judgment it adopts within.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105707"
+   },
+   "verse": {
+    "text": "O sing unto the LORD a new song: sing unto the LORD, all the earth.",
+    "credit": "Psalm 96:1",
+    "id": "Q106411"
+   }
+  },
+  "2027-09-16": {
+   "quote": {
+    "text": "It is as great a folly to fear death as to fear old age; nay, as to fear life itself; for he that would not die ought not to live, since death is the condition of life.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76152"
+   },
+   "verse": {
+    "text": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+    "credit": "2 Corinthians 9:7",
+    "id": "Q106233"
+   }
+  },
+  "2027-09-17": {
+   "quote": {
+    "text": "Life is short, and the one fruit of it in this world is a pure mind and unselfish conduct.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105652"
+   },
+   "verse": {
+    "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+    "credit": "Deuteronomy 31:6",
+    "id": "Q106074"
+   }
+  },
+  "2027-09-18": {
+   "quote": {
+    "text": "Do you not know, that as a foot is no longer a foot if it is detached from the body, so you are no longer a man if you are separated from other men.",
+    "credit": "Epictetus",
+    "id": "Q105925"
+   },
+   "verse": {
+    "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.",
+    "credit": "Psalm 46:10",
+    "id": "Q106365"
+   }
+  },
+  "2027-09-19": {
+   "quote": {
+    "text": "You will say that anger does some good yet, for it keeps people in awe, and secures a man from contempt; never considering, that it is more dangerous to be feared than despised.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76125"
+   },
+   "verse": {
+    "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.",
+    "credit": "Isaiah 40:31",
+    "id": "Q106102"
+   }
+  },
+  "2027-09-20": {
+   "quote": {
+    "text": "It is a shame then that ignorance and conceit should be stronger than wisdom.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74098"
+   },
+   "verse": {
+    "text": "And above all these things put on charity, which is the bond of perfectness.",
+    "credit": "Colossians 3:14",
+    "id": "Q106255"
+   }
+  },
+  "2027-09-21": {
+   "quote": {
+    "text": "People follow their interest: one man is grateful for his convenience, and another man is ungrateful for the same reason.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76078"
+   },
+   "verse": {
+    "text": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.",
+    "credit": "Proverbs 11:13",
+    "id": "Q106504"
+   }
+  },
+  "2027-09-22": {
+   "quote": {
+    "text": "I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy.",
+    "credit": "Scrooge",
+    "id": "Q0045"
+   },
+   "verse": {
+    "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+    "credit": "Galatians 6:9",
+    "id": "Q106239"
+   }
+  },
+  "2027-09-23": {
+   "quote": {
+    "text": "A man's master is he who is able to confer or remove whatever that man seeks or shuns.",
+    "credit": "Epictetus",
+    "id": "Q75910"
+   },
+   "verse": {
+    "text": "Open thou mine eyes, that I may behold wondrous things out of thy law.",
+    "credit": "Psalm 119:18",
+    "id": "Q106442"
+   }
+  },
+  "2027-09-24": {
+   "quote": {
+    "text": "The time of a man's life is as a point; the substance of it ever flowing, the sense obscure; and the whole composition of the body tending to corruption.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3256"
+   },
+   "verse": {
+    "text": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+    "credit": "Proverbs 10:9",
+    "id": "Q106499"
+   }
+  },
+  "2027-09-25": {
+   "quote": {
+    "text": "It is a fair, even-handed, noble adjustment of things, that while there is infection in disease and sorrow, there is nothing in the world so irresistibly contagious as laughter and good-humour.",
+    "credit": "Charles Dickens",
+    "id": "Q6059"
+   },
+   "verse": {
+    "text": "What time I am afraid, I will trust in thee.",
+    "credit": "Psalm 56:3",
+    "id": "Q106374"
+   }
+  },
+  "2027-09-26": {
+   "quote": {
+    "text": "It is a common mistake to account those things necessary that are superfluous, and to depend upon fortune for the felicity of life, which arises only from virtue.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76100"
+   },
+   "verse": {
+    "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+    "credit": "2 Timothy 1:7",
+    "id": "Q106261"
+   }
+  },
+  "2027-09-27": {
+   "quote": {
+    "text": "One thing here is worth a great deal, to pass thy life in truth and justice, with a benevolent disposition even to liars and unjust men.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74107"
+   },
+   "verse": {
+    "text": "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.",
+    "credit": "Psalm 73:25",
+    "id": "Q106387"
+   }
+  },
+  "2027-09-28": {
+   "quote": {
+    "text": "Suppose a man defends my fame; delivers me from beggary; saves my life; or gives me liberty, that is more than life; how shall I be grateful to that man?",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76138"
+   },
+   "verse": {
+    "text": "And he saith unto them, Follow me, and I will make you fishers of men.",
+    "credit": "Matthew 4:19",
+    "id": "Q106132"
+   }
+  },
+  "2027-09-29": {
+   "quote": {
+    "text": "Against this fear then, I pray you, harden yourself; to this let all your reasonings, your exercises, your reading tend. Then shall you know that thus alone are men set free.",
+    "credit": "Epictetus",
+    "id": "Q105582"
+   },
+   "verse": {
+    "text": "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+    "credit": "Acts 17:28",
+    "id": "Q106205"
+   }
+  },
+  "2027-09-30": {
+   "quote": {
+    "text": "The man who is honest and good ought to be exactly like a man who smells strong, so that the bystander as soon as he comes near him must smell whether he choose or not.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74050"
+   },
+   "verse": {
+    "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is.",
+    "credit": "Psalm 63:1",
+    "id": "Q106380"
+   }
+  },
+  "2027-10-01": {
+   "quote": {
+    "text": "A benefit should be made acceptable by all possible means, even to the end that the receiver, who is never to forget it, may bear it in his mind with satisfaction.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76164"
+   },
+   "verse": {
+    "text": "The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
+    "credit": "Proverbs 11:25",
+    "id": "Q106507"
+   }
+  },
+  "2027-10-02": {
+   "quote": {
+    "text": "To the gods I am indebted for having good grandfathers, good parents, a good sister, good teachers, good associates, good kinsmen and friends, nearly everything good.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74146"
+   },
+   "verse": {
+    "text": "Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.",
+    "credit": "Psalm 100:3",
+    "id": "Q106416"
+   }
+  },
+  "2027-10-03": {
+   "quote": {
+    "text": "The philosopher must examine and control his passions, his love, his tenderness at all times in order always to be ready for the inevitable moment of farewell.",
+    "credit": "Epictetus",
+    "id": "Q75913"
+   },
+   "verse": {
+    "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+    "credit": "Mark 16:15",
+    "id": "Q106170"
+   }
+  },
+  "2027-10-04": {
+   "quote": {
+    "text": "It is better to benefit the bad as well, for the sake of benefiting the good, than to stint the good for fear of benefiting the bad.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73903"
+   },
+   "verse": {
+    "text": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us.",
+    "credit": "Ephesians 3:20",
+    "id": "Q106242"
+   }
+  },
+  "2027-10-05": {
+   "quote": {
+    "text": "What use is there of suspicion at all? or, why should thoughts of mistrust, and suspicion concerning that which is future, trouble thy mind at all?",
+    "credit": "Marcus Aurelius",
+    "id": "Q3310"
+   },
+   "verse": {
+    "text": "I was glad when they said unto me, Let us go into the house of the LORD.",
+    "credit": "Psalm 122:1",
+    "id": "Q106455"
+   }
+  },
+  "2027-10-06": {
+   "quote": {
+    "text": "We never give with so much judgment or care, as when we consider the honesty of the action, without any regard to the profit of it; for our understandings are corrupted by fear, hope, and pleasure.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76174"
+   },
+   "verse": {
+    "text": "Pride goeth before destruction, and an haughty spirit before a fall.",
+    "credit": "Proverbs 16:18",
+    "id": "Q106526"
+   }
+  },
+  "2027-10-07": {
+   "quote": {
+    "text": "It is a mark of want of intellect to spend much time in things relating to the body, as to be immoderate in exercises, in eating and drinking, and in the discharge of other animal functions.",
+    "credit": "Epictetus",
+    "id": "Q75927"
+   },
+   "verse": {
+    "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+    "credit": "Hebrews 11:1",
+    "id": "Q106267"
+   }
+  },
+  "2027-10-08": {
+   "quote": {
+    "text": "It is not possible that any nature should be inferior unto art, since that all arts imitate nature.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3313"
+   },
+   "verse": {
+    "text": "Like as a father pitieth his children, so the LORD pitieth them that fear him.",
+    "credit": "Psalm 103:13",
+    "id": "Q106424"
+   }
+  },
+  "2027-10-09": {
+   "quote": {
+    "text": "Life is a navigation; we are perpetually wallowing and dashing one against another; sometimes we suffer shipwreck, but we are always in danger and in expectation of it.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76118"
+   },
+   "verse": {
+    "text": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear.",
+    "credit": "1 Peter 3:15",
+    "id": "Q106286"
+   }
+  },
+  "2027-10-10": {
+   "quote": {
+    "text": "Whatever man thou meetest with, immediately say to thyself: What opinions has this man about good and bad?",
+    "credit": "Marcus Aurelius",
+    "id": "Q74073"
+   },
+   "verse": {
+    "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+    "credit": "Psalm 133:1",
+    "id": "Q106464"
+   }
+  },
+  "2027-10-11": {
+   "quote": {
+    "text": "Every man has a judge and a witness within himself of all the good and ill that he does, which inspires us with great thoughts, and administers to us wholesome counsels.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76042"
+   },
+   "verse": {
+    "text": "For whosoever shall call upon the name of the Lord shall be saved.",
+    "credit": "Romans 10:13",
+    "id": "Q106217"
+   }
+  },
+  "2027-10-12": {
+   "quote": {
+    "text": "Men are disturbed not by things, but by the views which they take of things.",
+    "credit": "Epictetus",
+    "id": "Q75914"
+   },
+   "verse": {
+    "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+    "credit": "Revelation 1:8",
+    "id": "Q106302"
+   }
+  },
+  "2027-10-13": {
+   "quote": {
+    "text": "We are not ready for death, and therefore we fear it, because we do not know what will become of us when we are gone, and that consideration strikes us with an inexplicable terror.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76109"
+   },
+   "verse": {
+    "text": "For where your treasure is, there will your heart be also.",
+    "credit": "Matthew 6:21",
+    "id": "Q106144"
+   }
+  },
+  "2027-10-14": {
+   "quote": {
+    "text": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74077"
+   },
+   "verse": {
+    "text": "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.",
+    "credit": "1 Corinthians 13:11",
+    "id": "Q106226"
+   }
+  },
+  "2027-10-15": {
+   "quote": {
+    "text": "Nature bestows upon us all this immense advantage, that the light of virtue shines into the minds of all alike; even those who do not follow her, behold her.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q73918"
+   },
+   "verse": {
+    "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart.",
+    "credit": "Proverbs 3:3",
+    "id": "Q106485"
+   }
+  },
+  "2027-10-16": {
+   "quote": {
+    "text": "The duration of man's life is but an instant; his substance is fleeting, his senses dull; the structure of his body corruptible; the soul but a vortex.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105692"
+   },
+   "verse": {
+    "text": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+    "credit": "Psalm 69:30",
+    "id": "Q106385"
+   }
+  },
+  "2027-10-17": {
+   "quote": {
+    "text": "A man will not readily confess that he is intemperate; and that he is unjust, he will not confess at all.",
+    "credit": "Epictetus",
+    "id": "Q105851"
+   },
+   "verse": {
+    "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
+    "credit": "John 3:17",
+    "id": "Q106186"
+   }
+  },
+  "2027-10-18": {
+   "quote": {
+    "text": "The common benefits of laws, privileges, communities, letters, and medicines, are permitted to the bad as well as to the good; and no man ever yet suppressed a sovereign remedy for fear a wicked man might be cured with it.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76182"
+   },
+   "verse": {
+    "text": "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+    "credit": "Isaiah 1:18",
+    "id": "Q106094"
+   }
+  },
+  "2027-10-19": {
+   "quote": {
+    "text": "Whatever this is that I am, it is a little flesh and breath, and the ruling part.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74092"
+   },
+   "verse": {
+    "text": "I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore.",
+    "credit": "Psalm 86:12",
+    "id": "Q106395"
+   }
+  },
+  "2027-10-20": {
+   "quote": {
+    "text": "My mother brought me into the world naked, exposed, and void of reason; but my reputation and my fortune are advanced by my virtue.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76161"
+   },
+   "verse": {
+    "text": "Be not wise in thine own eyes: fear the LORD, and depart from evil.",
+    "credit": "Proverbs 3:7",
+    "id": "Q106487"
+   }
+  },
+  "2027-10-21": {
+   "quote": {
+    "text": "The man who is a man indeed should not set his heart on living through a few more years of life, nor should he make that the end of his desire.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105647"
+   },
+   "verse": {
+    "text": "Delight thyself also in the LORD: and he shall give thee the desires of thine heart.",
+    "credit": "Psalm 37:4",
+    "id": "Q106354"
+   }
+  },
+  "2027-10-22": {
+   "quote": {
+    "text": "Seemeth it nothing to you, never to accuse, never to blame either God or Man? to wear ever the same countenance in going forth as in coming in?",
+    "credit": "Epictetus",
+    "id": "Q105577"
+   },
+   "verse": {
+    "text": "And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+    "credit": "Job 1:21",
+    "id": "Q106085"
+   }
+  },
+  "2027-10-23": {
+   "quote": {
+    "text": "A wicked man will run all risks to do an injury, and to compass his revenge; and shall not an honest man venture as far to do a good office?",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76137"
+   },
+   "verse": {
+    "text": "For with thee is the fountain of life: in thy light shall we see light.",
+    "credit": "Psalm 36:9",
+    "id": "Q106352"
+   }
+  },
+  "2027-10-24": {
+   "quote": {
+    "text": "If any one can convince or shew me that I am wrong in thought or deed, I will gladly change. It is truth that I seek; and truth never yet hurt any man.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105710"
+   },
+   "verse": {
+    "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+    "credit": "Proverbs 21:23",
+    "id": "Q106543"
+   }
+  },
+  "2027-10-25": {
+   "quote": {
+    "text": "No wind that blew was bitterer than he, no falling snow was more intent upon its purpose, no pelting rain less open to entreaty.",
+    "credit": "Charles Dickens",
+    "id": "Q106049"
+   },
+   "verse": {
+    "text": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+    "credit": "Ecclesiastes 9:10",
+    "id": "Q106091"
+   }
+  },
+  "2027-10-26": {
+   "quote": {
+    "text": "A plain-dealing sincerity of manners makes a man's life happy, even in despite of scorn and contempt, which is every clear man's fate.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76099"
+   },
+   "verse": {
+    "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+    "credit": "Psalm 119:105",
+    "id": "Q106448"
+   }
+  },
+  "2027-10-27": {
+   "quote": {
+    "text": "There are things which are within our power, and there are things which are beyond our power.",
+    "credit": "Epictetus",
+    "id": "Q75917"
+   },
+   "verse": {
+    "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+    "credit": "Matthew 4:4",
+    "id": "Q106131"
+   }
+  },
+  "2027-10-28": {
+   "quote": {
+    "text": "To do nothing rashly without some certain end; let that be thy first care. The next, to have no other end than the common good.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3291"
+   },
+   "verse": {
+    "text": "And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.",
+    "credit": "Luke 12:15",
+    "id": "Q106180"
+   }
+  },
+  "2027-10-29": {
+   "quote": {
+    "text": "How terrible is death to one man, which to another appears the greatest providence in nature, even toward all ages and conditions!",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76103"
+   },
+   "verse": {
+    "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+    "credit": "Psalm 23:2",
+    "id": "Q106329"
+   }
+  },
+  "2027-10-30": {
+   "quote": {
+    "text": "The ambitious supposeth another man's act, praise and applause, to be his own happiness; the voluptuous his own sense and feeling; but he that is wise, his own action.",
+    "credit": "Marcus Aurelius",
+    "id": "Q3268"
+   },
+   "verse": {
+    "text": "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.",
+    "credit": "1 John 1:5",
+    "id": "Q106290"
+   }
+  },
+  "2027-10-31": {
+   "quote": {
+    "text": "If we do nothing but what is honest, let all the world know it; but if otherwise, what does it signify to have nobody else know it, so long as I know it myself?",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76141"
+   },
+   "verse": {
+    "text": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.",
+    "credit": "Genesis 2:18",
+    "id": "Q106062"
+   }
+  },
+  "2027-11-01": {
+   "quote": {
+    "text": "For the heart of a bad man is faithless, unprincipled, inconstant: now overpowered by one impression, now by another.",
+    "credit": "Epictetus",
+    "id": "Q105576"
+   },
+   "verse": {
+    "text": "Where no counsel is, the people fall: but in the multitude of counsellors there is safety.",
+    "credit": "Proverbs 11:14",
+    "id": "Q106505"
+   }
+  },
+  "2027-11-02": {
+   "quote": {
+    "text": "We must make haste, then, not only because we are daily nearer to death, but also because the conception of things and the understanding of them cease first.",
+    "credit": "Marcus Aurelius",
+    "id": "Q74094"
+   },
+   "verse": {
+    "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+    "credit": "Psalm 37:7",
+    "id": "Q106356"
+   }
+  },
+  "2027-11-03": {
+   "quote": {
+    "text": "It is the edge and temper of the blade that makes a good sword, not the richness of the scabbard: and so it is not money or possessions, that makes a man considerable, but his virtue.",
+    "credit": "Lucius Annaeus Seneca",
+    "id": "Q76143"
+   },
+   "verse": {
+    "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+    "credit": "Joshua 1:9",
+    "id": "Q106077"
+   }
+  },
+  "2027-11-04": {
+   "quote": {
+    "text": "Whatever is beautiful at all is beautiful in itself. Its beauty ends there, and praise has no part in it.",
+    "credit": "Marcus Aurelius",
+    "id": "Q105664"
+   },
+   "verse": {
+    "text": "I love the LORD, because he hath heard my voice and my supplications.",
+    "credit": "Psalm 116:1",
+    "id": "Q106434"
+   }
+  },
+  "2027-11-05": {
+   "quote": {
+    "text": "Brethren, friends, all, let us make up our minds that we will be kindly affectioned one to another in our homes and out of them, on this approaching Christmas day.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72318"
+   },
+   "verse": {
+    "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+    "credit": "Proverbs 19:11",
+    "id": "Q106537"
+   }
+  },
+  "2027-11-06": {
+   "quote": {
+    "text": "On the other hand, when treated reverently and burned with fitting rites, the yule-log brings upon all the household a blessing; and when it has been consumed even its ashes are potent for good.",
+    "credit": "Thomas A. Janvier",
+    "id": "Q72439"
+   },
+   "verse": {
+    "text": "O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+    "credit": "Psalm 34:8",
+    "id": "Q106348"
+   }
+  },
+  "2027-11-07": {
+   "quote": {
+    "text": "True, the long-distance telephone would cost him five dollars; but what is five dollars weighed against the privilege of wafting happiness to an entire family on Christmas Day!",
+    "credit": "Jerome K. Jerome",
+    "id": "Q67824"
+   },
+   "verse": {
+    "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+    "credit": "Ezekiel 36:26",
+    "id": "Q106121"
+   }
+  },
+  "2027-11-08": {
+   "quote": {
+    "text": "I shall save all my Christmas-boxes to give to you; and when I am a man, I will give you a great deal of money.",
+    "credit": "Dorothy Kilner",
+    "id": "Q54262"
+   },
+   "verse": {
+    "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+    "credit": "Psalm 55:22",
+    "id": "Q106373"
+   }
+  },
+  "2027-11-09": {
+   "quote": {
+    "text": "It is good to be children sometimes, and never better than at Christmas, when its mighty Founder was a child himself.",
+    "credit": "Charles Dickens",
+    "id": "Q106047"
+   },
+   "verse": {
+    "text": "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+    "credit": "Matthew 28:20",
+    "id": "Q106166"
+   }
+  },
+  "2027-11-10": {
+   "quote": {
+    "text": "I've had kid mittens before from the Christmas tree, but never real kid gloves with five fingers. I take them out and try them on every little while.",
+    "credit": "Jean Webster",
+    "id": "Q9079"
+   },
+   "verse": {
+    "text": "Thy word have I hid in mine heart, that I might not sin against thee.",
+    "credit": "Psalm 119:11",
+    "id": "Q106441"
+   }
+  },
+  "2027-11-11": {
+   "quote": {
+    "text": "I don't make merry myself at Christmas and I can't afford to make idle people merry.",
+    "credit": "Charles Dickens",
+    "id": "Q6065"
+   },
+   "verse": {
+    "text": "Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.",
+    "credit": "Proverbs 15:17",
+    "id": "Q106521"
+   }
+  },
+  "2027-11-12": {
+   "quote": {
+    "text": "We always liked snow at Christmas time, and the sleigh-ride down to the church on Christmas eve.",
+    "credit": "Theodore Roosevelt",
+    "id": "Q77313"
+   },
+   "verse": {
+    "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
+    "credit": "James 5:16",
+    "id": "Q106283"
+   }
+  },
+  "2027-11-13": {
+   "quote": {
+    "text": "It is a shame to think how every one seems bound to spoil children, especially at Christmas time.",
+    "credit": "Abbie Farwell Brown",
+    "id": "Q72331"
+   },
+   "verse": {
+    "text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.",
+    "credit": "Isaiah 6:8",
+    "id": "Q106095"
+   }
+  },
+  "2027-11-14": {
+   "quote": {
+    "text": "All the old Christmas cheer is in these reciprocities of friendship that have lost every touch of condescension.",
+    "credit": "Samuel McChord Crothers",
+    "id": "Q72518"
+   },
+   "verse": {
+    "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our LORD: neither be ye sorry; for the joy of the LORD is your strength.",
+    "credit": "Nehemiah 8:10",
+    "id": "Q106084"
+   }
+  },
+  "2027-11-15": {
+   "quote": {
+    "text": "I begin to consider, what do we all remember best upon the branches of the Christmas Tree of our own young Christmas days, by which we climbed to real life.",
+    "credit": "Charles Dickens",
+    "id": "Q41167"
+   },
+   "verse": {
+    "text": "But the LORD is my defence; and my God is the rock of my refuge.",
+    "credit": "Psalm 94:22",
+    "id": "Q106407"
+   }
+  },
+  "2027-11-16": {
+   "quote": {
+    "text": "I hope we shall have many a merry Christmas together in this world and the next.",
+    "credit": "Theodore Parker",
+    "id": "Q72389"
+   },
+   "verse": {
+    "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+    "credit": "John 13:34",
+    "id": "Q106193"
+   }
+  },
+  "2027-11-17": {
+   "quote": {
+    "text": "The efforts of the people to give their children a merry Christmas in the popular sense, however, are strong and sometimes pitiful.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72330"
+   },
+   "verse": {
+    "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+    "credit": "Psalm 36:7",
+    "id": "Q106351"
+   }
+  },
+  "2027-11-18": {
+   "quote": {
+    "text": "The misletoe is still hung up in farmhouses and kitchens at Christmas; and the young men have the privilege of kissing the girls under it, plucking each time a berry from the bush.",
+    "credit": "Washington Irving",
+    "id": "Q52332"
+   },
+   "verse": {
+    "text": "Honour the LORD with thy substance, and with the firstfruits of all thine increase.",
+    "credit": "Proverbs 3:9",
+    "id": "Q106488"
+   }
+  },
+  "2027-11-19": {
+   "quote": {
+    "text": "I have never come across a small boy before who grew his own Christmas tree. I think it quite a good idea.",
+    "credit": "Amy Le Feuvre",
+    "id": "Q73774"
+   },
+   "verse": {
+    "text": "I can do all things through Christ which strengtheneth me.",
+    "credit": "Philippians 4:13",
+    "id": "Q106251"
+   }
+  },
+  "2027-11-20": {
+   "quote": {
+    "text": "The laying of the yule-log followed; a ceremony so grave that it has all the dignity of, and really is, a religious rite.",
+    "credit": "Thomas A. Janvier",
+    "id": "Q72442"
+   },
+   "verse": {
+    "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+    "credit": "Romans 15:13",
+    "id": "Q106221"
+   }
+  },
+  "2027-11-21": {
+   "quote": {
+    "text": "I will honour Christmas in my heart, and try to keep it all the year.",
+    "credit": "Charles Dickens",
+    "id": "Q0007"
+   },
+   "verse": {
+    "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+    "credit": "Psalm 9:1",
+    "id": "Q106317"
+   }
+  },
+  "2027-11-22": {
+   "quote": {
+    "text": "All the family send love to all of you and best Christmas wishes for your prosperity.",
+    "credit": "Mark Twain",
+    "id": "Q103970"
+   },
+   "verse": {
+    "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+    "credit": "James 1:17",
+    "id": "Q106277"
+   }
+  },
+  "2027-11-23": {
+   "quote": {
+    "text": "There are Christmas feasts and gifts and village treats, and the big carriage or the smaller ones stop at cottage doors and at once confer exciting distinction and carry good cheer.",
+    "credit": "Frances Hodgson Burnett",
+    "id": "Q17652"
+   },
+   "verse": {
+    "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+    "credit": "Philippians 4:6",
+    "id": "Q106248"
+   }
+  },
+  "2027-11-24": {
+   "quote": {
+    "text": "I have kept many a Christmas alone and in company, both, but never afore have I knowed the raal meanin' of the day nor read the lesson of it aright.",
+    "credit": "W. H. H. Murray",
+    "id": "Q72757"
+   },
+   "verse": {
+    "text": "Bless the LORD, O my soul, and forget not all his benefits.",
+    "credit": "Psalm 103:2",
+    "id": "Q106420"
+   }
+  },
+  "2027-11-25": {
+   "quote": {
+    "text": "Eighty oxen, fat as Christmas, were slain and roasted, subsidiary viands I do not count; that all the world might have one good dinner.",
+    "credit": "Thomas Carlyle",
+    "id": "Q60146"
+   },
+   "verse": {
+    "text": "Praise ye the LORD. O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
+    "credit": "Psalm 106:1",
+    "id": "Q106427"
+   }
+  },
+  "2027-11-26": {
+   "quote": {
+    "text": "It was always said of him, that he knew how to keep Christmas well, if any man alive possessed the knowledge.",
+    "credit": "Charles Dickens",
+    "id": "Q106046"
+   },
+   "verse": {
+    "text": "Blessed are the merciful: for they shall obtain mercy.",
+    "credit": "Matthew 5:7",
+    "id": "Q106137"
+   }
+  },
+  "2027-11-27": {
+   "quote": {
+    "text": "Heaven, and the Christmas Time be praised for this!",
+    "credit": "Charles Dickens",
+    "id": "Q106053"
+   },
+   "verse": {
+    "text": "For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.",
+    "credit": "Psalm 84:10",
+    "id": "Q106390"
+   }
+  },
+  "2027-11-28": {
+   "quote": {
+    "text": "We have all admired the illustrated papers, and noted how boisterously jolly they become at Christmas time.",
+    "credit": "William Makepeace Thackeray",
+    "id": "Q41022"
+   },
+   "verse": {
+    "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+    "credit": "Proverbs 28:1",
+    "id": "Q106551"
+   }
+  },
+  "2027-11-29": {
+   "quote": {
+    "text": "More than all the Christmas gifts in the world, he wanted at that time his mother and father and friends.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72312"
+   },
+   "verse": {
+    "text": "The LORD hath done great things for us; whereof we are glad.",
+    "credit": "Psalm 126:3",
+    "id": "Q106458"
+   }
+  },
+  "2027-11-30": {
+   "quote": {
+    "text": "A Christmas dinner is no good if it's got to be eat alone, and you and me might eat ourn together.",
+    "credit": "Frank Richard Stockton",
+    "id": "Q15170"
+   },
+   "verse": {
+    "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.",
+    "credit": "Hebrews 13:2",
+    "id": "Q106271"
+   }
+  },
+  "2027-12-01": {
+   "quote": {
+    "text": "The ancient amusement of shooting the Christmas turkey is one of the few sports that the settlers of a new country seldom or never neglect to observe.",
+    "credit": "James Fenimore Cooper",
+    "id": "Q63739"
+   },
+   "verse": {
+    "text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+    "credit": "Revelation 22:13",
+    "id": "Q106307"
+   }
+  },
+  "2027-12-02": {
+   "quote": {
+    "text": "How many old recollections, and how many dormant sympathies, does Christmas time awaken!",
+    "credit": "Charles Dickens",
+    "id": "Q6030"
+   },
+   "verse": {
+    "text": "The LORD will give strength unto his people; the LORD will bless his people with peace.",
+    "credit": "Psalm 29:11",
+    "id": "Q106340"
+   }
+  },
+  "2027-12-03": {
+   "quote": {
+    "text": "I am on my rounds to take the names of all the young people who deserve a remembrance at Christmas time. I haven't a moment to lose.",
+    "credit": "Alice Maude Kellogg",
+    "id": "Q72236"
+   },
+   "verse": {
+    "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.",
+    "credit": "1 Corinthians 13:4",
+    "id": "Q106224"
+   }
+  },
+  "2027-12-04": {
+   "quote": {
+    "text": "When Nature decides that her Christmas gift to us shall be a rainstorm, she does not send any niggardly shower.",
+    "credit": "Adeline Knapp",
+    "id": "Q73579"
+   },
+   "verse": {
+    "text": "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake.",
+    "credit": "Psalm 115:1",
+    "id": "Q106433"
+   }
+  },
+  "2027-12-05": {
+   "quote": {
+    "text": "On Christmas morning I mounted to the crow's-nest at daybreak, and stood looking with never-failing awe at the daily marvel of the sunrise.",
+    "credit": "Frank Thomas Bullen",
+    "id": "Q37903"
+   },
+   "verse": {
+    "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+    "credit": "John 10:10",
+    "id": "Q106190"
+   }
+  },
+  "2027-12-06": {
+   "quote": {
+    "text": "A man of light mind who endeavoured to reconcile all the things suggested to him by the coming of Christmas would probably become demented if he bent his entire intellect to solve the puzzles.",
+    "credit": "James Runciman",
+    "id": "Q95447"
+   },
+   "verse": {
+    "text": "For thou art my hope, O Lord GOD: thou art my trust from my youth.",
+    "credit": "Psalm 71:5",
+    "id": "Q106386"
+   }
+  },
+  "2027-12-07": {
+   "quote": {
+    "text": "He carried his own low temperature always about with him; he iced his office in the dog-days; and didn't thaw it one degree at Christmas.",
+    "credit": "Charles Dickens",
+    "id": "Q106055"
+   },
+   "verse": {
+    "text": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+    "credit": "Galatians 6:2",
+    "id": "Q106237"
+   }
+  },
+  "2027-12-08": {
+   "quote": {
+    "text": "I am going to have a dinner-party on Christmas day, and would like to have all your children come.",
+    "credit": "Kate Douglas Smith Wiggin",
+    "id": "Q23245"
+   },
+   "verse": {
+    "text": "Great is our Lord, and of great power: his understanding is infinite.",
+    "credit": "Psalm 147:5",
+    "id": "Q106479"
+   }
+  },
+  "2027-12-09": {
+   "quote": {
+    "text": "Good-will towards men, and even towards children, could go no further than that, even at Christmas time.",
+    "credit": "F. Marion Crawford",
+    "id": "Q72246"
+   },
+   "verse": {
+    "text": "My little children, let us not love in word, neither in tongue; but in deed and in truth.",
+    "credit": "1 John 3:18",
+    "id": "Q106293"
+   }
+  },
+  "2027-12-10": {
+   "quote": {
+    "text": "THE kindly Christmas tree, from which I trust every gentle reader has pulled out a bonbon or two, is yet all aflame whilst I am writing, and sparkles with the sweet fruits of its season.",
+    "credit": "William Makepeace Thackeray",
+    "id": "Q41021"
+   },
+   "verse": {
+    "text": "I have set the LORD always before me: because he is at my right hand, I shall not be moved.",
+    "credit": "Psalm 16:8",
+    "id": "Q106320"
+   }
+  },
+  "2027-12-11": {
+   "quote": {
+    "text": "At Christmas every body invites their friends about them, and people think little of even the worst weather.",
+    "credit": "Jane Austen",
+    "id": "Q5175"
+   },
+   "verse": {
+    "text": "A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
+    "credit": "Proverbs 22:1",
+    "id": "Q106544"
+   }
+  },
+  "2027-12-12": {
+   "quote": {
+    "text": "Let us make this a new birthday of kindness and love that shall endure. That is a Christmas hope, a Christmas wish.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72305"
+   },
+   "verse": {
+    "text": "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.",
+    "credit": "Psalm 127:3",
+    "id": "Q106461"
+   }
+  },
+  "2027-12-13": {
+   "quote": {
+    "text": "There are many people belonging to you or your family who are far away, whom you would fain have with you this Christmas morning.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72302"
+   },
+   "verse": {
+    "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+    "credit": "1 John 4:18",
+    "id": "Q106298"
+   }
+  },
+  "2027-12-14": {
+   "quote": {
+    "text": "The stalls, the columns, the fountains, courts, statues, splendours, are all crowned for Christmas.",
+    "credit": "William Makepeace Thackeray",
+    "id": "Q41026"
+   },
+   "verse": {
+    "text": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple.",
+    "credit": "Psalm 27:4",
+    "id": "Q106337"
+   }
+  },
+  "2027-12-15": {
+   "quote": {
+    "text": "Nearer and closer to our hearts be the Christmas spirit, which is the spirit of active usefulness, perseverance, cheerful discharge of duty, kindness and forbearance!",
+    "credit": "Charles Dickens",
+    "id": "Q41163"
+   },
+   "verse": {
+    "text": "And he said, The LORD is my rock, and my fortress, and my deliverer; The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.",
+    "credit": "2 Samuel 22:2–3",
+    "id": "Q106081"
+   }
+  },
+  "2027-12-16": {
+   "quote": {
+    "text": "You and I have slept in our chairs all night and the sun is rising, so it's merry Christmas in earnest!",
+    "credit": "F. Marion Crawford",
+    "id": "Q72269"
+   },
+   "verse": {
+    "text": "Blessed is every one that feareth the LORD; that walketh in his ways.",
+    "credit": "Psalm 128:1",
+    "id": "Q106462"
+   }
+  },
+  "2027-12-17": {
+   "quote": {
+    "text": "Let us forgive and forget; but if we cannot forget let us at least forgive. And so let there be peace between man and man at Christmas — a truce of God.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72319"
+   },
+   "verse": {
+    "text": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+    "credit": "Jeremiah 33:3",
+    "id": "Q106118"
+   }
+  },
+  "2027-12-18": {
+   "quote": {
+    "text": "The stories and tales for Christmas which have for their theme the hard heart softened are not mere fictions of the imagination.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72316"
+   },
+   "verse": {
+    "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit.",
+    "credit": "Psalm 51:12",
+    "id": "Q106371"
+   }
+  },
+  "2027-12-19": {
+   "quote": {
+    "text": "I know one upon whose Christmas list there are over one hundred and fifty people, rich and poor, high and low, able and not able.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72323"
+   },
+   "verse": {
+    "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+    "credit": "Genesis 2:7",
+    "id": "Q106061"
+   }
+  },
+  "2027-12-20": {
+   "quote": {
+    "text": "The old woman has got some popcorn candy and rag dolls hid in the clothes chest, and we allow to give Christmas a little whirl of our own in a insignificant sort of style.",
+    "credit": "O. Henry",
+    "id": "Q50272"
+   },
+   "verse": {
+    "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+    "credit": "Isaiah 9:6",
+    "id": "Q106096"
+   }
+  },
+  "2027-12-21": {
+   "quote": {
+    "text": "Bless those women; they never do anything by halves. They are always in earnest.",
+    "credit": "Charles Dickens",
+    "id": "Q6062"
+   },
+   "verse": {
+    "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+    "credit": "John 1:14",
+    "id": "Q106184"
+   }
+  },
+  "2027-12-22": {
+   "quote": {
+    "text": "Never did Christmas board display a more goodly and gracious assemblage of countenances; those who were not handsome were, at least, happy; and happiness is a rare improver of your hard-favoured visage.",
+    "credit": "Washington Irving",
+    "id": "Q52333"
+   },
+   "verse": {
+    "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+    "credit": "John 3:16",
+    "id": "Q106185"
+   }
+  },
+  "2027-12-23": {
+   "quote": {
+    "text": "Every one gave of what he had, and no one was afraid of pauperizing anybody by his gifts, for they were given gladly and in love, and that makes all the difference — did then and does now.",
+    "credit": "Jacob A. Riis",
+    "id": "Q73515"
+   },
+   "verse": {
+    "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+    "credit": "Luke 2:10",
+    "id": "Q106173"
+   }
+  },
+  "2027-12-24": {
+   "quote": {
+    "text": "It is a birthday, perhaps, or perhaps it may be Christmas time; but be it what it may, there is rare holiday among us; we are full of glee.",
+    "credit": "Charles Dickens",
+    "id": "Q19837"
+   },
+   "verse": {
+    "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+    "credit": "Luke 2:11",
+    "id": "Q106174"
+   }
+  },
+  "2027-12-25": {
+   "quote": {
+    "text": "The Christmas gospel of peace and good-will moves in where the slum moves out.",
+    "credit": "Jacob A. Riis",
+    "id": "Q73534"
+   },
+   "verse": {
+    "text": "Glory to God in the highest, and on earth peace, good will toward men.",
+    "credit": "Luke 2:14",
+    "id": "Q106175"
+   }
+  },
+  "2027-12-26": {
+   "quote": {
+    "text": "The dear little woman is saving up to give me an expensive present that I don't want. I think the presents are the worst part of Christmas.",
+    "credit": "Jerome K. Jerome",
+    "id": "Q54513"
+   },
+   "verse": {
+    "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way.",
+    "credit": "Psalm 37:23",
+    "id": "Q106357"
+   }
+  },
+  "2027-12-27": {
+   "quote": {
+    "text": "I have spent Christmas days on which it rained all day and of all days in the year on which to have it rain, Christmas is the worst.",
+    "credit": "Cyrus Townsend Brady",
+    "id": "Q72303"
+   },
+   "verse": {
+    "text": "Every word of God is pure: he is a shield unto them that put their trust in him.",
+    "credit": "Proverbs 30:5",
+    "id": "Q106553"
+   }
+  },
+  "2027-12-28": {
+   "quote": {
+    "text": "First of all there must be good sleighing, — and second, a fine night for Christmas eve.",
+    "credit": "Edward Everett Hale",
+    "id": "Q72785"
+   },
+   "verse": {
+    "text": "The LORD is on my side; I will not fear: what can man do unto me?",
+    "credit": "Psalm 118:6",
+    "id": "Q106437"
+   }
+  },
+  "2027-12-29": {
+   "quote": {
+    "text": "I am thinking now of her and of him; for this is the Christmas season, — the time when it is most meet to think of the children and other sweet and holy things.",
+    "credit": "Eugene Field",
+    "id": "Q72414"
+   },
+   "verse": {
+    "text": "There are many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand.",
+    "credit": "Proverbs 19:21",
+    "id": "Q106540"
+   }
+  },
+  "2027-12-30": {
+   "quote": {
+    "text": "Among country people oftenest, but heard of everywhere, is the saying that if a girl is caught standing under the mistletoe, she may be kissed by the man who thus finds her.",
+    "credit": "James Lane Allen",
+    "id": "Q72040"
+   },
+   "verse": {
+    "text": "O magnify the LORD with me, and let us exalt his name together.",
+    "credit": "Psalm 34:3",
+    "id": "Q106346"
+   }
+  },
+  "2027-12-31": {
+   "quote": {
+    "text": "Why, it's the very time to get your salary raised, is Christmas; and now the secret is out, I know I shall never be forgiven by the heads of firms, who will be pounds out of pocket in future.",
+    "credit": "George Manville Fenn",
+    "id": "Q72962"
+   },
+   "verse": {
+    "text": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+    "credit": "Psalm 90:12",
+    "id": "Q106400"
+   }
+  }
+ }
+}
