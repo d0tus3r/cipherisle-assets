@@ -20,7 +20,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 HERE = Path(__file__).resolve().parent
-MIDNIGHT, DEEP, PARCH, SILVER, BRASS = (11, 18, 32), (22, 33, 58), (228, 224, 214), (185, 196, 207), (184, 134, 59)
+MIDNIGHT, DEEP, PARCH, SILVER, BRASS = (11, 18, 32), (22, 33, 58), (228, 224, 214), (185, 196, 207), (226, 184, 101)
 GOLD = (214, 172, 92)
 _fonts = {}
 
