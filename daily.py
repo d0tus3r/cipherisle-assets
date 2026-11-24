@@ -250,12 +250,12 @@ def main():
     items = calendar(day)
     quiz_items = dict(items)
     for feed in ("word", "fact", "history"):         # the Shorts rotate, but the site shows all three daily:
-        back = 1                                    # a day without one shows the latest before it
-        while feed not in quiz_items and back <= 30:
-            got = calendar(day - timedelta(days=back)).get(feed)
+        for k in [-b for b in range(1, 31)] + list(range(1, 31)):   # a day without one shows the latest
+            if feed in quiz_items:                                   # before it, else the next one coming
+                break
+            got = calendar(day + timedelta(days=k)).get(feed)
             if got:
                 quiz_items[feed] = got
-            back += 1
     for name, spec in quiz_specs(quiz_items):
         seed = f"{day}-{name}"
         save(quiz(spec, day, seed, False), HERE / "today" / f"{name}.jpg")
