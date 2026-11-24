@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap');
+
+/* ============ CIPHER ISLE: DROWNED MOON ============
+   Midnight #0B1220 | Deep sea #16213A | Moon silver #B9C4CF
+   Brass #B8863B (hairlines) | Isle Gold #E2B865 (headings, links, buttons: the apps' and Shorts' gold)
+   Parchment #E4E0D6
+   Palette is set here, not in Site Styles. Light themes are
+   flipped dark; dark themes use the palette as-is. */
+
+:root{--white-hsl:220,48.84%,8.43%!important;--black-hsl:42.86,20.59%,86.67%!important;--lightAccent-hsl:221.67,45%,15.69%!important;--darkAccent-hsl:210,18.64%,76.86%!important;--safeInverseAccent-hsl:220,48.84%,8.43%!important;--safeInverseLightAccent-hsl:220,48.84%,8.43%!important;--safeInverseDarkAccent-hsl:220,48.84%,8.43%!important;}
+[data-section-theme="bright"],[data-section-theme="bright-inverse"],[data-section-theme="black"],[data-section-theme="black-bold"],[data-section-theme="dark"],[data-section-theme="dark-bold"],.black,.black-bold,.dark,.dark-bold{--white-hsl:42.86,20.59%,86.67%!important;--black-hsl:220,48.84%,8.43%!important;--lightAccent-hsl:210,18.64%,76.86%!important;--darkAccent-hsl:221.67,45%,15.69%!important;--safeInverseAccent-hsl:42.86,20.59%,86.67%!important;--safeInverseLightAccent-hsl:42.86,20.59%,86.67%!important;--safeInverseDarkAccent-hsl:42.86,20.59%,86.67%!important;}
+
+/* ---- Type: old-print headings, roomy body ---- */
+h1,h2,h3,h4,.header-title-text a,.site-title{font-family:'IM Fell English',Georgia,serif!important;font-weight:400!important;letter-spacing:.005em}
+h1{line-height:1.08!important}
+h2,h3{color:#E2B865!important}
+h1{color:#E4E0D6!important;text-shadow:0 0 28px rgba(185,196,207,.18)}
+.header-title-text a{color:#E4E0D6!important;font-size:1.55rem!important;text-shadow:0 0 18px rgba(185,196,207,.25)}
+.header-nav-item a,.header-menu-nav-item a{font-family:'IM Fell English SC',Georgia,serif!important;letter-spacing:.12em;font-size:1.05rem!important;color:#B9C4CF!important}
+.header-nav-item a:hover,.header-nav-item--active a{color:#E2B865!important;background-image:none!important;border-bottom:1px solid #E2B865}
+.sqs-html-content p,.sqs-html-content li{font-size:1.15rem!important;line-height:1.7!important}
+.sqs-html-content p.sqsrte-large{font-size:1.35rem!important}
+.sqs-html-content a{color:#E2B865!important;text-decoration-color:rgba(226,184,101,.45)!important}
+::selection{background:#B8863B;color:#0B1220}
+
+/* ---- Cipher-letter texture on every section ---- */
+.page-section .section-background,#footer-sections .section-background{background-image:url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='360'%20height='360'%3E%3Cg%20font-family='Georgia,serif'%20fill='%23B9C4CF'%20opacity='.5'%3E%3Ctext%20x='236'%20y='306'%20font-size='28'%20fill-opacity='.055'%3EQ%3C/text%3E%3Ctext%20x='305'%20y='117'%20font-size='18'%20fill-opacity='.07'%3EP%3C/text%3E%3Ctext%20x='327'%20y='334'%20font-size='18'%20fill-opacity='.04'%3EO%3C/text%3E%3Ctext%20x='160'%20y='92'%20font-size='14'%20fill-opacity='.07'%3EZ%3C/text%3E%3Ctext%20x='329'%20y='41'%20font-size='28'%20fill-opacity='.055'%3EU%3C/text%3E%3Ctext%20x='320'%20y='352'%20font-size='18'%20fill-opacity='.07'%3EA%3C/text%3E%3Ctext%20x='275'%20y='52'%20font-size='14'%20fill-opacity='.04'%3EG%3C/text%3E%3Ctext%20x='128'%20y='327'%20font-size='14'%20fill-opacity='.055'%3EK%3C/text%3E%3Ctext%20x='230'%20y='322'%20font-size='18'%20fill-opacity='.07'%3EH%3C/text%3E%3Ctext%20x='332'%20y='170'%20font-size='28'%20fill-opacity='.04'%3EV%3C/text%3E%3Ctext%20x='48'%20y='254'%20font-size='22'%20fill-opacity='.055'%3ER%3C/text%3E%3Ctext%20x='47'%20y='150'%20font-size='22'%20fill-opacity='.04'%3EQ%3C/text%3E%3Ctext%20x='152'%20y='35'%20font-size='14'%20fill-opacity='.07'%3EY%3C/text%3E%3Ctext%20x='60'%20y='225'%20font-size='14'%20fill-opacity='.055'%3EM%3C/text%3E%3Ctext%20x='39'%20y='28'%20font-size='14'%20fill-opacity='.04'%3EG%3C/text%3E%3Ctext%20x='31'%20y='260'%20font-size='28'%20fill-opacity='.07'%3EM%3C/text%3E%3Ctext%20x='219'%20y='57'%20font-size='18'%20fill-opacity='.07'%3EI%3C/text%3E%3Ctext%20x='177'%20y='64'%20font-size='22'%20fill-opacity='.055'%3EA%3C/text%3E%3Ctext%20x='214'%20y='80'%20font-size='18'%20fill-opacity='.04'%3EW%3C/text%3E%3Ctext%20x='56'%20y='25'%20font-size='14'%20fill-opacity='.055'%3EZ%3C/text%3E%3Ctext%20x='254'%20y='110'%20font-size='18'%20fill-opacity='.055'%3EQ%3C/text%3E%3Ctext%20x='102'%20y='87'%20font-size='28'%20fill-opacity='.07'%3EM%3C/text%3E%3C/g%3E%3C/svg%3E");background-size:360px 360px;background-repeat:repeat}
+header#header{border-bottom:1px solid rgba(184,134,59,.25)}
+
+/* ---- Moonlit photo grade (not on book covers / app screens) ---- */
+body:not(#collection-6b026018eebc360f5f95bf8a):not(#collection-6b026077f079511b81941d82) .sqs-block-image img,
+.page-section .section-background img{filter:~"saturate(.78) brightness(.96) contrast(1.04)"}
+body:not(#collection-6b026018eebc360f5f95bf8a):not(#collection-6b026077f079511b81941d82) .sqs-block-image .fluid-image-container::after{content:"";position:absolute;inset:0;pointer-events:none;box-shadow:inset 0 0 90px 10px rgba(11,18,32,.6);background:linear-gradient(to top,rgba(11,18,32,.5),rgba(11,18,32,0) 40%)}
+.sqs-block-image .fluid-image-container{position:relative}
+
+/* ---- Brass buttons, squared like ship fittings ---- */
+.sqs-button-element--primary,.sqs-block-button-element,.newsletter-form-button{border-radius:2px!important;font-family:'IM Fell English SC',Georgia,serif!important;letter-spacing:.14em!important;font-size:1.05rem!important;background:#E2B865!important;color:#0B1220!important;border:1px solid #E2B865!important;transition:background .2s,color .2s}
+.sqs-button-element--primary:hover,.sqs-block-button-element:hover,.newsletter-form-button:hover{background:transparent!important;color:#E2B865!important;opacity:1!important}
+.newsletter-form-field-element{background:rgba(185,196,207,.06)!important;border:1px solid rgba(185,196,207,.35)!important;color:#E4E0D6!important;border-radius:2px!important}
+
+/* ---- Brass rule under page titles ---- */
+.sqs-html-content h1:after{content:"";display:block;width:72px;height:1px;margin-top:.45em;background:#B8863B;opacity:.8}
+.sqs-html-content[style*="center"] h1:after,.sqs-html-content h1[style*="center"]:after{margin-left:auto;margin-right:auto}
+
+/* ---- Footer ---- */
+#footer-sections .page-section{border-top:1px solid rgba(184,134,59,.25)}
+
+/* ---- Tighter sections (template "medium" height left big gaps) ---- */
+.page-section.section-height--medium,.page-section.section-height--small{min-height:0!important}
+.page-section.section-height--medium>.content-wrapper{padding-top:~"clamp(40px, 5vw, 80px)"!important;padding-bottom:~"clamp(40px, 5vw, 80px)"!important}
+
+/* ---- Books page: compact cover banner ---- */
+section[data-section-id="6b0264a2af6bfb3735c336db"] .content-wrapper{padding-bottom:0!important}
+section[data-section-id="6b0264a2af6bfb3735c336db"] .fluid-engine{display:block!important}
+section[data-section-id="6b0264a2af6bfb3735c336db"] .fe-block{max-width:760px;margin:0 auto;aspect-ratio:30/17;height:auto!important}
+
+/* ---- Form placeholders readable on dark ---- */
+.newsletter-form-field-element::placeholder,.form-item input::placeholder{color:rgba(228,224,214,.6)!important}
+
+/* ---- "Bright" sections (About contact form) sit on midnight, not brass ---- */
+[data-section-theme="bright"] .section-background,[data-section-theme="bright-inverse"] .section-background{background-color:#0B1220!important}
+[data-section-theme="bright"] .form-item input,[data-section-theme="bright"] .form-item textarea{background:rgba(185,196,207,.06)!important;border:1px solid rgba(185,196,207,.35)!important;color:#E4E0D6!important;border-radius:2px!important}
+[data-section-theme="bright"] .form-button-wrapper button,[data-section-theme="bright"] button[type=submit]{background:#E2B865!important;color:#0B1220!important;border-radius:2px!important}
+
+/* ---- Home hero photo: lift the lantern out of the dark ---- */
+#collection-6b024a4087ce432e5d5c054d .page-section:first-of-type .sqs-block-image img{filter:~"brightness(1.45) saturate(.95) contrast(1.05)"}
+
+/* ---- App page: show the whole screenshot strip ---- */
+section[data-section-id="6b02707a2cbf981f30f58e20"] .content-wrapper{padding-bottom:0!important}
+section[data-section-id="6b02707a2cbf981f30f58e20"] .fluid-engine{display:block!important}
+section[data-section-id="6b02707a2cbf981f30f58e20"] .fe-block{max-width:1100px;margin:0 auto;aspect-ratio:1400/727;height:auto!important}
+section[data-section-id="6b02707a2cbf981f30f58e20"] .sqs-block-image img{object-fit:contain!important}
+
+/* ---- Original Cipher Isle illustrations: no photo tint or vignette ---- */
+.sqs-block-image img[src*="cipher-isle-art"],.sqs-block-image img[data-src*="cipher-isle-art"]{filter:none!important;object-fit:contain!important}
+.sqs-block-image .fluid-image-container:has(img[data-src*="cipher-isle-art"])::after,.sqs-block-image .fluid-image-container:has(img[src*="cipher-isle-art"])::after{display:none!important}
+
+/* ---- Brand refresh (Nov 22, 2026): emblem logo, brass social icons, framed banners ---- */
+.header-title-logo img{max-height:56px!important;width:auto!important}
+.sqs-svg-icon--wrapper,.sqs-svg-icon--wrapper svg,.sqs-block-socialaccountlinks-v2 .sqs-svg-icon--wrapper{color:#E2B865!important;fill:#E2B865!important}
+.sqs-block-socialaccountlinks-v2 .sqs-svg-icon--wrapper:hover{opacity:.75}
+img[src*="books_banner"],img[src*="apps_banner"]{border:1px solid rgba(184,134,59,.35);box-shadow:0 10px 40px rgba(0,0,0,.45)}
+/* our own brand images keep their colors (no moonlit photo grade) */
+.sqs-block-image img[src*="books_banner"],.sqs-block-image img[data-src*="books_banner"],.sqs-block-image img[src*="apps_banner"],.sqs-block-image img[data-src*="apps_banner"],.sqs-block-image img[src*="hero_lockup"],.sqs-block-image img[data-src*="hero_lockup"]{filter:none!important}
+.sqs-block-image .fluid-image-container:has(img[data-src*="_banner"])::after,.sqs-block-image .fluid-image-container:has(img[data-src*="hero_lockup"])::after{display:none!important}
+
+/* emblem before the site title in the header (image hosted on cipherisle-assets via jsDelivr) */
+.header-title-text a::before{content:'';display:inline-block;width:1.9em;height:1.9em;margin-right:.45em;vertical-align:-.55em;background:url('https://cdn.jsdelivr.net/gh/d0tus3r/cipherisle-assets@8e19543c326b918ce5bfa665591045a77d8ce37b/social/favicon_256.png') center/contain no-repeat;filter:drop-shadow(0 2px 6px rgba(0,0,0,.5))}
