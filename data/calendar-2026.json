@@ -3920,6 +3920,19 @@
     "text": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.",
     "credit": "Jude 1:24–25",
     "id": "Q106301"
+   },
+   "word": {
+    "word": "pluff",
+    "pos": "v",
+    "definition": "To throw out, as smoke, dust, etc., in puffs.",
+    "options": [
+     "To celebrate together.",
+     "To fail to remember; to forget.",
+     "To throw out, as smoke, dust, etc., in puffs.",
+     "To abase or debase; to vilify; to depreciate."
+    ],
+    "answer": 2,
+    "source": "webster"
    }
   },
   "2026-11-23": {
@@ -3932,6 +3945,19 @@
     "text": "I sought the LORD, and he heard me, and delivered me from all my fears.",
     "credit": "Psalm 34:4",
     "id": "Q106347"
+   },
+   "word": {
+    "word": "deray",
+    "pos": "n",
+    "definition": "Disorder; merriment.",
+    "options": [
+     "Soft leather made of kid skin.",
+     "Nothingness.",
+     "Disorder; merriment.",
+     "Wine with a mixture of honey and species."
+    ],
+    "answer": 2,
+    "source": "webster"
    }
   },
   "2026-11-24": {
@@ -3944,6 +3970,19 @@
     "text": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.",
     "credit": "Acts 16:31",
     "id": "Q106204"
+   },
+   "word": {
+    "word": "forespeaking",
+    "pos": "n",
+    "definition": "A prediction; also, a preface.",
+    "options": [
+     "A modification of the quadrant, for measuring small angles.",
+     "Height; altitude.",
+     "A prediction; also, a preface.",
+     "trickery; artifice."
+    ],
+    "answer": 2,
+    "source": "webster"
    }
   },
   "2026-11-25": {
@@ -3956,6 +3995,33 @@
     "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
     "credit": "Hebrews 4:12",
     "id": "Q106264"
+   },
+   "word": {
+    "word": "unstate",
+    "pos": "v",
+    "definition": "To deprive of state or dignity.",
+    "options": [
+     "To deprive of state or dignity.",
+     "To add on; to count in.",
+     "To come down; to descend.",
+     "To denote additionally."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Andrew Carnegie, Scottish-American industrialist and philanthropist",
+    "options": [
+     "1810",
+     "1835",
+     "1850",
+     "1855"
+    ],
+    "answer": 1,
+    "year": "1835",
+    "about": "November 25, 1835",
+    "kind": "birthdays",
+    "id": "Q484265"
    }
   },
   "2026-11-26": {
@@ -3968,6 +4034,32 @@
     "text": "God is our refuge and strength, a very present help in trouble.",
     "credit": "Psalm 46:1",
     "id": "Q106364"
+   },
+   "word": {
+    "word": "touze",
+    "pos": "v",
+    "definition": "To pull; to haul; to tear; to worry.",
+    "options": [
+     "To make dry; to dry.",
+     "To pull; to haul; to tear; to worry.",
+     "To drive out; to expel.",
+     "To spring up; to germinate; to spring forward or outward."
+    ],
+    "answer": 1,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Port-au-Prince is the capital of which country?",
+    "options": [
+     "El Salvador",
+     "Haiti",
+     "Bosnia and Herzegovina",
+     "Guyana"
+    ],
+    "answer": 1,
+    "why": "The capital of Haiti is Port-au-Prince.",
+    "topic": "World capitals",
+    "id": "F000089"
    }
   },
   "2026-11-27": {
@@ -3980,6 +4072,33 @@
     "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
     "credit": "Matthew 5:14",
     "id": "Q106140"
+   },
+   "word": {
+    "word": "sparhawk",
+    "pos": "n",
+    "definition": "The sparrow hawk.",
+    "options": [
+     "Indifference.",
+     "A speaking to another; an address.",
+     "The sparrow hawk.",
+     "Penuriousness."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Bruce Lee, Hong Kong-American martial artist and actor",
+    "options": [
+     "1937",
+     "1938",
+     "1939",
+     "1940"
+    ],
+    "answer": 3,
+    "year": "1940",
+    "about": "November 27, 1940",
+    "kind": "birthdays",
+    "id": "Q16397"
    }
   },
   "2026-11-28": {
@@ -3992,6 +4111,32 @@
     "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
     "credit": "Psalm 23:4",
     "id": "Q106331"
+   },
+   "word": {
+    "word": "debatement",
+    "pos": "n",
+    "definition": "Controversy; deliberation; debate.",
+    "options": [
+     "Controversy; deliberation; debate.",
+     "The quality or state of being renewable.",
+     "A separator.",
+     "The atmosphere."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Who painted Whistler's Mother?",
+    "options": [
+     "Vincent van Gogh",
+     "Caspar David Friedrich",
+     "James McNeill Whistler",
+     "Ilya Repin"
+    ],
+    "answer": 2,
+    "why": "Whistler's Mother was painted by James McNeill Whistler in 1871.",
+    "topic": "Famous paintings",
+    "id": "F007505"
    }
   },
   "2026-11-29": {
@@ -4004,6 +4149,19 @@
     "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
     "credit": "John 15:5",
     "id": "Q106198"
+   },
+   "word": {
+    "word": "strond",
+    "pos": "n",
+    "definition": "Strand; beach.",
+    "options": [
+     "Strand; beach.",
+     "The missel thrush.",
+     "A chorister boy.",
+     "An opening in a wall in a coal mine."
+    ],
+    "answer": 0,
+    "source": "webster"
    }
   },
   "2026-11-30": {
@@ -4016,6 +4174,33 @@
     "text": "For thou art my hope, O Lord GOD: thou art my trust from my youth.",
     "credit": "Psalm 71:5",
     "id": "Q106386"
+   },
+   "word": {
+    "word": "skyed",
+    "pos": "a",
+    "definition": "Surrounded by sky.",
+    "options": [
+     "Surrounded by sky.",
+     "Costly; expensive.",
+     "Milky; full of white juice like milk.",
+     "Like; similar; resembling."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Winston Churchill, British statesman, soldier and writer",
+    "options": [
+     "1844",
+     "1874",
+     "1884",
+     "1889"
+    ],
+    "answer": 1,
+    "year": "1874",
+    "about": "November 30, 1874",
+    "kind": "birthdays",
+    "id": "Q8016"
    }
   },
   "2026-12-01": {
@@ -4028,6 +4213,32 @@
     "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
     "credit": "John 1:1",
     "id": "Q106182"
+   },
+   "word": {
+    "word": "retrait",
+    "pos": "n",
+    "definition": "A portrait; a likeness.",
+    "options": [
+     "A little pig.",
+     "Achievement; deed; performance.",
+     "A portrait; a likeness.",
+     "A heaping up; accumulation."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "In what year did the Battle of the Boyne take place?",
+    "options": [
+     "1690",
+     "1682",
+     "1710",
+     "1692"
+    ],
+    "answer": 0,
+    "why": "The Battle of the Boyne took place in 1690.",
+    "topic": "Battles",
+    "id": "F006958"
    }
   },
   "2026-12-02": {
@@ -4040,6 +4251,33 @@
     "text": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.",
     "credit": "Psalm 61:2",
     "id": "Q106377"
+   },
+   "word": {
+    "word": "hornpike",
+    "pos": "n",
+    "definition": "The garfish.",
+    "options": [
+     "The garfish.",
+     "Silver plate or vessels.",
+     "The wood warbler.",
+     "The redshank."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "On this day: Battle of Austerlitz",
+    "options": [
+     "1790",
+     "1800",
+     "1805",
+     "1810"
+    ],
+    "answer": 2,
+    "year": "1805",
+    "about": "December 2, 1805",
+    "kind": "on_this_day",
+    "id": "Q134114"
    }
   },
   "2026-12-03": {
@@ -4052,6 +4290,32 @@
     "text": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
     "credit": "Ecclesiastes 9:10",
     "id": "Q106091"
+   },
+   "word": {
+    "word": "skaddon",
+    "pos": "n",
+    "definition": "The larva of a bee.",
+    "options": [
+     "The larva of a bee.",
+     "A quarter of a crown.",
+     "The curate of a chapel; a chaplain.",
+     "The number four."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Which element has the chemical symbol Mg?",
+    "options": [
+     "silicon",
+     "magnesium",
+     "sodium",
+     "sulfur"
+    ],
+    "answer": 1,
+    "why": "The chemical symbol for magnesium is Mg, and its atomic number is 12.",
+    "topic": "Chemical elements",
+    "id": "F007094"
    }
   },
   "2026-12-04": {
@@ -4064,6 +4328,19 @@
     "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
     "credit": "Psalm 9:9",
     "id": "Q106318"
+   },
+   "word": {
+    "word": "eristic",
+    "pos": "n",
+    "definition": "Controversial.",
+    "options": [
+     "The science of botany.",
+     "A shaft or gallery to drain a mine.",
+     "A forerunning.",
+     "Controversial."
+    ],
+    "answer": 3,
+    "source": "webster"
    }
   },
   "2026-12-05": {
@@ -4076,6 +4353,33 @@
     "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.",
     "credit": "Romans 5:1",
     "id": "Q106209"
+   },
+   "word": {
+    "word": "tirma",
+    "pos": "n",
+    "definition": "The oyster catcher.",
+    "options": [
+     "An allaying; that which allays; mitigation.",
+     "Anything given as a help; bestowal.",
+     "The oyster catcher.",
+     "The pintail duck."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Walt Disney",
+    "options": [
+     "1897",
+     "1900",
+     "1901",
+     "1903"
+    ],
+    "answer": 2,
+    "year": "1901",
+    "about": "December 5, 1901",
+    "kind": "birthdays",
+    "id": "Q8704"
    }
   },
   "2026-12-06": {
@@ -4088,6 +4392,32 @@
     "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.",
     "credit": "Psalm 112:7",
     "id": "Q106431"
+   },
+   "word": {
+    "word": "skyish",
+    "pos": "a",
+    "definition": "Like the sky, or approaching the sky; lofty; ethereal.",
+    "options": [
+     "Near; near at hand; closely.",
+     "Like the sky, or approaching the sky; lofty; ethereal.",
+     "Capable of being adapted.",
+     "Coming from outward causes; superadded."
+    ],
+    "answer": 1,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Who was the 30th President of the United States?",
+    "options": [
+     "John F. Kennedy",
+     "Calvin Coolidge",
+     "Harry S. Truman",
+     "Warren G. Harding"
+    ],
+    "answer": 1,
+    "why": "Calvin Coolidge was the 30th President of the United States, taking office in 1923.",
+    "topic": "US presidents",
+    "id": "F007030"
    }
   },
   "2026-12-07": {
@@ -4100,6 +4430,33 @@
     "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
     "credit": "Isaiah 53:5",
     "id": "Q106107"
+   },
+   "word": {
+    "word": "doorstead",
+    "pos": "n",
+    "definition": "Entrance or place of a door.",
+    "options": [
+     "Entrance or place of a door.",
+     "A prediction; also, a preface.",
+     "A sort of coarse stuff.",
+     "The tanning or dressing of leather."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Willa Cather, American writer",
+    "options": [
+     "1873",
+     "1883",
+     "1888",
+     "1903"
+    ],
+    "answer": 0,
+    "year": "1873",
+    "about": "December 7, 1873",
+    "kind": "birthdays",
+    "id": "Q229480"
    }
   },
   "2026-12-08": {
@@ -4112,6 +4469,32 @@
     "text": "Make a joyful noise unto God, all ye lands: Sing forth the honour of his name: make his praise glorious.",
     "credit": "Psalm 66:1–2",
     "id": "Q106383"
+   },
+   "word": {
+    "word": "hoared",
+    "pos": "a",
+    "definition": "Moldy; musty.",
+    "options": [
+     "Full af daring or of defiance; adveturous.",
+     "Inhabiting the water.",
+     "Moldy; musty.",
+     "Seen; appearing."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Salt Lake City is the capital of which US state?",
+    "options": [
+     "Louisiana",
+     "Rhode Island",
+     "New Hampshire",
+     "Utah"
+    ],
+    "answer": 3,
+    "why": "The capital of Utah is Salt Lake City.",
+    "topic": "US state capitals",
+    "id": "F000200"
    }
   },
   "2026-12-09": {
@@ -4124,6 +4507,19 @@
     "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
     "credit": "Jeremiah 29:13",
     "id": "Q106116"
+   },
+   "word": {
+    "word": "foreward",
+    "pos": "n",
+    "definition": "The van; the front.",
+    "options": [
+     "Charge; oversight.",
+     "The all-containing soul.",
+     "The van; the front.",
+     "A plotting together."
+    ],
+    "answer": 2,
+    "source": "webster"
    }
   },
   "2026-12-10": {
@@ -4136,6 +4532,33 @@
     "text": "Because thy lovingkindness is better than life, my lips shall praise thee.",
     "credit": "Psalm 63:3",
     "id": "Q106381"
+   },
+   "word": {
+    "word": "ensample",
+    "pos": "n",
+    "definition": "An example; a pattern or model for imitation.",
+    "options": [
+     "A coarse kind of linen.",
+     "The yellowlegs.",
+     "The lapwing, or pewit.",
+     "An example; a pattern or model for imitation."
+    ],
+    "answer": 3,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Emily Dickinson, American poet",
+    "options": [
+     "1805",
+     "1820",
+     "1830",
+     "1845"
+    ],
+    "answer": 2,
+    "year": "1830",
+    "about": "December 10, 1830",
+    "kind": "birthdays",
+    "id": "Q4441"
    }
   },
   "2026-12-11": {
@@ -4148,6 +4571,32 @@
     "text": "And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.",
     "credit": "Luke 12:15",
     "id": "Q106180"
+   },
+   "word": {
+    "word": "bouge",
+    "pos": "v",
+    "definition": "To swell out.",
+    "options": [
+     "To deprive of the helmet.",
+     "To call from or back again.",
+     "To swell out.",
+     "To make sure or safe; to assure."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Sarajevo is the capital of which country?",
+    "options": [
+     "Guyana",
+     "Bulgaria",
+     "Slovenia",
+     "Bosnia and Herzegovina"
+    ],
+    "answer": 3,
+    "why": "The capital of Bosnia and Herzegovina is Sarajevo.",
+    "topic": "World capitals",
+    "id": "F000092"
    }
   },
   "2026-12-12": {
@@ -4160,6 +4609,33 @@
     "text": "I will bless the LORD at all times: his praise shall continually be in my mouth.",
     "credit": "Psalm 34:1",
     "id": "Q106345"
+   },
+   "word": {
+    "word": "scambler",
+    "pos": "n",
+    "definition": "A bold intruder upon the hospitality of others; a mealtime visitor.",
+    "options": [
+     "A bold intruder upon the hospitality of others; a mealtime visitor.",
+     "A small stick or rod used as a spike in thatching; a splinter.",
+     "A bleacher of lines; a whitener; a whitster.",
+     "The process of straining; the matter strained; a strainer."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Gustave Flaubert, French novelist",
+    "options": [
+     "1801",
+     "1811",
+     "1821",
+     "1851"
+    ],
+    "answer": 2,
+    "year": "1821",
+    "about": "December 12, 1821",
+    "kind": "birthdays",
+    "id": "Q43444"
    }
   },
   "2026-12-13": {
@@ -4172,6 +4648,32 @@
     "text": "Commit thy works unto the LORD, and thy thoughts shall be established.",
     "credit": "Proverbs 16:3",
     "id": "Q106524"
+   },
+   "word": {
+    "word": "triste",
+    "pos": "n",
+    "definition": "A cattle fair.",
+    "options": [
+     "The saibling.",
+     "The quality or state of being renewable.",
+     "Entrance or place of a door.",
+     "A cattle fair."
+    ],
+    "answer": 3,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Who painted Olympia?",
+    "options": [
+     "Ilya Repin",
+     "Edouard Manet",
+     "Pablo Picasso",
+     "Paul Gauguin"
+    ],
+    "answer": 1,
+    "why": "Olympia was painted by Edouard Manet in 1863.",
+    "topic": "Famous paintings",
+    "id": "F007509"
    }
   },
   "2026-12-14": {
@@ -4184,6 +4686,19 @@
     "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
     "credit": "Matthew 5:16",
     "id": "Q106141"
+   },
+   "word": {
+    "word": "starproof",
+    "pos": "a",
+    "definition": "Impervious to the light of the stars.",
+    "options": [
+     "Containing counsel or warning; hortatory; advisory.",
+     "Exceptional.",
+     "Full of thought; thoughtful.",
+     "Impervious to the light of the stars."
+    ],
+    "answer": 3,
+    "source": "webster"
    }
   },
   "2026-12-15": {
@@ -4196,6 +4711,19 @@
     "text": "The memory of the just is blessed: but the name of the wicked shall rot.",
     "credit": "Proverbs 10:7",
     "id": "Q106498"
+   },
+   "word": {
+    "word": "besnow",
+    "pos": "v",
+    "definition": "To scatter like snow; to cover thick, as with snow flakes.",
+    "options": [
+     "To scatter like snow; to cover thick, as with snow flakes.",
+     "To deprive of a crown; to discrown.",
+     "To cure, as herrings, by salting and smoking them; to bloat.",
+     "To catch; to grasp; to insnare."
+    ],
+    "answer": 0,
+    "source": "webster"
    }
   },
   "2026-12-16": {
@@ -4208,6 +4736,32 @@
     "text": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.",
     "credit": "Psalm 111:10",
     "id": "Q106430"
+   },
+   "word": {
+    "word": "sipage",
+    "pos": "n",
+    "definition": "Water that seeped or oozed through a porous soil.",
+    "options": [
+     "A small ulcerous swelling, coming suddenly; also, a whitlow.",
+     "Light land; rosland.",
+     "A small lake; a pond.",
+     "Water that seeped or oozed through a porous soil."
+    ],
+    "answer": 3,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "In what year did the Battles of Saratoga take place?",
+    "options": [
+     "1777",
+     "1765",
+     "1785",
+     "1782"
+    ],
+    "answer": 0,
+    "why": "The Battles of Saratoga took place in 1777.",
+    "topic": "Battles",
+    "id": "F006812"
    }
   },
   "2026-12-17": {
@@ -4220,6 +4774,33 @@
     "text": "She openeth her mouth with wisdom; and in her tongue is the law of kindness.",
     "credit": "Proverbs 31:26",
     "id": "Q106556"
+   },
+   "word": {
+    "word": "skimback",
+    "pos": "n",
+    "definition": "The quillback.",
+    "options": [
+     "A trull or prostitute; a scold or gossip.",
+     "Opposition or resistance of matter to force.",
+     "The quillback.",
+     "Petty theft."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Humphry Davy, British chemist",
+    "options": [
+     "1763",
+     "1773",
+     "1778",
+     "1808"
+    ],
+    "answer": 2,
+    "year": "1778",
+    "about": "December 17, 1778",
+    "kind": "birthdays",
+    "id": "Q131761"
    }
   },
   "2026-12-18": {
@@ -4232,6 +4813,32 @@
     "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
     "credit": "Psalm 103:1",
     "id": "Q106419"
+   },
+   "word": {
+    "word": "skare",
+    "pos": "",
+    "definition": "Wild; timid; shy.",
+    "options": [
+     "A stupid fellow.",
+     "Again; anew; a second time; at once; speedily.",
+     "Wild; timid; shy.",
+     "Giving no sure footing; smooth; slippery."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Which element has the chemical symbol Ar?",
+    "options": [
+     "argon",
+     "vanadium",
+     "chromium",
+     "potassium"
+    ],
+    "answer": 0,
+    "why": "The chemical symbol for argon is Ar, and its atomic number is 18.",
+    "topic": "Chemical elements",
+    "id": "F007114"
    }
   },
   "2026-12-19": {
@@ -4244,6 +4851,19 @@
     "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
     "credit": "Proverbs 3:24",
     "id": "Q106490"
+   },
+   "word": {
+    "word": "cowish",
+    "pos": "a",
+    "definition": "Timorous; fearful; cowardly.",
+    "options": [
+     "Handy; reat; handsome; notable.",
+     "Haughty; purse-proud.",
+     "Coming from outward causes; superadded.",
+     "Timorous; fearful; cowardly."
+    ],
+    "answer": 3,
+    "source": "webster"
    }
   },
   "2026-12-20": {
@@ -4256,6 +4876,19 @@
     "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
     "credit": "Isaiah 9:6",
     "id": "Q106096"
+   },
+   "word": {
+    "word": "awanting",
+    "pos": "a",
+    "definition": "Missing; wanting.",
+    "options": [
+     "Overgrown with rushes.",
+     "Missing; wanting.",
+     "Affected with madness; raging; furious.",
+     "Unlucky; unfortunate."
+    ],
+    "answer": 1,
+    "source": "webster"
    }
   },
   "2026-12-21": {
@@ -4268,6 +4901,32 @@
     "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
     "credit": "John 1:14",
     "id": "Q106184"
+   },
+   "word": {
+    "word": "embassade",
+    "pos": "n",
+    "definition": "The mission of an ambassador.",
+    "options": [
+     "An introduction.",
+     "The mission of an ambassador.",
+     "A domestic animal two winters old.",
+     "A tough old goose; hence, coarse, bad food of any kind."
+    ],
+    "answer": 1,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Who was the 27th President of the United States?",
+    "options": [
+     "Calvin Coolidge",
+     "William Howard Taft",
+     "Grover Cleveland",
+     "Warren G. Harding"
+    ],
+    "answer": 1,
+    "why": "William Howard Taft was the 27th President of the United States, taking office in 1909.",
+    "topic": "US presidents",
+    "id": "F007024"
    }
   },
   "2026-12-22": {
@@ -4280,6 +4939,19 @@
     "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
     "credit": "John 3:16",
     "id": "Q106185"
+   },
+   "word": {
+    "word": "deathsman",
+    "pos": "n",
+    "definition": "An executioner; a headsman or hangman.",
+    "options": [
+     "Profit; advantage.",
+     "A whirlpool.",
+     "The offspring of a mulatto woman and a negro; also, a mulatto.",
+     "An executioner; a headsman or hangman."
+    ],
+    "answer": 3,
+    "source": "webster"
    }
   },
   "2026-12-23": {
@@ -4292,6 +4964,32 @@
     "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
     "credit": "Luke 2:10",
     "id": "Q106173"
+   },
+   "word": {
+    "word": "bestead",
+    "pos": "v",
+    "definition": "To put in a certain situation or condition; to circumstance; to place.",
+    "options": [
+     "To wade or move about with splashing; to dabble; also, to potter; trifle; idle.",
+     "To put in a certain situation or condition; to circumstance; to place.",
+     "To set in order; to array; to attire; to deck, to dress.",
+     "To stamp with the broad seal; to make sure; to guarantee or warrant."
+    ],
+    "answer": 1,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "What is the capital of Oregon?",
+    "options": [
+     "Salem",
+     "Frankfort",
+     "Charleston",
+     "Jefferson City"
+    ],
+    "answer": 0,
+    "why": "The capital of Oregon is Salem.",
+    "topic": "US state capitals",
+    "id": "F000198"
    }
   },
   "2026-12-24": {
@@ -4304,6 +5002,19 @@
     "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
     "credit": "Luke 2:11",
     "id": "Q106174"
+   },
+   "word": {
+    "word": "despisement",
+    "pos": "n",
+    "definition": "A despising.",
+    "options": [
+     "A despising.",
+     "A little horn.",
+     "A crowd; a throng; a concourse.",
+     "Damage; injury; harm."
+    ],
+    "answer": 0,
+    "source": "webster"
    }
   },
   "2026-12-25": {
@@ -4316,6 +5027,33 @@
     "text": "Glory to God in the highest, and on earth peace, good will toward men.",
     "credit": "Luke 2:14",
     "id": "Q106175"
+   },
+   "word": {
+    "word": "caned",
+    "pos": "a",
+    "definition": "Filled with white flakes; mothery.",
+    "options": [
+     "Filled with white flakes; mothery.",
+     "Delivered; committed in trust.",
+     "Fit; qualified; also, apt.",
+     "Rich; fertile."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Clara Barton, American Civil War nurse",
+    "options": [
+     "1806",
+     "1816",
+     "1821",
+     "1846"
+    ],
+    "answer": 2,
+    "year": "1821",
+    "about": "December 25, 1821",
+    "kind": "birthdays",
+    "id": "Q188039"
    }
   },
   "2026-12-26": {
@@ -4328,6 +5066,32 @@
     "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
     "credit": "Psalm 139:14",
     "id": "Q106468"
+   },
+   "word": {
+    "word": "imping",
+    "pos": "n",
+    "definition": "The act or process of grafting or mending.",
+    "options": [
+     "A bumblebee; also, a cockchafer.",
+     "A sea bird, the puffin.",
+     "The act or process of grafting or mending.",
+     "The common perch."
+    ],
+    "answer": 2,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "What is the capital of Montenegro?",
+    "options": [
+     "Sarajevo",
+     "Athens",
+     "Sofia",
+     "Podgorica"
+    ],
+    "answer": 3,
+    "why": "The capital of Montenegro is Podgorica.",
+    "topic": "World capitals",
+    "id": "F000107"
    }
   },
   "2026-12-27": {
@@ -4340,6 +5104,33 @@
     "text": "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
     "credit": "Isaiah 1:18",
     "id": "Q106094"
+   },
+   "word": {
+    "word": "repasture",
+    "pos": "n",
+    "definition": "Food; entertainment.",
+    "options": [
+     "A foreboding; an omen.",
+     "Food; entertainment.",
+     "A secret enemy.",
+     "A bumblebee; also, a cockchafer."
+    ],
+    "answer": 1,
+    "source": "webster"
+   },
+   "history": {
+    "headline": "Born on this day: Louis Pasteur, French chemist and microbiologist",
+    "options": [
+     "1792",
+     "1812",
+     "1822",
+     "1842"
+    ],
+    "answer": 2,
+    "year": "1822",
+    "about": "December 27, 1822",
+    "kind": "birthdays",
+    "id": "Q529"
    }
   },
   "2026-12-28": {
@@ -4352,6 +5143,32 @@
     "text": "There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God.",
     "credit": "1 Samuel 2:2",
     "id": "Q106079"
+   },
+   "word": {
+    "word": "pectize",
+    "pos": "v",
+    "definition": "To congeal; to change into a gelatinous mass.",
+    "options": [
+     "To be in pain or sorrow.",
+     "To kiss closely.",
+     "To figure or variegate.",
+     "To congeal; to change into a gelatinous mass."
+    ],
+    "answer": 3,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "Who painted The Calling of Saint Matthew?",
+    "options": [
+     "Titian",
+     "Caravaggio",
+     "Johannes Vermeer",
+     "Rembrandt"
+    ],
+    "answer": 1,
+    "why": "The Calling of Saint Matthew was painted by Caravaggio in 1600.",
+    "topic": "Famous paintings",
+    "id": "F007512"
    }
   },
   "2026-12-29": {
@@ -4364,6 +5181,19 @@
     "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings.",
     "credit": "Psalm 17:8",
     "id": "Q106322"
+   },
+   "word": {
+    "word": "dumbledor",
+    "pos": "n",
+    "definition": "A bumblebee; also, a cockchafer.",
+    "options": [
+     "A bumblebee; also, a cockchafer.",
+     "Agreement; reconcilement.",
+     "Frivolous or sophistical objection.",
+     "An obtaining or acquiring."
+    ],
+    "answer": 0,
+    "source": "webster"
    }
   },
   "2026-12-30": {
@@ -4376,6 +5206,19 @@
     "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.",
     "credit": "Matthew 6:34",
     "id": "Q106149"
+   },
+   "word": {
+    "word": "bruckeled",
+    "pos": "a",
+    "definition": "Wet and dirty; begrimed.",
+    "options": [
+     "Ghastly; preternatural.",
+     "Wet and dirty; begrimed.",
+     "Not questioned or doubtful; evident; certain.",
+     "Capable of being disposed of in traffic; marketable."
+    ],
+    "answer": 1,
+    "source": "webster"
    }
   },
   "2026-12-31": {
@@ -4388,6 +5231,32 @@
     "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
     "credit": "Ecclesiastes 12:13",
     "id": "Q106092"
+   },
+   "word": {
+    "word": "plasmatic",
+    "pos": "",
+    "definition": "Forming; shaping; molding.",
+    "options": [
+     "Forming; shaping; molding.",
+     "To pull by the ears; to drag about.  hak.",
+     "Coming before others, or before the usual time; early.",
+     "Clothes; raiment."
+    ],
+    "answer": 0,
+    "source": "webster"
+   },
+   "fact": {
+    "question": "In what year did the Battle of Shiloh take place?",
+    "options": [
+     "1870",
+     "1892",
+     "1882",
+     "1862"
+    ],
+    "answer": 3,
+    "why": "The Battle of Shiloh took place in 1862.",
+    "topic": "Battles",
+    "id": "F006912"
    }
   }
  }
