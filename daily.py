@@ -178,14 +178,16 @@ def quiz(spec, day, seed, solved, W=1600, H=1000):
         y += 70
     opts = [o[:1].upper() + o[1:] for o in spec["options"]]
     cols = 2 if wide and all(len(o) <= 34 for o in opts) else 1
-    osz = 40 if wide else 58
-    fo = font("CrimsonText-SemiBold.ttf", osz)
-    lh = int(osz * 1.25)
     gap, bw = 24, (W - 200 - (cols - 1) * 24) // cols
-    boxes = [wrap(d, o, fo, bw - 130)[:3] for o in opts]
-    bh = max(int(osz * 2.4), max(len(b) for b in boxes) * lh + 44)
     rows = (len(opts) + cols - 1) // cols
     foot = 160 if solved and spec.get("note") else 100
+    for osz in ((40, 36, 32, 28) if wide else (58, 52, 46, 40, 36)):   # the largest answers that fit
+        fo = font("CrimsonText-SemiBold.ttf", osz)
+        lh = int(osz * 1.25)
+        boxes = [wrap(d, o, fo, bw - 130)[:3] for o in opts]
+        bh = max(int(osz * 2.4), max(len(b) for b in boxes) * lh + 44)
+        if y + 20 + rows * (bh + gap) <= H - foot:
+            break
     y0 = y + 20 + max(0, (H - foot - (y + 20) - rows * (bh + gap)) // 2)
     for i, lines_ in enumerate(boxes):
         x = 100 + (i % cols) * (bw + gap)
