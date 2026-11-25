@@ -21,5 +21,50 @@
     "N"
    ]
   }
- }
+ },
+ "quiz": [
+  {
+   "name": "word",
+   "title": "Forgotten word of the day",
+   "big": "unstate",
+   "sub": "verb",
+   "prompt": "What does it mean?",
+   "options": [
+    "To deprive of state or dignity.",
+    "To add on; to count in.",
+    "To come down; to descend.",
+    "To denote additionally."
+   ],
+   "answer": 0,
+   "note": "To deprive of state or dignity."
+  },
+  {
+   "name": "fact",
+   "title": "Fact of the day",
+   "big": "Port-au-Prince is the capital of which country?",
+   "options": [
+    "El Salvador",
+    "Haiti",
+    "Bosnia and Herzegovina",
+    "Guyana"
+   ],
+   "answer": 1,
+   "note": "The capital of Haiti is Port-au-Prince."
+  },
+  {
+   "name": "history",
+   "title": "Today in history",
+   "big": "November 25",
+   "sub": "Born on this day: Andrew Carnegie, Scottish-American industrialist and philanthropist",
+   "prompt": "What year was it?",
+   "options": [
+    "1810",
+    "1835",
+    "1850",
+    "1855"
+   ],
+   "answer": 1,
+   "note": "November 25, 1835"
+  }
+ ]
 }

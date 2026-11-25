@@ -286,6 +286,9 @@ def main():
             plain = it["text"].upper()
             play["feeds"][feed] = {"title": title, "cipher": enc, "text": it["text"], "credit": it.get("credit", ""),
                                    "hint": [hint, plain[enc.index(hint)]] if hint else None}
+    play["quiz"] = [dict(name=n, **{k: v for k, v in sp_.items() if k in ("title", "big", "sub", "prompt", "options",
+                                                                         "answer", "note")})
+                    for n, sp_ in quiz_specs(quiz_items)]      # the three questions, tappable on the home page
     (HERE / "today" / "play.json").write_text(json.dumps(play, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     (HERE / "today" / "date.txt").write_text(day.isoformat() + "\n")
     print("rendered", day)
