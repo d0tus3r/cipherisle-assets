@@ -277,6 +277,16 @@ def main():
         if it:
             label = "Yesterday's answer" if k == 1 else past.strftime("%A, %b %-d")
             save(card(it, label, f"{past}-quote"), HERE / "week" / f"{k}.jpg")
+    play = {"date": day.isoformat(), "feeds": {}}         # the playable puzzle on the home page (play.html)
+    for feed, title in (("quote", "Quote of the Day"), ("verse", "Verse of the Day")):
+        it = items.get(feed)
+        if it and it.get("text"):
+            enc = cipher(it["text"], f"{day}-{feed}")      # the same code as the day's image
+            hint = next((ch for ch in sorted(set(enc), key=lambda x: -enc.count(x)) if ch.isalpha()), None)
+            plain = it["text"].upper()
+            play["feeds"][feed] = {"title": title, "cipher": enc, "text": it["text"], "credit": it.get("credit", ""),
+                                   "hint": [hint, plain[enc.index(hint)]] if hint else None}
+    (HERE / "today" / "play.json").write_text(json.dumps(play, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     (HERE / "today" / "date.txt").write_text(day.isoformat() + "\n")
     print("rendered", day)
 
