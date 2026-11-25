@@ -33,8 +33,12 @@
 @media (max-width:800px){.ci-home .ci-qs{grid-template-columns:1fr;max-width:460px;margin-left:auto;margin-right:auto}}
 .ci-home .ci-shelf{display:flex;flex-wrap:wrap;justify-content:center;gap:22px;margin:.6em 0 1em}
 .ci-home .ci-shelf a{display:block;width:200px;text-decoration:none!important}
-.ci-home .ci-shelf img{width:100%;height:auto;display:block;border:1px solid rgba(226,184,101,.45);box-shadow:0 10px 24px rgba(0,0,0,.45)}
+.ci-home .ci-shelf img{width:100%;height:auto;display:block;border:1px solid rgba(226,184,101,.45);box-shadow:0 10px 24px rgba(0,0,0,.45);transition:transform .25s ease,box-shadow .25s ease,filter .25s ease}
 .ci-home .ci-shelf span{display:block;margin:.5em 0 0;color:#E4E0D6;font-size:1rem}
+.ci-home .ci-shelf em{display:block;font-style:normal;color:#E2B865;font-family:'IM Fell English SC',Georgia,serif;letter-spacing:.08em;font-size:.95rem;opacity:0;transition:opacity .25s ease}
+.ci-home .ci-shelf a:hover img,.ci-home .ci-shelf a:focus-visible img{transform:translateY(-6px) scale(1.04);box-shadow:0 0 0 2px #E2B865,0 18px 38px rgba(0,0,0,.6),0 0 34px rgba(226,184,101,.35);filter:brightness(1.07)}
+.ci-home .ci-shelf a:hover em,.ci-home .ci-shelf a:focus-visible em{opacity:1}
+@media (hover:none){.ci-home .ci-shelf em{opacity:.9}}
 .ci-home .ci-apps{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;margin:.6em 0 1em}
 .ci-home .ci-app{display:flex;align-items:center;gap:14px;width:310px;text-align:left;padding:12px 14px;border:1px solid rgba(226,184,101,.45);background:rgba(22,33,58,.7);text-decoration:none!important}
 .ci-home .ci-app img{width:64px;height:64px;border-radius:14px;flex:none}
@@ -226,8 +230,9 @@ html{scroll-behavior:smooth}
 <h2>On the shelf</h2>
 <p class="ci-note">Large-print puzzle books, made to be solved with a good pencil and a cup of tea.</p>
 <div class="ci-shelf">
-<a href="https://cipherisle.com/b/stoic-wisdom"><img src="https://cdn.jsdelivr.net/gh/d0tus3r/cipherisle-assets@a79f739/shelf/stoic-wisdom.jpg" alt="Stoic Wisdom Cryptograms, the book cover" loading="lazy"><span>Stoic Wisdom Cryptograms</span></a>
-<a href="https://cipherisle.com/b/christmas-cryptograms"><img src="https://cdn.jsdelivr.net/gh/d0tus3r/cipherisle-assets@a79f739/shelf/christmas-cryptograms.jpg" alt="Christmas Cryptograms, the book cover" loading="lazy"><span>Christmas Cryptograms</span></a>
+<a href="https://www.amazon.com/dp/B0HSQL29S5" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/d0tus3r/cipherisle-assets@fbe3f6c/site/covers/stoic-wisdom.jpg" alt="Stoic Wisdom Cryptograms, the book cover" loading="lazy"><span>Stoic Wisdom Cryptograms</span><em>View on Amazon</em></a>
+<a href="https://www.amazon.com/dp/B0HSQJH66K" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/d0tus3r/cipherisle-assets@fbe3f6c/site/covers/christmas-collection.jpg" alt="Christmas Cryptograms, the book cover" loading="lazy"><span>Christmas Cryptograms</span><em>View on Amazon</em></a>
+<a href="https://www.amazon.com/dp/B0HST29F3L" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/d0tus3r/cipherisle-assets@fbe3f6c/site/covers/word-lovers.jpg" alt="Word Lover's Puzzle Book, the book cover" loading="lazy"><span>Word Lover's Puzzle Book</span><em>View on Amazon</em></a>
 </div>
 <div class="ci-row"><a class="ci-btn" href="/books">All the books</a></div>
 
