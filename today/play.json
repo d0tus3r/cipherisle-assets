@@ -1,24 +1,24 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "feeds": {
   "quote": {
    "title": "Quote of the Day",
-   "cipher": "UJVUZH EXI AW AKD HKWEA VUZ; UIN AKD HKWEA VUZ QH AKD IUAXEUJ: UGGWENQIBJZ HUZ UIN NW DPDEZAKQIB QI GWICWETQAZ VQAK AKD HWXINDHA EDUHWI.",
-   "text": "Always run to the short way; and the short way is the natural: accordingly say and do everything in conformity with the soundest reason.",
-   "credit": "Marcus Aurelius",
+   "cipher": "ZNWC LPJZNWYZLFP LJ ZOLJ: — ZF VCXNP ZF KLJO ZOXZ CXYO ZOLPQ JOFWVG YFEC ZF MXJJ XJ LZ GFCJ.",
+   "text": "True instruction is this: — to learn to wish that each thing should come to pass as it does.",
+   "credit": "Epictetus",
    "hint": [
-    "A",
+    "Z",
     "T"
    ]
   },
   "verse": {
    "title": "Verse of the Day",
-   "cipher": "GNQ VKC BNQJ NG HNJ DZ UODEP, MAJ INBCQGOS, MAJ ZKMQICQ VKMA MAF VBNCJHCJ ZBNQJ, IDCQEDAH CLCA VN VKC JDLDJDAH MZOAJCQ NG ZNOS MAJ ZIDQDV, MAJ NG VKC WNDAVZ MAJ TMQQNB, MAJ DZ M JDZECQACQ NG VKC VKNOHKVZ MAJ DAVCAVZ NG VKC KCMQV.",
-   "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
-   "credit": "Hebrews 4:12",
+   "cipher": "CLS JN LWH HGYWCG KQS NAHGQCAT, K MGHX BHGNGQA TGUB JQ AHLWIUG.",
+   "text": "God is our refuge and strength, a very present help in trouble.",
+   "credit": "Psalm 46:1",
    "hint": [
-    "A",
-    "N"
+    "G",
+    "E"
    ]
   }
  },
@@ -26,17 +26,17 @@
   {
    "name": "word",
    "title": "Forgotten word of the day",
-   "big": "unstate",
+   "big": "touze",
    "sub": "verb",
    "prompt": "What does it mean?",
    "options": [
-    "To deprive of state or dignity.",
-    "To add on; to count in.",
-    "To come down; to descend.",
-    "To denote additionally."
+    "To make dry; to dry.",
+    "To pull; to haul; to tear; to worry.",
+    "To drive out; to expel.",
+    "To spring up; to germinate; to spring forward or outward."
    ],
-   "answer": 0,
-   "note": "To deprive of state or dignity."
+   "answer": 1,
+   "note": "To pull; to haul; to tear; to worry."
   },
   {
    "name": "fact",

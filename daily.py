@@ -243,6 +243,32 @@ def save(im, path):
     im.save(path, quality=86, optimize=True, progressive=True)
 
 
+def build_play(day):
+    """The playable puzzle and the three questions for one day, as data for the site."""
+    items = calendar(day)
+    quiz_items = dict(items)
+    for feed in ("word", "fact", "history"):
+        for k in [-b for b in range(1, 31)] + list(range(1, 31)):
+            if feed in quiz_items:
+                break
+            got = calendar(day + timedelta(days=k)).get(feed)
+            if got:
+                quiz_items[feed] = got
+    play = {"date": day.isoformat(), "feeds": {}}         # the playable puzzle on the home page (play.html)
+    for feed, title in (("quote", "Quote of the Day"), ("verse", "Verse of the Day")):
+        it = items.get(feed)
+        if it and it.get("text"):
+            enc = cipher(it["text"], f"{day}-{feed}")      # the same code as the day's image
+            hint = next((ch for ch in sorted(set(enc), key=lambda x: -enc.count(x)) if ch.isalpha()), None)
+            plain = it["text"].upper()
+            play["feeds"][feed] = {"title": title, "cipher": enc, "text": it["text"], "credit": it.get("credit", ""),
+                                   "hint": [hint, plain[enc.index(hint)]] if hint else None}
+    play["quiz"] = [dict(name=n, **{k: v for k, v in sp_.items() if k in ("title", "big", "sub", "prompt", "options",
+                                                                         "answer", "note")})
+                    for n, sp_ in quiz_specs(quiz_items)]      # the three questions, tappable on the home page
+    return play
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date")
@@ -277,19 +303,19 @@ def main():
         if it:
             label = "Yesterday's answer" if k == 1 else past.strftime("%A, %b %-d")
             save(card(it, label, f"{past}-quote"), HERE / "week" / f"{k}.jpg")
-    play = {"date": day.isoformat(), "feeds": {}}         # the playable puzzle on the home page (play.html)
-    for feed, title in (("quote", "Quote of the Day"), ("verse", "Verse of the Day")):
-        it = items.get(feed)
-        if it and it.get("text"):
-            enc = cipher(it["text"], f"{day}-{feed}")      # the same code as the day's image
-            hint = next((ch for ch in sorted(set(enc), key=lambda x: -enc.count(x)) if ch.isalpha()), None)
-            plain = it["text"].upper()
-            play["feeds"][feed] = {"title": title, "cipher": enc, "text": it["text"], "credit": it.get("credit", ""),
-                                   "hint": [hint, plain[enc.index(hint)]] if hint else None}
-    play["quiz"] = [dict(name=n, **{k: v for k, v in sp_.items() if k in ("title", "big", "sub", "prompt", "options",
-                                                                         "answer", "note")})
-                    for n, sp_ in quiz_specs(quiz_items)]      # the three questions, tappable on the home page
+    play = build_play(day)
     (HERE / "today" / "play.json").write_text(json.dumps(play, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    # Also by date, today and tomorrow (Nov 26): GitHub often starts this job hours late, so the site picks
+    # the file for the visitor's own date and only falls back to play.json.
+    for d in (day, day + timedelta(days=1)):
+        (HERE / "today" / f"play-{d.isoformat()}.json").write_text(
+            json.dumps(build_play(d), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    for old in (HERE / "today").glob("play-*.json"):          # keep a few days
+        try:
+            if date.fromisoformat(old.stem[5:]) < day - timedelta(days=3):
+                old.unlink()
+        except ValueError:
+            pass
     (HERE / "today" / "date.txt").write_text(day.isoformat() + "\n")
     print("rendered", day)
 

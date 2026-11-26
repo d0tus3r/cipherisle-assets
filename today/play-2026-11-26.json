@@ -1,0 +1,70 @@
+{
+ "date": "2026-11-26",
+ "feeds": {
+  "quote": {
+   "title": "Quote of the Day",
+   "cipher": "ZNWC LPJZNWYZLFP LJ ZOLJ: — ZF VCXNP ZF KLJO ZOXZ CXYO ZOLPQ JOFWVG YFEC ZF MXJJ XJ LZ GFCJ.",
+   "text": "True instruction is this: — to learn to wish that each thing should come to pass as it does.",
+   "credit": "Epictetus",
+   "hint": [
+    "Z",
+    "T"
+   ]
+  },
+  "verse": {
+   "title": "Verse of the Day",
+   "cipher": "CLS JN LWH HGYWCG KQS NAHGQCAT, K MGHX BHGNGQA TGUB JQ AHLWIUG.",
+   "text": "God is our refuge and strength, a very present help in trouble.",
+   "credit": "Psalm 46:1",
+   "hint": [
+    "G",
+    "E"
+   ]
+  }
+ },
+ "quiz": [
+  {
+   "name": "word",
+   "title": "Forgotten word of the day",
+   "big": "touze",
+   "sub": "verb",
+   "prompt": "What does it mean?",
+   "options": [
+    "To make dry; to dry.",
+    "To pull; to haul; to tear; to worry.",
+    "To drive out; to expel.",
+    "To spring up; to germinate; to spring forward or outward."
+   ],
+   "answer": 1,
+   "note": "To pull; to haul; to tear; to worry."
+  },
+  {
+   "name": "fact",
+   "title": "Fact of the day",
+   "big": "Port-au-Prince is the capital of which country?",
+   "options": [
+    "El Salvador",
+    "Haiti",
+    "Bosnia and Herzegovina",
+    "Guyana"
+   ],
+   "answer": 1,
+   "note": "The capital of Haiti is Port-au-Prince."
+  },
+  {
+   "name": "history",
+   "title": "Today in history",
+   "big": "November 25",
+   "sub": "Born on this day: Andrew Carnegie, Scottish-American industrialist and philanthropist",
+   "prompt": "What year was it?",
+   "options": [
+    "1810",
+    "1835",
+    "1850",
+    "1855"
+   ],
+   "answer": 1,
+   "note": "November 25, 1835"
+  }
+ ]
+}

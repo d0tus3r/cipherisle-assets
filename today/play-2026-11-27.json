@@ -1,0 +1,70 @@
+{
+ "date": "2026-11-27",
+ "feeds": {
+  "quote": {
+   "title": "Quote of the Day",
+   "cipher": "KJ KM D HXXP ULSLPN KR MXSL EDMLM YXU D SDR JX DIIVN BKSMLVY JX EKGKV DYYDKUM DRP IFQVKE QFMKRLMM; DRP NLJ, KR JBKM MJDJL XY VKYL JXX, CBDJ QLJCKZJ DSQKJKXR DRP EDVFSRN, KJ KM BDUPVN MDYL JX QL BXRLMJ.",
+   "text": "It is a good remedy in some cases for a man to apply himself to civil affairs and public business; and yet, in this state of life too, what betwixt ambition and calumny, it is hardly safe to be honest.",
+   "credit": "Lucius Annaeus Seneca",
+   "hint": [
+    "K",
+    "I"
+   ]
+  },
+  "verse": {
+   "title": "Verse of the Day",
+   "cipher": "VI UPI NEI GQREN AB NEI JAPGZ. U WQNV NEUN QO OIN AL UL EQGG WULLAN XI EQZ.",
+   "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+   "credit": "Matthew 5:14",
+   "hint": [
+    "N",
+    "T"
+   ]
+  }
+ },
+ "quiz": [
+  {
+   "name": "word",
+   "title": "Forgotten word of the day",
+   "big": "sparhawk",
+   "sub": "noun",
+   "prompt": "What does it mean?",
+   "options": [
+    "Indifference.",
+    "A speaking to another; an address.",
+    "The sparrow hawk.",
+    "Penuriousness."
+   ],
+   "answer": 2,
+   "note": "The sparrow hawk."
+  },
+  {
+   "name": "fact",
+   "title": "Fact of the day",
+   "big": "Who painted Whistler's Mother?",
+   "options": [
+    "Gustave Courbet",
+    "James McNeill Whistler",
+    "Francisco Goya",
+    "Edouard Manet"
+   ],
+   "answer": 1,
+   "note": "Whistler's Mother was painted by James McNeill Whistler in 1871."
+  },
+  {
+   "name": "history",
+   "title": "Today in history",
+   "big": "November 27",
+   "sub": "Born on this day: Bruce Lee, Hong Kong-American martial artist and actor",
+   "prompt": "What year was it?",
+   "options": [
+    "1937",
+    "1938",
+    "1939",
+    "1940"
+   ],
+   "answer": 3,
+   "note": "November 27, 1940"
+  }
+ ]
+}
