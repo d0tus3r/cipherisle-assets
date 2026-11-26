@@ -1,0 +1,164 @@
+<script>/* today's play file by the visitor's own date (GitHub can start the daily job hours late), else play.json */
+window.ciPlay=window.ciPlay||function(src){var d=new Date(),p=function(n){return (n<10?'0':'')+n},day=d.getFullYear()+'-'+p(d.getMonth()+1)+'-'+p(d.getDate()),dated=src.replace(/play\.json$/,'play-'+day+'.json');var get=function(u){return fetch(u,{cache:'no-cache'}).then(function(r){if(!r.ok)throw 0;return r.json()})};return get(dated).catch(function(){return get(src)})};</script>
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cipher Isle: play today's puzzle (preview)</title>
+<style>body{margin:0;background:#0B1220;padding:28px 14px;font-family:Georgia,serif}
+.note{max-width:900px;margin:0 auto 14px;color:#B9C4CF;font:italic 14px Georgia,serif;text-align:center}</style>
+<script>window.CI_PLAY_SAMPLE={
+ "date": "2026-11-25",
+ "feeds": {
+  "quote": {
+   "title": "Quote of the Day",
+   "cipher": "UJVUZH EXI AW AKD HKWEA VUZ; UIN AKD HKWEA VUZ QH AKD IUAXEUJ: UGGWENQIBJZ HUZ UIN NW DPDEZAKQIB QI GWICWETQAZ VQAK AKD HWXINDHA EDUHWI.",
+   "text": "Always run to the short way; and the short way is the natural: accordingly say and do everything in conformity with the soundest reason.",
+   "credit": "Marcus Aurelius",
+   "hint": [
+    "A",
+    "T"
+   ]
+  },
+  "verse": {
+   "title": "Verse of the Day",
+   "cipher": "GNQ VKC BNQJ NG HNJ DZ UODEP, MAJ INBCQGOS, MAJ ZKMQICQ VKMA MAF VBNCJHCJ ZBNQJ, IDCQEDAH CLCA VN VKC JDLDJDAH MZOAJCQ NG ZNOS MAJ ZIDQDV, MAJ NG VKC WNDAVZ MAJ TMQQNB, MAJ DZ M JDZECQACQ NG VKC VKNOHKVZ MAJ DAVCAVZ NG VKC KCMQV.",
+   "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+   "credit": "Hebrews 4:12",
+   "hint": [
+    "A",
+    "N"
+   ]
+  }
+ }
+}
+;</script></head><body>
+<p class="note">Preview of the playable puzzle for the cipherisle.com home page. On the site it loads each day's puzzle automatically; here it falls back to today's built in if it can't reach the puzzle file.</p>
+<!-- cipherisle.com home page: the playable Quote / Verse of the Day (a Squarespace code block; needs the Core plan,
+     which allows scripts). Reads today/play.json from d0tus3r/cipherisle-assets, which the nightly job writes with
+     the same code as the day's images, so this block never needs editing. No outside scripts, no cookies, nothing
+     sent anywhere: progress is kept in this browser only (localStorage), and only for today's puzzle.
+     Preview: website/play-preview.html wraps this block in a page with a sample day built in. -->
+<style>
+.ci-play{max-width:900px;margin:0 auto;text-align:center;font-family:'IM Fell English',Georgia,serif;color:#E4E0D6;
+ background:linear-gradient(180deg,#16213A,#0B1220);border:1px solid rgba(226,184,101,.55);padding:22px 18px 26px;box-sizing:border-box}
+.ci-play *{box-sizing:border-box}
+.ci-play .k{color:#E2B865;font-family:'IM Fell English SC',Georgia,serif;letter-spacing:.12em;font-size:1rem;margin:0}
+.ci-play h2{color:#E4E0D6;font-size:clamp(1.6rem,4vw,2.3rem);margin:.1em 0 .1em;line-height:1.15}
+.ci-play .d{color:#B9C4CF;font-style:italic;margin:0 0 .9em}
+.ci-play .tabs{display:inline-flex;border:1px solid rgba(226,184,101,.6);margin:0 0 1em}
+.ci-play .tabs button{background:none;border:0;color:#E4E0D6;font:inherit;font-family:'IM Fell English SC',Georgia,serif;letter-spacing:.07em;padding:.35em 1.1em;cursor:pointer}
+.ci-play .tabs button.on{background:#E2B865;color:#0B1220}
+.ci-play .grid{display:flex;flex-wrap:wrap;justify-content:center;gap:14px 22px;margin:0 auto 1em;max-width:860px}
+.ci-play .w{display:flex;gap:3px;align-items:flex-end}
+.ci-play .c{display:flex;flex-direction:column;align-items:center;width:30px}
+.ci-play .c input{width:30px;height:36px;border:0;border-bottom:2px solid #E2B865;background:rgba(255,255,255,.04);color:#F3E7C4;
+ font:600 22px/1 Georgia,serif;text-align:center;text-transform:uppercase;padding:0;border-radius:3px 3px 0 0;caret-color:#E2B865}
+.ci-play .c input:focus{outline:none;background:rgba(226,184,101,.22)}
+.ci-play .c input.same{background:rgba(226,184,101,.12)}
+.ci-play .c input.given{color:#E2B865}
+.ci-play .c input.bad{color:#FF8A80;border-bottom-color:#FF8A80}
+.ci-play .c span{font:15px/1.6 Georgia,serif;color:#B9C4CF}
+.ci-play .p{display:flex;align-items:flex-end;font:600 22px/36px Georgia,serif;color:#E4E0D6;padding-bottom:24px}
+.ci-play .cr{color:#E2B865;font-style:italic;margin:.2em 0 .9em}
+.ci-play .bar{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:.4em 0 0}
+.ci-play .btn{background:rgba(22,33,58,.6);border:1px solid #E2B865;color:#E4E0D6;font:inherit;font-family:'IM Fell English SC',Georgia,serif;
+ letter-spacing:.07em;padding:.45em 1.2em;cursor:pointer;text-decoration:none!important;display:inline-block}
+.ci-play .btn:hover{background:rgba(226,184,101,.2)}
+.ci-play .btn.gold{background:#E2B865;color:#0B1220!important}
+.ci-play .msg{min-height:1.4em;color:#B9C4CF;margin:.7em 0 0;font-style:italic}
+.ci-play .done{display:none;margin:1em auto 0;max-width:620px;border-top:1px solid rgba(226,184,101,.5);padding-top:1em}
+.ci-play .done.on{display:block;animation:ciPop .5s ease-out}
+.ci-play .done h3{color:#E2B865;font-size:2rem;margin:.1em 0}
+.ci-play .stk{color:#E2B865;font-family:'IM Fell English SC',Georgia,serif;letter-spacing:.08em;margin:-.4em 0 .9em;min-height:1.2em}
+.ci-play .done .stk{margin:0 0 .5em}
+.ci-nlglow{animation:ciGlow 2.4s ease-out}
+@keyframes ciGlow{0%,40%{box-shadow:0 0 0 3px #E2B865,0 0 40px rgba(226,184,101,.5)}100%{box-shadow:none}}
+.ci-play .done p{margin:.3em 0 .9em}
+@keyframes ciPop{from{opacity:0;transform:scale(.96)}to{opacity:1;transform:none}}
+@media (max-width:600px){.ci-play .c{width:24px}.ci-play .c input{width:24px;height:31px;font-size:18px}.ci-play .grid{gap:10px 14px}.ci-play .p{font-size:18px;line-height:31px}}
+</style>
+<div class="ci-play" id="ciPlay">
+ <p class="k">Play today's puzzle</p>
+ <h2 id="ciT">Quote of the Day</h2>
+ <p class="d" id="ciD"></p>
+ <p class="stk" id="ciS"></p>
+ <div class="tabs" id="ciTabs"></div>
+ <div class="grid" id="ciG"><p class="msg">Loading today's puzzle…</p></div>
+ <p class="cr" id="ciC"></p>
+ <div class="bar"><button class="btn" id="ciHint">Hint</button><button class="btn" id="ciCheck">Check</button><button class="btn" id="ciShow">Show the answer</button></div>
+ <p class="msg" id="ciM">Each letter stands for another. Type a letter in any box and it fills every box with the same code letter.</p>
+ <div class="done" id="ciDone"><h3>Solved!</h3><p id="ciDT"></p>
+  <p class="stk" id="ciDS"></p>
+  <p>There's a new one here every day, and hundreds more in large print in our free app.</p>
+  <div class="bar"><a class="btn gold" href="https://play.google.com/store/apps/details?id=com.cipherisle.cryptogramclassics" target="_blank" rel="noopener">Get Cryptogram Classics</a><a class="btn" id="ciNL" href="https://cipherisle.com/newsletter" target="_top">Hear about new puzzles first</a></div></div>
+</div>
+<script>
+(function(){
+ var SRC='https://raw.githubusercontent.com/d0tus3r/cipherisle-assets/main/today/play.json';
+ var $=function(id){return document.getElementById(id)}, data=null, feed='quote', st={}, given={};
+ function key(){return 'ciplay:'+data.date+':'+feed}
+ function load(){try{st=JSON.parse(localStorage.getItem(key())||'{}')}catch(e){st={}}}
+ function save(){try{localStorage.setItem(key(),JSON.stringify(st))}catch(e){}}
+ function cur(){return data.feeds[feed]}
+ function streak(){try{return JSON.parse(localStorage.getItem('cistreak')||'{}')}catch(e){return {}}}
+ function dayBefore(d){var t=new Date(d+'T12:00');t.setDate(t.getDate()-1);return t.toISOString().slice(0,10)}
+ function showStreak(){var s=streak(),n=(s.last==data.date||s.last==dayBefore(data.date))?(s.n||0):0;
+  $('ciS').textContent=n>1?'Your streak: '+n+' days in a row'+(s.last==data.date?'':'. Solve today to keep it going'):'';
+  $('ciDS').textContent=s.last==data.date?(s.n>1?'Day '+s.n+' in a row!':'Day 1 of your streak. Come back tomorrow for day 2.'):''}
+ function solvedToday(){var s=streak(); if(s.last==data.date)return; s={last:data.date,n:s.last==dayBefore(data.date)?(s.n||0)+1:1};
+  try{localStorage.setItem('cistreak',JSON.stringify(s))}catch(e){} }
+ function render(){
+  var f=cur(); load(); given={}; if(f.hint)given[f.hint[0]]=f.hint[1];
+  $('ciT').textContent=f.title; $('ciC').textContent=''; $('ciDone').className='done';
+  var g=$('ciG'); g.innerHTML='';
+  f.cipher.split(' ').forEach(function(word){
+   var w=document.createElement('div'); w.className='w';
+   for(var i=0;i<word.length;i++){var ch=word[i];
+    if(/[A-Z]/.test(ch)){var c=document.createElement('div'); c.className='c';
+     var inp=document.createElement('input'); inp.maxLength=1; inp.dataset.code=ch; inp.setAttribute('aria-label','letter for code '+ch);
+     inp.autocomplete='off'; inp.spellcheck=false; inp.setAttribute('autocapitalize','characters');
+     if(given[ch]){inp.value=given[ch]; inp.readOnly=true; inp.className='given'} else if(st[ch]) inp.value=st[ch];
+     var s=document.createElement('span'); s.textContent=ch; c.appendChild(inp); c.appendChild(s); w.appendChild(c)}
+    else {var p=document.createElement('div'); p.className='p'; p.textContent=ch; w.appendChild(p)}}
+   g.appendChild(w)});
+  wire(); checkDone(false);
+ }
+ function boxes(){return Array.prototype.slice.call($('ciG').querySelectorAll('input'))}
+ function fill(code,v){boxes().forEach(function(b){if(b.dataset.code==code&&!b.readOnly){b.value=v;b.classList.remove('bad')}}); if(v)st[code]=v; else delete st[code]; save()}
+ function wire(){var bs=boxes();
+  bs.forEach(function(b,i){
+   b.addEventListener('focus',function(){bs.forEach(function(x){x.classList.toggle('same',x.dataset.code==b.dataset.code&&x!==b)})});
+   b.addEventListener('input',function(){var v=(b.value||'').replace(/[^a-z]/ig,'').slice(-1).toUpperCase(); fill(b.dataset.code,v);
+    if(v){for(var j=i+1;j<bs.length;j++){if(!bs[j].readOnly&&!bs[j].value){bs[j].focus();break}}} checkDone(true)});
+   b.addEventListener('keydown',function(e){
+    if(e.key=='Backspace'&&!b.value&&!b.readOnly){for(var j=i-1;j>=0;j--){if(!bs[j].readOnly){bs[j].focus();fill(bs[j].dataset.code,'');break}}e.preventDefault()}
+    if(e.key=='ArrowRight'&&bs[i+1])bs[i+1].focus(); if(e.key=='ArrowLeft'&&bs[i-1])bs[i-1].focus()});
+  })}
+ function answerFor(code){var f=cur(),t=f.text.toUpperCase(); return t[f.cipher.indexOf(code)]}
+ function checkDone(announce){var bs=boxes(); if(!bs.length)return;
+  var ok=bs.every(function(b){return b.value&&b.value==answerFor(b.dataset.code)});
+  if(ok){var f=cur(); $('ciC').textContent='— '+f.credit; $('ciDT').textContent='“'+f.text+'”'; $('ciDone').className='done on';
+   if(!st._shown)solvedToday(); showStreak();
+   $('ciM').textContent=announce?'Beautifully done.':''; boxes().forEach(function(b){b.readOnly=true})}
+ }
+ $('ciHint').onclick=function(){var open=boxes().filter(function(b){return !b.readOnly&&b.value!=answerFor(b.dataset.code)});
+  if(!open.length)return; var b=open[0]; given[b.dataset.code]=answerFor(b.dataset.code); fill(b.dataset.code,given[b.dataset.code]);
+  boxes().forEach(function(x){if(x.dataset.code==b.dataset.code){x.readOnly=true;x.className='given'}}); $('ciM').textContent='One letter filled in.'; checkDone(true)};
+ $('ciCheck').onclick=function(){var bad=0; boxes().forEach(function(b){if(b.value&&b.value!=answerFor(b.dataset.code)){b.classList.add('bad');bad++}});
+  $('ciM').textContent=bad?bad+' letter'+(bad>1?'s':'')+' marked in red.':'So far, so good.'};
+ $('ciShow').onclick=function(){st._shown=1; save();boxes().forEach(function(b){fill(b.dataset.code,answerFor(b.dataset.code))}); checkDone(false); $('ciM').textContent='Here it is. Come back tomorrow for a new one.'};
+ $('ciNL').onclick=function(e){var nb=document.querySelector('.sqs-block-newsletter'); if(!nb)return;
+  e.preventDefault(); nb.scrollIntoView({behavior:'smooth',block:'center'}); nb.classList.remove('ci-nlglow'); void nb.offsetWidth; nb.classList.add('ci-nlglow');
+  var em=nb.querySelector('input[type=email]'); if(em)setTimeout(function(){em.focus({preventScroll:true})},700)};
+ function tabs(){var t=$('ciTabs'); t.innerHTML=''; Object.keys(data.feeds).forEach(function(k){var b=document.createElement('button');
+  b.textContent=k=='quote'?'Quote':'Verse'; b.className=k==feed?'on':''; b.onclick=function(){feed=k;tabs();render()}; t.appendChild(b)});
+  t.style.display=Object.keys(data.feeds).length>1?'':'none'}
+ function start(d){data=d; if(!data.feeds[feed])feed=Object.keys(data.feeds)[0];
+  $('ciD').textContent=new Date(data.date+'T12:00').toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+  tabs(); render(); showStreak()}
+ ciPlay(SRC).then(start).catch(function(){
+  if(window.CI_PLAY_SAMPLE)start(window.CI_PLAY_SAMPLE); else $('ciG').innerHTML='<p class="msg">Today\'s puzzle didn\'t load. Try again in a moment.</p>'});
+})();
+</script>
+
+<div class="sqs-block-newsletter" style="max-width:900px;margin:30px auto;padding:24px;border:1px solid #333c55;color:#E4E0D6;text-align:center;font-family:Georgia,serif"><h3>New puzzles, first</h3><p>(Stand-in for the site's newsletter block)</p><input type="email" placeholder="Email Address" style="padding:8px;width:260px"></div>
+</body></html>
