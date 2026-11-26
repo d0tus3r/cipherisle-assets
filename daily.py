@@ -247,7 +247,10 @@ def build_play(day):
     """The playable puzzle and the three questions for one day, as data for the site."""
     items = calendar(day)
     quiz_items = dict(items)
-    for feed in ("word", "fact", "history"):
+    # Only the forgotten word may borrow from a nearby day. A Fact of the Day repeated from yesterday, or a
+    # Today in History about another date, is wrong (Nov 26): those plans now have an entry for every day,
+    # and a day without one just leaves its card out.
+    for feed in ("word",):
         for k in [-b for b in range(1, 31)] + list(range(1, 31)):
             if feed in quiz_items:
                 break
