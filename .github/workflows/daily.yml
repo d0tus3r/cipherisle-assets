@@ -2,6 +2,11 @@ name: Of the day
 on:
   schedule:
     - cron: "7 5 * * *"     # 12:07 am US Eastern (1:07 am in summer)
+    # GitHub often starts scheduled jobs hours late (Nov 23-25: about 10 hours), so a few more tries;
+    # each renders the same day, and an unchanged day commits nothing
+    - cron: "41 5 * * *"
+    - cron: "23 6 * * *"
+    - cron: "53 7 * * *"
   workflow_dispatch:
 permissions:
   contents: write
