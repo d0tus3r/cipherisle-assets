@@ -1,0 +1,70 @@
+{
+ "date": "2026-11-28",
+ "feeds": {
+  "quote": {
+   "title": "Quote of the Day",
+   "cipher": "WRXVFSR AUNBRTE LFAU AWIR BFHJTFSFAN, DQY HVYRBAN; DQY AUDA DTT HFYYTR AUFQMB KRALRRQ OFWAIR DQY OFSR DWR FQYFEERWRQA IQAV AURR.",
+   "text": "Rejoice thyself with true simplicity, and modesty; and that all middle things between virtue and vice are indifferent unto thee.",
+   "credit": "Marcus Aurelius",
+   "hint": [
+    "R",
+    "E"
+   ]
+  },
+  "verse": {
+   "title": "Verse of the Day",
+   "cipher": "RYH, EVKJBV Q SHWX EVMKJBV EVY LHWWYR KG EVY NVHUKS KG UYHEV, Q SQWW GYHM FK YLQW: GKM EVKJ HME SQEV PY; EVR MKU HFU EVR NEHGG EVYR IKPGKME PY.",
+   "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+   "credit": "Psalm 23:4",
+   "hint": [
+    "V",
+    "H"
+   ]
+  }
+ },
+ "quiz": [
+  {
+   "name": "word",
+   "title": "Forgotten word of the day",
+   "big": "debatement",
+   "sub": "noun",
+   "prompt": "What does it mean?",
+   "options": [
+    "Controversy; deliberation; debate.",
+    "The quality or state of being renewable.",
+    "A separator.",
+    "The atmosphere."
+   ],
+   "answer": 0,
+   "note": "Controversy; deliberation; debate."
+  },
+  {
+   "name": "fact",
+   "title": "Fact of the day",
+   "big": "In what year did the Battle of the Boyne take place?",
+   "options": [
+    "1690",
+    "1682",
+    "1710",
+    "1692"
+   ],
+   "answer": 0,
+   "note": "The Battle of the Boyne took place in 1690."
+  },
+  {
+   "name": "history",
+   "title": "Today in history",
+   "big": "November 28",
+   "sub": "Born on this day: Friedrich Engels, German philosopher, sociologist and economist",
+   "prompt": "What year was it?",
+   "options": [
+    "1790",
+    "1820",
+    "1830",
+    "1835"
+   ],
+   "answer": 1,
+   "note": "November 28, 1820"
+  }
+ ]
+}

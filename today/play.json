@@ -1,24 +1,24 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "feeds": {
   "quote": {
    "title": "Quote of the Day",
-   "cipher": "ZNWC LPJZNWYZLFP LJ ZOLJ: — ZF VCXNP ZF KLJO ZOXZ CXYO ZOLPQ JOFWVG YFEC ZF MXJJ XJ LZ GFCJ.",
-   "text": "True instruction is this: — to learn to wish that each thing should come to pass as it does.",
-   "credit": "Epictetus",
+   "cipher": "KJ KM D HXXP ULSLPN KR MXSL EDMLM YXU D SDR JX DIIVN BKSMLVY JX EKGKV DYYDKUM DRP IFQVKE QFMKRLMM; DRP NLJ, KR JBKM MJDJL XY VKYL JXX, CBDJ QLJCKZJ DSQKJKXR DRP EDVFSRN, KJ KM BDUPVN MDYL JX QL BXRLMJ.",
+   "text": "It is a good remedy in some cases for a man to apply himself to civil affairs and public business; and yet, in this state of life too, what betwixt ambition and calumny, it is hardly safe to be honest.",
+   "credit": "Lucius Annaeus Seneca",
    "hint": [
-    "Z",
-    "T"
+    "K",
+    "I"
    ]
   },
   "verse": {
    "title": "Verse of the Day",
-   "cipher": "CLS JN LWH HGYWCG KQS NAHGQCAT, K MGHX BHGNGQA TGUB JQ AHLWIUG.",
-   "text": "God is our refuge and strength, a very present help in trouble.",
-   "credit": "Psalm 46:1",
+   "cipher": "VI UPI NEI GQREN AB NEI JAPGZ. U WQNV NEUN QO OIN AL UL EQGG WULLAN XI EQZ.",
+   "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+   "credit": "Matthew 5:14",
    "hint": [
-    "G",
-    "E"
+    "N",
+    "T"
    ]
   }
  },
@@ -26,45 +26,45 @@
   {
    "name": "word",
    "title": "Forgotten word of the day",
-   "big": "touze",
-   "sub": "verb",
+   "big": "sparhawk",
+   "sub": "noun",
    "prompt": "What does it mean?",
    "options": [
-    "To make dry; to dry.",
-    "To pull; to haul; to tear; to worry.",
-    "To drive out; to expel.",
-    "To spring up; to germinate; to spring forward or outward."
+    "Indifference.",
+    "A speaking to another; an address.",
+    "The sparrow hawk.",
+    "Penuriousness."
    ],
-   "answer": 1,
-   "note": "To pull; to haul; to tear; to worry."
+   "answer": 2,
+   "note": "The sparrow hawk."
   },
   {
    "name": "fact",
    "title": "Fact of the day",
-   "big": "Port-au-Prince is the capital of which country?",
+   "big": "Who painted Whistler's Mother?",
    "options": [
-    "El Salvador",
-    "Haiti",
-    "Bosnia and Herzegovina",
-    "Guyana"
+    "Gustave Courbet",
+    "James McNeill Whistler",
+    "Francisco Goya",
+    "Edouard Manet"
    ],
    "answer": 1,
-   "note": "The capital of Haiti is Port-au-Prince."
+   "note": "Whistler's Mother was painted by James McNeill Whistler in 1871."
   },
   {
    "name": "history",
    "title": "Today in history",
-   "big": "November 26",
-   "sub": "Born on this day: William Cowper, English poet and hymnodist",
+   "big": "November 27",
+   "sub": "Born on this day: Bruce Lee, Hong Kong-American martial artist and actor",
    "prompt": "What year was it?",
    "options": [
-    "1716",
-    "1721",
-    "1726",
-    "1731"
+    "1937",
+    "1938",
+    "1939",
+    "1940"
    ],
    "answer": 3,
-   "note": "November 26, 1731"
+   "note": "November 27, 1940"
   }
  ]
 }
